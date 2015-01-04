@@ -1,0 +1,365 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-05 17:42+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Webmin isn't installed."
+msgstr ""
+
+msgid "fail."
+msgstr ""
+
+msgid "ok."
+msgstr ""
+
+msgid "Resets file permissions."
+msgstr ""
+
+msgid "Starts graphical XAMPP control panel"
+msgstr ""
+
+msgid "XAMPP is currently only availably as 32 bit application. Please use a 32 bit compatibility library for your system."
+msgstr ""
+
+msgid "Another web server is already running."
+msgstr ""
+
+msgid "Another web server with SSL is already running."
+msgstr ""
+
+msgid "Another FTP daemon is already running."
+msgstr ""
+
+msgid "Another MySQL daemon is already running."
+msgstr ""
+
+msgid "File permissions are being checked..."
+msgstr ""
+
+msgid "already running."
+msgstr ""
+
+msgid "not running."
+msgstr ""
+
+msgid "Start only Webmin"
+msgstr ""
+
+msgid "Stop only Webmin"
+msgstr ""
+
+msgid "Make backup file of your XAMPP config, log and data files"
+msgstr ""
+
+msgid "Which version of PHP is active?"
+msgstr ""
+
+msgid "Reload XAMPP (Apache, MySQL and eventually others)"
+msgstr ""
+
+msgid "Reload only Apache"
+msgstr ""
+
+msgid "Reload only ProFTPD"
+msgstr ""
+
+msgid "Reload only MySQL"
+msgstr ""
+
+msgid "Stop and start XAMPP"
+msgstr ""
+
+msgid "Check XAMPP's security"
+msgstr ""
+
+msgid "Start XAMPP (Apache, MySQL and eventually others)"
+msgstr ""
+
+msgid "Start only Apache"
+msgstr ""
+
+msgid "Start only ProFTPD"
+msgstr ""
+
+msgid "Start only MySQL"
+msgstr ""
+
+msgid "Stop XAMPP (Apache, MySQL and eventually others)"
+msgstr ""
+
+msgid "Stop only Apache"
+msgstr ""
+
+msgid "Stop only ProFTPD"
+msgstr ""
+
+msgid "Stop only MySQL"
+msgstr ""
+
+msgid "Reload XAMPP for %s %s..."
+msgstr ""
+
+msgid "Restarting XAMPP for %s %s..."
+msgstr ""
+
+msgid "Starting XAMPP for %s %s..."
+msgstr ""
+
+msgid "Stopping XAMPP for %s %s..."
+msgstr ""
+
+msgid "Usage: %s <action>"
+msgstr ""
+
+msgid "Version: XAMPP for %s %s"
+msgstr ""
+
+msgid "You need to be root to %s."
+msgstr ""
+
+msgid "perform this action"
+msgstr ""
+
+msgid "Contents of '%s':"
+msgstr ""
+
+msgid "Last 10 lines of '%s':"
+msgstr ""
+
+msgid "Reload %s..."
+msgstr ""
+
+msgid "Starting %s..."
+msgstr ""
+
+msgid "Stopping %s..."
+msgstr ""
+
+msgid "Show all installed PHP versions"
+msgstr ""
+
+msgid "Activate the given PHP version"
+msgstr ""
+
+msgid "Show the active PHP version"
+msgstr ""
+
+msgid "Install a given PHP version"
+msgstr ""
+
+msgid "Remove a given PHP version"
+msgstr ""
+
+msgid "Show this help message"
+msgstr ""
+
+msgid "Installed PHP Versions:"
+msgstr ""
+
+msgid "(active)"
+msgstr ""
+
+msgid "(not removable)"
+msgstr ""
+
+msgid "PHP %s is already active."
+msgstr ""
+
+msgid "PHP %s is not installed."
+msgstr ""
+
+msgid "Activate PHP %s..."
+msgstr ""
+
+msgid "Extract %s..."
+msgstr ""
+
+msgid "Not an XAMPP PHP!"
+msgstr ""
+
+msgid "Install %s..."
+msgstr ""
+
+msgid "already installed."
+msgstr ""
+
+msgid "PHP %s is currently active. Please activate another PHP."
+msgstr ""
+
+msgid "not installed."
+msgstr ""
+
+msgid "PHP %s is not removable."
+msgstr ""
+
+msgid "PHP %s is active."
+msgstr ""
+
+msgid "Enable SSL..."
+msgstr ""
+
+msgid "already enabled."
+msgstr ""
+
+msgid "Disable SSL..."
+msgstr ""
+
+msgid "already disabled."
+msgstr ""
+
+msgid "Enable SSL support for Apache"
+msgstr ""
+
+msgid "Disable SSL support for Apache"
+msgstr ""
+
+msgid "is running."
+msgstr ""
+
+msgid "is not running."
+msgstr ""
+
+msgid "is deactivated."
+msgstr ""
+
+msgid "SELinux is activated. Making XAMPP fit SELinux..."
+msgstr ""
+
+msgid "Please install gawk or mawk. I need this to continue..."
+msgstr ""
+
+msgid "Passwords doesn't match. Please try again."
+msgstr ""
+
+msgid "Please enter the path to your Oracle or Instant Client installation:"
+msgstr ""
+
+msgid "No such directory."
+msgstr ""
+
+msgid "Can't find libclntsh.so. Sorry."
+msgstr ""
+
+msgid "OCI8 add-on activation likely successful."
+msgstr ""
+
+msgid "The OCI8 add-on is currently not supported on your platform."
+msgstr ""
+
+msgid "Starting diagnose..."
+msgstr ""
+
+msgid "Your /etc/hosts is not okay. I will fix it."
+msgstr ""
+
+msgid "Make the httpd.conf fit your system."
+msgstr ""
+
+msgid "Sorry, I've no idea what's going wrong."
+msgstr ""
+
+msgid "Please contact our forum http://www.apachefriends.org/f/"
+msgstr ""
+
+msgid "Next try..."
+msgstr ""
+
+msgid "This script is currently not supported on your platform."
+msgstr ""
+
+msgid "Usage:"
+msgstr ""
+
+msgid "Sorry. Could not find your runlevel directory..."
+msgstr ""
+
+msgid "Setting up symlinks in %s..."
+msgstr ""
+
+msgid "Removing symlinks in %s..."
+msgstr ""
+
+msgid "The MySQL/phpMyAdmin user pma has a passwort set. Fine! :)"
+msgstr ""
+
+msgid "Setting phpMyAdmin's pma password to the new one."
+msgstr ""
+
+msgid "Setting new MySQL pma password."
+msgstr ""
+
+msgid "Password:"
+msgstr ""
+
+msgid "Password (again):"
+msgstr ""
+
+msgid "Do you want to set a password?"
+msgstr ""
+
+msgid "The MySQL/phpMyAdmin user pma has no password set!!!"
+msgstr ""
+
+msgid "MySQL has to run before I can check the security."
+msgstr ""
+
+msgid "MySQL is not accessable via network. Good."
+msgstr ""
+
+msgid "Turned off."
+msgstr ""
+
+msgid "Normaly that's not recommended. Do you want me to turn it off?"
+msgstr ""
+
+msgid "MySQL is accessable via network."
+msgstr ""
+
+msgid "MySQL has a root passwort set. Fine! :)"
+msgstr ""
+
+msgid "Change phpMyAdmin's authentication method."
+msgstr ""
+
+msgid "Setting new MySQL root password."
+msgstr ""
+
+msgid "Write the password somewhere down to make sure you won't forget it!!!"
+msgstr ""
+
+msgid "MySQL has no root passwort set!!!"
+msgstr ""
+
+msgid "Do you want to change the password anyway?"
+msgstr ""
+
+msgid "(But you didn't use ProFTPD so this is not critical.)"
+msgstr ""
+
+msgid "The FTP password for user 'nobody' is still set to 'xampp'."
+msgstr ""
+
+msgid "Password protection active. Please use 'xampp' as user name!"
+msgstr ""
+
+msgid "Your XAMPP pages are NOT secured by a password."
+msgstr ""
+
+msgid "Your XAMPP pages are secured by a password."
+msgstr ""
+
+msgid "Unknown command or add-on!"
+msgstr ""

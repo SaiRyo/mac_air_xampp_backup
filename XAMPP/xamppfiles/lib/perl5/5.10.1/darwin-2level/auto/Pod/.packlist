@@ -1,0 +1,16 @@
+/Applications/XAMPP/xamppfiles/bin/pod2man
+/Applications/XAMPP/xamppfiles/bin/pod2text
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/Pod/Man.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/Pod/ParseLink.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/Pod/Text.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/Pod/Text/Color.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/Pod/Text/Overstrike.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/Pod/Text/Termcap.pm
+/Applications/XAMPP/xamppfiles/share/man/man1/pod2man.1
+/Applications/XAMPP/xamppfiles/share/man/man1/pod2text.1
+/Applications/XAMPP/xamppfiles/share/man/man3/Pod::Man.3
+/Applications/XAMPP/xamppfiles/share/man/man3/Pod::ParseLink.3
+/Applications/XAMPP/xamppfiles/share/man/man3/Pod::Text.3
+/Applications/XAMPP/xamppfiles/share/man/man3/Pod::Text::Color.3
+/Applications/XAMPP/xamppfiles/share/man/man3/Pod::Text::Overstrike.3
+/Applications/XAMPP/xamppfiles/share/man/man3/Pod::Text::Termcap.3

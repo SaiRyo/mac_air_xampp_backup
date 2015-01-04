@@ -1,0 +1,1865 @@
+[Mon Sep 26 11:58:43 2011] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Sep 26 11:58:44 2011] [notice] Digest: generating secret for digest authentication ...
+[Mon Sep 26 11:58:44 2011] [notice] Digest: done
+[Mon Sep 26 11:58:44 2011] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Mon Sep 26 12:01:29 2011] [error] [client 133.101.217.20] Options ExecCGI is off in this directory: /Users/sawairyoutarou/Sites/webapp/test.cgi
+[Mon Sep 26 12:01:31 2011] [error] [client 133.101.217.20] Options ExecCGI is off in this directory: /Users/sawairyoutarou/Sites/webapp/test.cgi
+[Tue Sep 27 13:34:27 2011] [notice] caught SIGTERM, shutting down
+[Tue Sep 27 13:34:30 2011] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Sep 27 13:34:31 2011] [notice] Digest: generating secret for digest authentication ...
+[Tue Sep 27 13:34:31 2011] [notice] Digest: done
+[Tue Sep 27 13:34:31 2011] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Tue Sep 27 13:36:22 2011] [notice] caught SIGTERM, shutting down
+[Tue Sep 27 13:36:24 2011] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Sep 27 13:36:25 2011] [notice] Digest: generating secret for digest authentication ...
+[Tue Sep 27 13:36:25 2011] [notice] Digest: done
+[Tue Sep 27 13:36:25 2011] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Tue Sep 27 13:37:34 2011] [notice] caught SIGTERM, shutting down
+[Thu Dec 01 19:52:15 2011] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 01 19:52:16 2011] [notice] Digest: generating secret for digest authentication ...
+[Thu Dec 01 19:52:16 2011] [notice] Digest: done
+[Thu Dec 01 19:52:16 2011] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Thu Dec 01 19:53:22 2011] [notice] caught SIGTERM, shutting down
+[Tue Dec 24 12:41:14 2013] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 24 12:41:15 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Dec 24 12:41:15 2013] [notice] Digest: done
+[Tue Dec 24 12:41:15 2013] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Wed Dec 25 07:26:52 2013] [notice] caught SIGTERM, shutting down
+[Wed Dec 25 07:29:04 2013] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Dec 25 07:29:07 2013] [notice] Digest: generating secret for digest authentication ...
+[Wed Dec 25 07:29:07 2013] [notice] Digest: done
+[Wed Dec 25 07:29:10 2013] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sun Dec 29 10:35:38 2013] [notice] caught SIGTERM, shutting down
+[Tue Dec 31 10:36:08 2013] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 31 10:36:09 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Dec 31 10:36:09 2013] [notice] Digest: done
+[Tue Dec 31 10:36:09 2013] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sun Jan 05 23:37:56 2014] [notice] caught SIGTERM, shutting down
+[Sat Feb 22 06:35:41 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Feb 22 06:35:42 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Feb 22 06:35:42 2014] [notice] Digest: done
+[Sat Feb 22 06:35:42 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Feb 22 06:36:16 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/Users
+[Sat Feb 22 06:36:54 2014] [error] [client ::1] File does not exist: /Users/sawairyoutarou/Sites/Sites
+[Sat Feb 22 06:39:43 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/Users
+[Sat Feb 22 08:25:51 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/Users
+[Sat Feb 22 08:40:22 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/Users
+[Sat Feb 22 08:57:04 2014] [error] [client 192.168.11.5] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/Users
+[Sat Feb 22 12:22:16 2014] [error] slurp_filename('/Applications/XAMPP/xamppfiles/htdocs/xampp/guestbook-jp.pl') / opening: (2) No such file or directory at /Applications/XAMPP/xamppfiles/lib/perl5/site_perl/5.10.1/darwin-2level/ModPerl/RegistryCooker.pm line 541
+[Sat Feb 22 15:50:01 2014] [notice] caught SIGTERM, shutting down
+[Sat Feb 22 15:50:04 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Feb 22 15:50:05 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Feb 22 15:50:05 2014] [notice] Digest: done
+[Sat Feb 22 15:50:05 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Feb 22 15:56:17 2014] [error] slurp_filename('/Applications/XAMPP/xamppfiles/htdocs/xampp/guestbook-jp.pl') / opening: (2) No such file or directory at /Applications/XAMPP/xamppfiles/lib/perl5/site_perl/5.10.1/darwin-2level/ModPerl/RegistryCooker.pm line 541
+[Sat Feb 22 18:29:04 2014] [notice] child pid 83603 exit signal Bus error (10)
+[Sat Feb 22 18:29:08 2014] [notice] child pid 84258 exit signal Bus error (10)
+[Sat Feb 22 18:29:16 2014] [notice] child pid 83305 exit signal Bus error (10)
+[Sat Feb 22 18:29:22 2014] [notice] child pid 83402 exit signal Bus error (10)
+[Thu Feb 27 16:20:15 2014] [notice] caught SIGTERM, shutting down
+[Sun Mar 02 20:15:48 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Mar 02 20:15:49 2014] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 02 20:15:49 2014] [notice] Digest: done
+[Sun Mar 02 20:15:50 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Fri Mar 07 22:26:34 2014] [notice] caught SIGTERM, shutting down
+[Wed Mar 19 12:52:36 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Mar 19 12:52:37 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Mar 19 12:52:37 2014] [notice] Digest: done
+[Wed Mar 19 12:52:37 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Tue Apr 08 07:21:26 2014] [notice] caught SIGTERM, shutting down
+[Mon Apr 14 00:33:12 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Apr 14 00:33:13 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 14 00:33:13 2014] [notice] Digest: done
+[Mon Apr 14 00:33:13 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Mon Apr 14 00:33:31 2014] [error] [client ::1] user xampp: authentication failure for "/xampp/": Password Mismatch
+[Mon Apr 14 00:33:37 2014] [error] [client ::1] user xampp: authentication failure for "/xampp/": Password Mismatch
+[Mon Apr 14 00:34:19 2014] [error] [client ::1] user XAMPP not found: /xampp/
+[Wed Apr 16 22:51:34 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/phppgadmin
+[Wed Apr 16 22:51:55 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/phppgadmin
+[Wed Apr 16 22:52:03 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/phpgAdmin
+[Thu Apr 17 21:57:32 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/phpgAdmin
+[Sat Apr 19 23:22:27 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/staff
+[Sat Apr 26 08:42:11 2014] [notice] caught SIGTERM, shutting down
+[Wed Apr 30 01:08:38 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 30 01:08:39 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Apr 30 01:08:39 2014] [notice] Digest: done
+[Wed Apr 30 01:08:39 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Wed Apr 30 01:23:30 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/shopping
+[Wed Apr 30 01:28:24 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/cake
+[Fri May 02 12:09:51 2014] [notice] caught SIGTERM, shutting down
+[Fri May 02 17:33:22 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri May 02 17:33:23 2014] [notice] Digest: generating secret for digest authentication ...
+[Fri May 02 17:33:23 2014] [notice] Digest: done
+[Fri May 02 17:33:23 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sun May 04 13:53:24 2014] [notice] caught SIGTERM, shutting down
+[Mon May 05 16:36:30 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon May 05 16:36:31 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon May 05 16:36:31 2014] [notice] Digest: done
+[Mon May 05 16:36:31 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Tue May 06 10:20:18 2014] [notice] caught SIGTERM, shutting down
+[Tue May 06 14:01:12 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue May 06 14:01:13 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue May 06 14:01:13 2014] [notice] Digest: done
+[Tue May 06 14:01:13 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Tue May 06 16:37:53 2014] [error] [client ::1] user pma not found: /phpmyadmin/index.php
+[Tue May 06 16:38:32 2014] [error] [client ::1] user XAMPP not found: /phpmyadmin/index.php
+[Tue May 06 16:38:41 2014] [error] [client ::1] user pma not found: /phpmyadmin/index.php
+[Tue May 06 16:38:52 2014] [error] [client ::1] user XAMPP not found: /phpmyadmin/index.php
+[Tue May 06 16:39:49 2014] [error] [client ::1] user root not found: /phpmyadmin/index.php
+[Tue May 06 16:39:58 2014] [error] [client ::1] user  not found: /phpmyadmin/index.php
+[Tue May 06 16:40:08 2014] [error] [client ::1] user XAMPP not found: /phpmyadmin/index.php
+[Sat May 10 11:08:09 2014] [error] [client ::1] user xampp: authentication failure for "/phpmyadmin/index.php": Password Mismatch, referer: http://localhost/phpmyadmin/index.php?token=ed855f88a59ff101b43302b611429c3a
+[Sat May 10 11:08:09 2014] [error] [client ::1] user xampp: authentication failure for "/xampp/": Password Mismatch
+[Sat May 10 11:08:40 2014] [error] [client ::1] user XAMPP not found: /phpmyadmin/index.php, referer: http://localhost/phpmyadmin/index.php?token=ed855f88a59ff101b43302b611429c3a
+[Sat May 10 11:08:40 2014] [error] [client ::1] user XAMPP not found: /xampp/
+[Sat May 10 11:08:51 2014] [error] [client ::1] user XAMPP not found: /xampp/
+[Sat May 10 11:08:52 2014] [error] [client ::1] user XAMPP not found: /phpmyadmin/index.php, referer: http://localhost/phpmyadmin/index.php?token=ed855f88a59ff101b43302b611429c3a
+[Sat May 10 11:10:05 2014] [error] [client ::1] user xampp: authentication failure for "/xampp/": Password Mismatch
+[Sat May 10 11:10:05 2014] [error] [client ::1] user xampp: authentication failure for "/phpmyadmin/index.php": Password Mismatch, referer: http://localhost/phpmyadmin/index.php?token=ed855f88a59ff101b43302b611429c3a
+[Sat May 10 11:10:12 2014] [error] [client ::1] user xampp: authentication failure for "/phpmyadmin/index.php": Password Mismatch, referer: http://localhost/phpmyadmin/index.php?token=ed855f88a59ff101b43302b611429c3a
+[Sat May 10 11:10:12 2014] [error] [client ::1] user xampp: authentication failure for "/xampp/": Password Mismatch
+[Sat May 10 11:10:19 2014] [error] [client ::1] user xampp: authentication failure for "/phpmyadmin/index.php": Password Mismatch, referer: http://localhost/phpmyadmin/index.php?token=ed855f88a59ff101b43302b611429c3a
+[Sat May 10 11:10:19 2014] [error] [client ::1] user xampp: authentication failure for "/xampp/": Password Mismatch
+[Sun May 11 00:08:15 2014] [error] [client ::1] user xampp: authentication failure for "/xampp/": Password Mismatch
+[Sun May 11 00:08:15 2014] [error] [client ::1] user xampp: authentication failure for "/phpmyadmin/index.php": Password Mismatch, referer: http://localhost/phpmyadmin/index.php?token=ed855f88a59ff101b43302b611429c3a
+[Sun May 11 00:08:25 2014] [error] [client ::1] user xampp: authentication failure for "/xampp/": Password Mismatch
+[Sun May 11 00:08:25 2014] [error] [client ::1] user xampp: authentication failure for "/phpmyadmin/index.php": Password Mismatch, referer: http://localhost/phpmyadmin/index.php?token=ed855f88a59ff101b43302b611429c3a
+[Sun May 11 00:08:33 2014] [error] [client ::1] user xampp: authentication failure for "/xampp/": Password Mismatch
+[Sun May 11 00:08:33 2014] [error] [client ::1] user xampp: authentication failure for "/phpmyadmin/index.php": Password Mismatch, referer: http://localhost/phpmyadmin/index.php?token=ed855f88a59ff101b43302b611429c3a
+[Sun May 11 00:08:41 2014] [error] [client ::1] user xampp: authentication failure for "/phpmyadmin/index.php": Password Mismatch, referer: http://localhost/phpmyadmin/index.php?token=ed855f88a59ff101b43302b611429c3a
+[Sun May 11 00:08:41 2014] [error] [client ::1] user xampp: authentication failure for "/xampp/": Password Mismatch
+[Sun May 11 00:09:00 2014] [error] [client ::1] user xampp: authentication failure for "/xampp/": Password Mismatch
+[Sun May 11 00:09:00 2014] [error] [client ::1] user xampp: authentication failure for "/phpmyadmin/index.php": Password Mismatch, referer: http://localhost/phpmyadmin/index.php?token=ed855f88a59ff101b43302b611429c3a
+[Sun May 11 10:35:05 2014] [notice] caught SIGTERM, shutting down
+[Sun May 11 17:39:56 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun May 11 17:39:57 2014] [notice] Digest: generating secret for digest authentication ...
+[Sun May 11 17:39:57 2014] [notice] Digest: done
+[Sun May 11 17:39:57 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Mon May 12 23:01:57 2014] [notice] child pid 6802 exit signal Bus error (10)
+[Mon May 12 23:02:07 2014] [notice] child pid 6804 exit signal Bus error (10)
+[Mon May 12 23:02:22 2014] [notice] caught SIGTERM, shutting down
+[Mon May 12 23:02:24 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon May 12 23:02:25 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon May 12 23:02:25 2014] [notice] Digest: done
+[Mon May 12 23:02:25 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Mon May 12 23:02:30 2014] [notice] child pid 17999 exit signal Bus error (10)
+[Mon May 12 23:02:33 2014] [notice] child pid 18001 exit signal Bus error (10)
+[Mon May 12 23:03:23 2014] [notice] child pid 18002 exit signal Bus error (10)
+[Mon May 12 23:03:34 2014] [notice] child pid 18005 exit signal Bus error (10)
+[Mon May 12 23:03:35 2014] [notice] child pid 18041 exit signal Bus error (10)
+[Mon May 12 23:04:53 2014] [notice] child pid 18036 exit signal Bus error (10)
+[Mon May 12 23:05:04 2014] [notice] child pid 18084 exit signal Bus error (10)
+[Mon May 12 23:05:09 2014] [notice] child pid 18085 exit signal Bus error (10)
+[Mon May 12 23:05:14 2014] [notice] child pid 18088 exit signal Bus error (10)
+[Mon May 12 23:05:33 2014] [notice] child pid 18089 exit signal Bus error (10)
+[Mon May 12 23:06:45 2014] [notice] child pid 18091 exit signal Bus error (10)
+[Mon May 12 23:13:05 2014] [notice] child pid 18090 exit signal Bus error (10)
+[Mon May 12 23:13:07 2014] [notice] child pid 18040 exit signal Bus error (10)
+[Tue May 13 07:49:42 2014] [notice] child pid 18086 exit signal Bus error (10)
+[Tue May 13 22:55:12 2014] [notice] child pid 18006 exit signal Bus error (10)
+[Tue May 13 22:55:30 2014] [notice] child pid 18003 exit signal Bus error (10)
+[Tue May 13 22:55:49 2014] [notice] child pid 18004 exit signal Bus error (10)
+[Tue May 13 23:10:16 2014] [notice] child pid 19873 exit signal Bus error (10)
+[Tue May 13 23:11:38 2014] [notice] child pid 20396 exit signal Bus error (10)
+[Tue May 13 23:12:31 2014] [notice] child pid 18039 exit signal Bus error (10)
+[Tue May 13 23:12:36 2014] [notice] child pid 20398 exit signal Bus error (10)
+[Tue May 13 23:13:14 2014] [notice] caught SIGTERM, shutting down
+[Tue May 13 23:13:16 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue May 13 23:13:17 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue May 13 23:13:17 2014] [notice] Digest: done
+[Tue May 13 23:13:17 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Tue May 13 23:13:17 2014] [notice] caught SIGTERM, shutting down
+[Tue May 13 23:13:19 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue May 13 23:13:20 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue May 13 23:13:20 2014] [notice] Digest: done
+[Tue May 13 23:13:20 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Tue May 13 23:13:29 2014] [notice] child pid 20974 exit signal Bus error (10)
+[Tue May 13 23:13:30 2014] [notice] child pid 20973 exit signal Bus error (10)
+[Tue May 13 23:13:30 2014] [notice] child pid 20972 exit signal Bus error (10)
+[Tue May 13 23:13:31 2014] [notice] child pid 20980 exit signal Bus error (10)
+[Tue May 13 23:13:34 2014] [notice] child pid 20981 exit signal Bus error (10)
+[Tue May 13 23:13:35 2014] [notice] child pid 20982 exit signal Bus error (10)
+[Tue May 13 23:49:52 2014] [notice] caught SIGTERM, shutting down
+[Sat May 17 14:50:13 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat May 17 14:50:14 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat May 17 14:50:14 2014] [notice] Digest: done
+[Sat May 17 14:50:14 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat May 17 14:50:26 2014] [error] [client ::1] user xampp: authentication failure for "/xampp/": Password Mismatch
+[Sat May 17 14:51:08 2014] [notice] child pid 27354 exit signal Bus error (10)
+[Sat May 17 14:51:09 2014] [notice] child pid 27356 exit signal Bus error (10)
+[Sat May 17 14:51:28 2014] [notice] child pid 27355 exit signal Bus error (10)
+[Sat May 17 14:51:33 2014] [notice] child pid 27358 exit signal Bus error (10)
+[Sat May 17 14:52:00 2014] [notice] child pid 27359 exit signal Bus error (10)
+[Sat May 17 14:52:15 2014] [notice] child pid 27357 exit signal Bus error (10)
+[Sat May 17 14:52:19 2014] [notice] child pid 27360 exit signal Bus error (10)
+[Sat May 17 14:52:30 2014] [notice] child pid 27401 exit signal Bus error (10)
+[Sat May 17 14:54:13 2014] [notice] child pid 27450 exit signal Bus error (10)
+[Sat May 17 14:54:17 2014] [notice] child pid 27452 exit signal Bus error (10)
+[Sat May 17 14:54:29 2014] [notice] child pid 27399 exit signal Bus error (10)
+[Sat May 17 14:56:38 2014] [notice] child pid 27524 exit signal Bus error (10)
+[Sat May 17 14:56:41 2014] [notice] child pid 27526 exit signal Bus error (10)
+[Sat May 17 14:58:12 2014] [notice] child pid 27522 exit signal Bus error (10)
+[Sat May 17 15:18:02 2014] [notice] child pid 28269 exit signal Bus error (10)
+[Sat May 17 15:18:03 2014] [notice] child pid 28268 exit signal Bus error (10)
+[Sat May 17 15:18:03 2014] [notice] child pid 28261 exit signal Bus error (10)
+[Sat May 17 15:18:03 2014] [notice] child pid 27361 exit signal Bus error (10)
+[Sat May 17 15:18:04 2014] [notice] child pid 27400 exit signal Bus error (10)
+[Sat May 17 18:02:29 2014] [notice] child pid 30108 exit signal Bus error (10)
+[Sun May 18 11:52:25 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun May 18 11:52:26 2014] [notice] Digest: generating secret for digest authentication ...
+[Sun May 18 11:52:26 2014] [notice] Digest: done
+[Sun May 18 11:52:27 2014] [warn] pid file /Applications/XAMPP/xamppfiles/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 18 11:52:27 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sun May 18 11:55:35 2014] [notice] child pid 3414 exit signal Bus error (10)
+[Sun May 18 11:55:36 2014] [notice] child pid 3544 exit signal Bus error (10)
+[Sun May 18 22:34:25 2014] [notice] child pid 3543 exit signal Bus error (10)
+[Sun May 18 22:34:27 2014] [notice] child pid 3557 exit signal Bus error (10)
+[Sun May 18 22:34:38 2014] [notice] child pid 8047 exit signal Bus error (10)
+[Sun May 18 22:34:49 2014] [notice] child pid 8046 exit signal Bus error (10)
+[Mon May 19 23:31:05 2014] [notice] child pid 14251 exit signal Bus error (10)
+[Mon May 19 23:37:30 2014] [notice] child pid 8048 exit signal Bus error (10)
+[Tue May 20 22:51:52 2014] [notice] child pid 3558 exit signal Bus error (10)
+[Tue May 20 22:52:00 2014] [notice] child pid 8050 exit signal Bus error (10)
+[Tue May 20 22:52:28 2014] [notice] child pid 14747 exit signal Bus error (10)
+[Tue May 20 22:52:29 2014] [notice] child pid 3559 exit signal Bus error (10)
+[Tue May 20 22:52:41 2014] [notice] caught SIGTERM, shutting down
+[Tue May 20 22:52:44 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue May 20 22:52:45 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue May 20 22:52:45 2014] [notice] Digest: done
+[Tue May 20 22:52:45 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Tue May 20 22:53:01 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Tue May 20 22:54:40 2014] [notice] child pid 17645 exit signal Bus error (10)
+[Tue May 20 22:58:24 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Tue May 20 23:00:03 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Tue May 20 23:00:21 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cakephp
+[Tue May 20 23:00:58 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Tue May 20 23:01:02 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Wed May 21 22:58:15 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sat May 24 22:08:19 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat May 24 22:08:20 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat May 24 22:08:20 2014] [notice] Digest: done
+[Sat May 24 22:08:20 2014] [warn] pid file /Applications/XAMPP/xamppfiles/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat May 24 22:08:20 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat May 24 22:08:37 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sat May 24 22:08:44 2014] [notice] child pid 26790 exit signal Bus error (10)
+[Sat May 24 22:08:45 2014] [notice] child pid 26791 exit signal Bus error (10)
+[Sat May 24 22:08:45 2014] [notice] child pid 26784 exit signal Bus error (10)
+[Sat May 24 22:08:46 2014] [notice] child pid 26794 exit signal Bus error (10)
+[Sat May 24 22:13:29 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/cake
+[Sat May 24 22:13:54 2014] [notice] child pid 26788 exit signal Bus error (10)
+[Sat May 24 22:13:55 2014] [notice] child pid 26789 exit signal Bus error (10)
+[Sat May 24 22:13:55 2014] [notice] child pid 26787 exit signal Bus error (10)
+[Sat May 24 22:13:56 2014] [notice] child pid 26862 exit signal Bus error (10)
+[Sat May 24 22:15:30 2014] [notice] child pid 26796 exit signal Bus error (10)
+[Sat May 24 22:15:30 2014] [notice] child pid 26795 exit signal Bus error (10)
+[Sat May 24 22:15:31 2014] [notice] child pid 26875 exit signal Bus error (10)
+[Sat May 24 22:15:31 2014] [notice] child pid 26785 exit signal Bus error (10)
+[Sat May 24 22:15:46 2014] [notice] child pid 27066 exit signal Bus error (10)
+[Sat May 24 22:15:46 2014] [notice] child pid 27064 exit signal Bus error (10)
+[Sat May 24 22:15:47 2014] [notice] child pid 27069 exit signal Bus error (10)
+[Sat May 24 22:15:47 2014] [notice] child pid 27067 exit signal Bus error (10)
+[Sat May 24 22:57:06 2014] [notice] child pid 27071 exit signal Bus error (10)
+[Sat May 24 22:57:07 2014] [notice] child pid 27072 exit signal Bus error (10)
+[Sat May 24 22:57:07 2014] [notice] child pid 27070 exit signal Bus error (10)
+[Sat May 24 22:57:08 2014] [notice] child pid 26786 exit signal Bus error (10)
+[Mon May 26 22:23:47 2014] [notice] child pid 27459 exit signal Bus error (10)
+[Mon May 26 22:23:47 2014] [notice] child pid 27073 exit signal Bus error (10)
+[Mon May 26 22:23:51 2014] [notice] child pid 45388 exit signal Bus error (10)
+[Mon May 26 22:23:56 2014] [notice] child pid 45400 exit signal Bus error (10)
+[Mon May 26 22:23:59 2014] [notice] child pid 45401 exit signal Bus error (10)
+[Mon May 26 22:35:15 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Mon May 26 22:35:15 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Mon May 26 22:35:21 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Mon May 26 22:35:27 2014] [notice] child pid 45842 exit signal Bus error (10)
+[Mon May 26 22:35:28 2014] [notice] child pid 45843 exit signal Bus error (10)
+[Mon May 26 22:36:28 2014] [notice] child pid 45844 exit signal Bus error (10)
+[Mon May 26 22:36:29 2014] [notice] child pid 45845 exit signal Bus error (10)
+[Mon May 26 22:37:09 2014] [notice] child pid 45847 exit signal Bus error (10)
+[Mon May 26 22:37:09 2014] [notice] child pid 45846 exit signal Bus error (10)
+[Mon May 26 22:38:33 2014] [notice] child pid 27368 exit signal Bus error (10)
+[Mon May 26 22:38:33 2014] [notice] child pid 27367 exit signal Bus error (10)
+[Mon May 26 22:38:54 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Tue May 27 21:22:57 2014] [notice] child pid 46005 exit signal Bus error (10)
+[Tue May 27 21:22:57 2014] [notice] child pid 45992 exit signal Bus error (10)
+[Tue May 27 21:22:58 2014] [notice] child pid 45994 exit signal Bus error (10)
+[Tue May 27 21:22:58 2014] [notice] child pid 45993 exit signal Bus error (10)
+[Tue May 27 21:22:59 2014] [notice] child pid 46002 exit signal Bus error (10)
+[Tue May 27 21:23:00 2014] [notice] child pid 46003 exit signal Bus error (10)
+[Thu May 29 20:45:26 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sat May 31 14:05:33 2014] [notice] child pid 51280 exit signal Bus error (10)
+[Sat May 31 14:05:33 2014] [notice] child pid 27366 exit signal Bus error (10)
+[Sat May 31 14:05:34 2014] [notice] child pid 51283 exit signal Bus error (10)
+[Sat May 31 14:05:34 2014] [notice] child pid 51282 exit signal Bus error (10)
+[Sat May 31 14:05:35 2014] [notice] child pid 51284 exit signal Bus error (10)
+[Sat May 31 14:05:36 2014] [notice] child pid 45405 exit signal Bus error (10)
+[Sat May 31 14:05:36 2014] [notice] child pid 45397 exit signal Bus error (10)
+[Sat May 31 14:09:54 2014] [notice] child pid 46004 exit signal Bus error (10)
+[Sat May 31 14:09:55 2014] [notice] child pid 51279 exit signal Bus error (10)
+[Sat May 31 14:09:56 2014] [notice] child pid 91733 exit signal Bus error (10)
+[Sat May 31 14:09:56 2014] [notice] child pid 51281 exit signal Bus error (10)
+[Sat May 31 14:09:57 2014] [notice] child pid 91854 exit signal Bus error (10)
+[Sat May 31 14:09:57 2014] [notice] child pid 91739 exit signal Bus error (10)
+[Sat May 31 14:11:33 2014] [notice] child pid 91860 exit signal Bus error (10)
+[Sat May 31 14:11:34 2014] [notice] child pid 91863 exit signal Bus error (10)
+[Sat May 31 14:11:34 2014] [notice] child pid 91861 exit signal Bus error (10)
+[Sat May 31 14:11:35 2014] [notice] child pid 91865 exit signal Bus error (10)
+[Sat May 31 14:11:36 2014] [notice] child pid 91864 exit signal Bus error (10)
+[Sat May 31 14:11:47 2014] [notice] child pid 91859 exit signal Bus error (10)
+[Sat May 31 14:11:48 2014] [notice] child pid 91858 exit signal Bus error (10)
+[Sat May 31 14:11:48 2014] [notice] child pid 91856 exit signal Bus error (10)
+[Sat May 31 14:11:52 2014] [notice] child pid 91901 exit signal Bus error (10)
+[Sat May 31 14:11:53 2014] [notice] child pid 91907 exit signal Bus error (10)
+[Sat May 31 15:57:13 2014] [notice] child pid 91909 exit signal Bus error (10)
+[Sat May 31 15:57:13 2014] [notice] child pid 91857 exit signal Bus error (10)
+[Sat May 31 15:57:14 2014] [notice] child pid 91923 exit signal Bus error (10)
+[Sat May 31 15:57:14 2014] [notice] child pid 91921 exit signal Bus error (10)
+[Sat May 31 16:06:18 2014] [notice] child pid 92326 exit signal Bus error (10)
+[Sat May 31 16:06:19 2014] [notice] child pid 92328 exit signal Bus error (10)
+[Sat May 31 16:06:20 2014] [notice] child pid 92329 exit signal Bus error (10)
+[Sat May 31 16:06:20 2014] [notice] child pid 92327 exit signal Bus error (10)
+[Sat May 31 16:06:22 2014] [notice] child pid 92337 exit signal Bus error (10)
+[Sat May 31 16:06:22 2014] [notice] child pid 92336 exit signal Bus error (10)
+[Sat May 31 16:06:23 2014] [notice] child pid 91922 exit signal Bus error (10)
+zend_mm_heap corrupted
+[Sat May 31 16:06:57 2014] [notice] child pid 91908 exit signal Bus error (10)
+zend_mm_heap corrupted
+zend_mm_heap corrupted
+[Sat May 31 16:07:08 2014] [notice] child pid 92475 exit signal Bus error (10)
+[Sat May 31 16:07:47 2014] [notice] child pid 92525 exit signal Bus error (10)
+[Sat May 31 16:07:58 2014] [notice] child pid 92526 exit signal Segmentation fault (11)
+[Sat May 31 16:07:59 2014] [notice] child pid 92478 exit signal Segmentation fault (11)
+[Sat May 31 16:27:38 2014] [notice] child pid 92517 exit signal Bus error (10)
+[Sat May 31 16:27:38 2014] [notice] child pid 92477 exit signal Bus error (10)
+[Sat May 31 16:36:33 2014] [notice] caught SIGTERM, shutting down
+[Sat May 31 17:08:46 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat May 31 17:08:47 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat May 31 17:08:47 2014] [notice] Digest: done
+[Sat May 31 17:08:47 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat May 31 17:08:55 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sat May 31 17:08:56 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sat May 31 17:08:56 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sat May 31 17:08:57 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sat May 31 17:08:57 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sat May 31 17:08:57 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sat May 31 17:08:58 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sat May 31 17:08:58 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sat May 31 17:09:12 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sat May 31 17:17:01 2014] [notice] caught SIGTERM, shutting down
+[Sat May 31 17:17:04 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat May 31 17:17:05 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat May 31 17:17:05 2014] [notice] Digest: done
+[Sat May 31 17:17:05 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat May 31 17:17:09 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sat May 31 17:17:14 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cakephp
+zend_mm_heap corrupted
+zend_mm_heap corrupted
+zend_mm_heap corrupted
+[Sat May 31 18:05:43 2014] [notice] child pid 93508 exit signal Bus error (10)
+[Sun Jun 01 23:29:06 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sun Jun 01 23:29:15 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sun Jun 01 23:29:38 2014] [notice] child pid 6527 exit signal Bus error (10)
+[Sun Jun 01 23:29:38 2014] [notice] child pid 6526 exit signal Bus error (10)
+[Sun Jun 01 23:29:39 2014] [notice] child pid 93515 exit signal Bus error (10)
+[Sun Jun 01 23:29:40 2014] [notice] child pid 93510 exit signal Bus error (10)
+[Sun Jun 01 23:29:41 2014] [notice] child pid 6528 exit signal Bus error (10)
+[Sun Jun 01 23:29:41 2014] [notice] child pid 93519 exit signal Bus error (10)
+[Sun Jun 01 23:29:42 2014] [notice] child pid 93518 exit signal Bus error (10)
+[Mon Jun 02 01:21:43 2014] [notice] child pid 93512 exit signal Bus error (10)
+[Mon Jun 02 01:21:44 2014] [notice] child pid 18113 exit signal Bus error (10)
+[Mon Jun 02 01:21:44 2014] [notice] child pid 18110 exit signal Bus error (10)
+[Mon Jun 02 01:21:45 2014] [notice] child pid 19377 exit signal Bus error (10)
+[Mon Jun 02 01:21:46 2014] [notice] child pid 19379 exit signal Bus error (10)
+[Mon Jun 02 01:21:46 2014] [notice] child pid 19378 exit signal Bus error (10)
+[Mon Jun 02 01:21:47 2014] [notice] child pid 19381 exit signal Bus error (10)
+[Mon Jun 02 01:25:44 2014] [notice] child pid 19380 exit signal Bus error (10)
+[Mon Jun 02 01:25:45 2014] [notice] child pid 19383 exit signal Bus error (10)
+[Mon Jun 02 01:25:45 2014] [notice] child pid 19382 exit signal Bus error (10)
+[Mon Jun 02 01:25:46 2014] [notice] child pid 93509 exit signal Bus error (10)
+[Mon Jun 02 01:25:47 2014] [notice] child pid 19538 exit signal Bus error (10)
+[Mon Jun 02 01:25:47 2014] [notice] child pid 18114 exit signal Bus error (10)
+[Mon Jun 02 02:04:54 2014] [notice] child pid 19590 exit signal Bus error (10)
+[Mon Jun 02 02:04:55 2014] [notice] child pid 19591 exit signal Bus error (10)
+[Mon Jun 02 02:04:56 2014] [notice] child pid 19662 exit signal Bus error (10)
+[Mon Jun 02 02:04:56 2014] [notice] child pid 19592 exit signal Bus error (10)
+[Mon Jun 02 02:04:57 2014] [notice] child pid 19593 exit signal Bus error (10)
+[Mon Jun 02 02:04:57 2014] [notice] child pid 19542 exit signal Bus error (10)
+[Mon Jun 02 02:05:03 2014] [notice] child pid 19543 exit signal Bus error (10)
+[Mon Jun 02 02:05:03 2014] [notice] child pid 19540 exit signal Bus error (10)
+[Mon Jun 02 02:05:04 2014] [notice] child pid 19541 exit signal Bus error (10)
+[Mon Jun 02 02:05:05 2014] [notice] child pid 20566 exit signal Bus error (10)
+[Mon Jun 02 02:05:05 2014] [notice] child pid 19544 exit signal Bus error (10)
+[Mon Jun 02 02:05:28 2014] [notice] child pid 20567 exit signal Bus error (10)
+[Mon Jun 02 02:05:29 2014] [notice] child pid 20569 exit signal Bus error (10)
+[Mon Jun 02 02:05:29 2014] [notice] child pid 20568 exit signal Bus error (10)
+[Mon Jun 02 02:05:30 2014] [notice] child pid 20571 exit signal Bus error (10)
+[Mon Jun 02 02:05:46 2014] [notice] child pid 20573 exit signal Bus error (10)
+[Mon Jun 02 02:05:47 2014] [notice] child pid 20574 exit signal Bus error (10)
+[Mon Jun 02 02:06:42 2014] [notice] child pid 20600 exit signal Bus error (10)
+[Mon Jun 02 02:06:43 2014] [notice] child pid 20601 exit signal Bus error (10)
+[Mon Jun 02 02:06:44 2014] [notice] child pid 20602 exit signal Bus error (10)
+[Mon Jun 02 02:07:43 2014] [notice] child pid 20645 exit signal Bus error (10)
+[Mon Jun 02 02:07:43 2014] [notice] child pid 20616 exit signal Bus error (10)
+[Mon Jun 02 02:07:44 2014] [notice] child pid 20646 exit signal Bus error (10)
+[Mon Jun 02 02:07:45 2014] [notice] child pid 20599 exit signal Bus error (10)
+[Sat Jun 07 22:51:06 2014] [notice] caught SIGTERM, shutting down
+[Sun Jun 08 15:02:53 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jun 08 15:02:54 2014] [notice] Digest: generating secret for digest authentication ...
+[Sun Jun 08 15:02:54 2014] [notice] Digest: done
+[Sun Jun 08 15:02:54 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sun Jun 08 15:40:17 2014] [error] [client ::1] script '/Applications/XAMPP/xamppfiles/htdocs/staff/staff_add_done.php' not found or unable to stat, referer: http://localhost/staff/staff_add_check.php
+[Sun Jun 08 16:21:22 2014] [notice] child pid 7519 exit signal Segmentation fault (11)
+[Sun Jun 08 23:52:11 2014] [notice] child pid 7520 exit signal Segmentation fault (11)
+[Sun Jun 08 23:59:00 2014] [error] [client ::1] script '/Applications/XAMPP/xamppfiles/htdocs/staff/staff_add_done.php' not found or unable to stat, referer: http://localhost/staff/staff_add_check.php
+[Mon Jun 09 08:24:25 2014] [error] [client ::1] script '/Applications/XAMPP/xamppfiles/htdocs/staff/staff_list.php' not found or unable to stat, referer: http://localhost/staff/staff_add_done.php
+[Wed Jul 02 22:36:42 2014] [notice] child pid 68351 exit signal Bus error (10)
+[Wed Jul 02 22:36:44 2014] [notice] child pid 25175 exit signal Bus error (10)
+[Wed Jul 02 22:36:47 2014] [notice] child pid 53661 exit signal Bus error (10)
+[Wed Jul 02 22:36:48 2014] [notice] child pid 82300 exit signal Bus error (10)
+[Wed Jul 02 22:36:48 2014] [notice] child pid 53589 exit signal Bus error (10)
+[Wed Jul 02 22:37:07 2014] [notice] child pid 7518 exit signal Bus error (10)
+[Wed Jul 02 22:37:08 2014] [notice] child pid 53837 exit signal Bus error (10)
+[Wed Jul 02 22:37:08 2014] [notice] child pid 27020 exit signal Bus error (10)
+[Wed Jul 02 22:37:09 2014] [notice] child pid 11256 exit signal Bus error (10)
+[Thu Jul 03 21:32:06 2014] [notice] child pid 25772 exit signal Bus error (10)
+[Thu Jul 03 21:32:07 2014] [notice] child pid 11259 exit signal Bus error (10)
+[Thu Jul 03 21:32:09 2014] [notice] child pid 11260 exit signal Bus error (10)
+[Thu Jul 03 21:32:10 2014] [notice] child pid 11262 exit signal Bus error (10)
+[Thu Jul 03 21:32:10 2014] [notice] child pid 11261 exit signal Bus error (10)
+[Thu Jul 03 21:32:11 2014] [notice] child pid 11258 exit signal Bus error (10)
+[Wed Jul 16 08:34:46 2014] [notice] caught SIGTERM, shutting down
+[Wed Jul 23 21:42:26 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jul 23 21:42:27 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Jul 23 21:42:27 2014] [notice] Digest: done
+[Wed Jul 23 21:42:27 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Aug 02 13:35:36 2014] [notice] caught SIGTERM, shutting down
+[Thu Aug 07 22:08:22 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Aug 07 22:08:23 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Aug 07 22:08:23 2014] [notice] Digest: done
+[Thu Aug 07 22:08:23 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Mon Aug 11 09:57:32 2014] [notice] caught SIGTERM, shutting down
+[Sun Aug 17 16:10:36 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Aug 17 16:10:41 2014] [notice] Digest: generating secret for digest authentication ...
+[Sun Aug 17 16:10:41 2014] [notice] Digest: done
+[Sun Aug 17 16:10:45 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+zend_mm_heap corrupted
+[Sat Aug 23 22:31:17 2014] [notice] caught SIGTERM, shutting down
+[Sat Sep 06 10:29:18 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Sep 06 10:29:19 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Sep 06 10:29:19 2014] [notice] Digest: done
+[Sat Sep 06 10:29:19 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Tue Sep 16 20:50:18 2014] [notice] caught SIGTERM, shutting down
+[Wed Sep 17 21:32:56 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Sep 17 21:32:57 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Sep 17 21:32:57 2014] [notice] Digest: done
+[Wed Sep 17 21:32:57 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Fri Sep 26 19:31:28 2014] [notice] caught SIGTERM, shutting down
+[Sun Oct 05 15:21:00 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Oct 05 15:21:01 2014] [notice] Digest: generating secret for digest authentication ...
+[Sun Oct 05 15:21:01 2014] [notice] Digest: done
+[Sun Oct 05 15:21:01 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sun Oct 05 17:07:46 2014] [error] [client ::1] script '/Applications/XAMPP/xamppfiles/htdocs/staff/staff_create.php' not found or unable to stat
+[Mon Oct 13 18:52:54 2014] [notice] caught SIGTERM, shutting down
+[Mon Oct 13 21:00:30 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Oct 13 21:00:31 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Oct 13 21:00:31 2014] [notice] Digest: done
+[Mon Oct 13 21:00:31 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Oct 18 21:42:17 2014] [notice] caught SIGTERM, shutting down
+[Sun Oct 19 22:26:43 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Oct 19 22:26:44 2014] [notice] Digest: generating secret for digest authentication ...
+[Sun Oct 19 22:26:44 2014] [notice] Digest: done
+[Sun Oct 19 22:26:44 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Tue Oct 21 03:15:04 2014] [error] [client ::1] user EnprograPHP not found: /phpmyadmin/index.php
+[Thu Oct 23 20:36:37 2014] [notice] child pid 17597 exit signal Segmentation fault (11)
+[Sat Oct 25 14:58:18 2014] [notice] caught SIGTERM, shutting down
+[Sat Oct 25 15:25:55 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Oct 25 15:26:04 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Oct 25 15:26:04 2014] [notice] Digest: done
+[Sat Oct 25 15:26:22 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Oct 25 15:29:27 2014] [error] [client ::1] user EnprograPHP not found: /phpmyadmin/index.php
+[Sat Oct 25 15:30:03 2014] [error] [client ::1] user root not found: /phpmyadmin/index.php
+[Sat Oct 25 15:30:56 2014] [error] [client ::1] user EnprograPHP not found: /phpmyadmin/index.php
+[Sat Oct 25 16:05:10 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/product/gazou, referer: http://localhost/product/pro_add_check.php
+[Sat Oct 25 16:05:57 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/product/gazou, referer: http://localhost/product/pro_add_check.php
+[Sat Oct 25 20:31:49 2014] [notice] caught SIGTERM, shutting down
+[Sat Oct 25 20:34:00 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Oct 25 20:34:02 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Oct 25 20:34:02 2014] [notice] Digest: done
+[Sat Oct 25 20:34:03 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Oct 25 20:34:32 2014] [error] [client ::1] script '/Applications/XAMPP/xamppfiles/htdocs/staff/staff_create.php' not found or unable to stat
+[Sat Oct 25 20:35:53 2014] [error] [client ::1] user EnprograPHP not found: /phpmyadmin/index.php, referer: http://localhost/phpmyadmin/index.php?db=shop&token=d2338a66b77ca31ad10a17593ac6d3a4
+[Sat Oct 25 20:35:53 2014] [error] [client ::1] user EnprograPHP not found: /phpmyadmin/index.php
+[Sat Oct 25 21:07:35 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/product/gazou, referer: http://localhost/product/pro_add_check.php
+[Sun Oct 26 02:21:37 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/product/function.move-uploaded-file, referer: http://localhost/product/pro_add_check.php
+[Sun Oct 26 02:31:14 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/product/gazou/kyuri.jpg, referer: http://localhost/product/pro_add_check.php
+[Sun Oct 26 02:31:53 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/product/gazou, referer: http://localhost/product/pro_add_check.php
+[Sun Oct 26 02:32:18 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/product/gazou/kyuri.jpg, referer: http://localhost/product/pro_add_check.php
+[Mon Oct 27 19:27:41 2014] [notice] caught SIGTERM, shutting down
+[Mon Oct 27 20:45:17 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Oct 27 20:45:18 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Oct 27 20:45:18 2014] [notice] Digest: done
+[Mon Oct 27 20:45:18 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Mon Oct 27 20:45:42 2014] [error] [client ::1] user EnprograPHP not found: /phpmyadmin/index.php
+[Mon Oct 27 20:45:48 2014] [error] [client ::1] user xampp: authentication failure for "/phpmyadmin/index.php": Password Mismatch
+[Tue Oct 28 01:04:24 2014] [error] [client ::1] script '/Applications/XAMPP/xamppfiles/htdocs/staff/staff_create.php' not found or unable to stat
+[Tue Oct 28 01:04:42 2014] [error] [client ::1] script '/Applications/XAMPP/xamppfiles/htdocs/staff_login/staff_login.php' not found or unable to stat
+[Sat Nov 01 23:56:41 2014] [notice] caught SIGTERM, shutting down
+[Sun Nov 02 23:16:20 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Nov 02 23:16:37 2014] [notice] Digest: generating secret for digest authentication ...
+[Sun Nov 02 23:16:37 2014] [notice] Digest: done
+[Sun Nov 02 23:17:02 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sun Nov 02 23:33:27 2014] [notice] caught SIGTERM, shutting down
+[Sun Nov 02 23:38:18 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Nov 02 23:38:25 2014] [notice] Digest: generating secret for digest authentication ...
+[Sun Nov 02 23:38:25 2014] [notice] Digest: done
+[Sun Nov 02 23:38:32 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Mon Nov 03 00:26:24 2014] [notice] caught SIGTERM, shutting down
+[Mon Nov 03 00:34:51 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Nov 03 00:34:55 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 03 00:34:55 2014] [notice] Digest: done
+[Mon Nov 03 00:34:59 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Mon Nov 03 01:15:41 2014] [notice] child pid 674 exit signal Segmentation fault (11)
+[Mon Nov 03 02:07:11 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/staff_login/function.session-start, referer: http://localhost/staff_login/staff_login_check.php
+[Tue Nov 04 03:27:16 2014] [notice] child pid 632 exit signal Segmentation fault (11)
+[Tue Nov 04 03:35:08 2014] [notice] child pid 631 exit signal Segmentation fault (11)
+[Tue Nov 04 03:35:10 2014] [notice] child pid 2005 exit signal Segmentation fault (11)
+zend_mm_heap corrupted
+zend_mm_heap corrupted
+[Wed Nov 05 20:40:49 2014] [notice] child pid 21220 exit signal Segmentation fault (11)
+zend_mm_heap corrupted
+zend_mm_heap corrupted
+[Wed Nov 05 21:40:05 2014] [error] [client ::1] script '/Users/sawairyoutarou/shopping/src/shop_list.php' not found or unable to stat
+[Wed Nov 05 21:41:28 2014] [error] [client ::1] script '/Users/sawairyoutarou/shopping/src/shop_list.php' not found or unable to stat
+[Wed Nov 05 21:44:20 2014] [error] [client ::1] script '/Users/sawairyoutarou/shopping/src/shop_list.php' not found or unable to stat
+[Wed Nov 05 21:45:01 2014] [error] [client ::1] script '/Users/sawairyoutarou/shopping/src/shop_list.php' not found or unable to stat
+[Wed Nov 05 21:48:27 2014] [error] [client ::1] script '/Users/sawairyoutarou/shopping/src/shop_list.php' not found or unable to stat
+[Wed Nov 05 21:52:13 2014] [error] [client ::1] script '/Users/sawairyoutarou/shopping/src/shop_list.php' not found or unable to stat
+[Wed Nov 05 21:52:44 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/sho
+[Wed Nov 05 21:52:56 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/shop
+[Wed Nov 05 21:53:06 2014] [error] [client ::1] script '/Users/sawairyoutarou/shopping/src/shop_list.php' not found or unable to stat
+[Wed Nov 05 21:55:35 2014] [error] [client ::1] script '/Users/sawairyoutarou/shopping/src/shop_list.php' not found or unable to stat
+[Wed Nov 05 22:51:56 2014] [error] [client ::1] script '/Users/sawairyoutarou/shopping/src/shop_list.php' not found or unable to stat
+[Wed Nov 05 22:51:59 2014] [error] [client ::1] script '/Users/sawairyoutarou/shopping/src/shop_list.php' not found or unable to stat
+[Wed Nov 05 22:52:26 2014] [error] [client ::1] script '/Users/sawairyoutarou/shopping/src/staff_list.php' not found or unable to stat
+[Wed Nov 05 22:53:27 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/shopping
+[Wed Nov 05 22:53:34 2014] [error] [client ::1] script '/Users/sawairyoutarou/shopping/src/shop_list.php' not found or unable to stat
+[Wed Nov 05 23:03:07 2014] [error] [client ::1] script '/Applications/XAMPP/xamppfiles/htdocs/shopping/shop_product.php' not found or unable to stat, referer: http://localhost/shopping/shop_list.php
+[Thu Nov 06 11:54:30 2014] [notice] child pid 22342 exit signal Segmentation fault (11)
+[Thu Nov 06 21:00:46 2014] [error] [client ::1] script '/Applications/XAMPP/xamppfiles/htdocs/shopping/cart_clear.php' not found or unable to stat
+[Fri Nov 07 20:34:07 2014] [notice] child pid 22344 exit signal Segmentation fault (11)
+[Fri Nov 07 20:43:02 2014] [notice] child pid 21905 exit signal Segmentation fault (11)
+[Sat Nov 08 23:44:03 2014] [notice] child pid 2008 exit signal Bus error (10)
+[Sun Nov 09 02:21:19 2014] [error] [client ::1] script '/Applications/XAMPP/xamppfiles/htdocs/order/order_download_done.php' not found or unable to stat, referer: http://localhost/order/order_download.php
+[Sun Nov 09 02:58:58 2014] [notice] child pid 74259 exit signal Segmentation fault (11)
+[Sun Nov 09 02:59:43 2014] [notice] child pid 76314 exit signal Segmentation fault (11)
+[Sun Nov 09 14:05:50 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/shopping/member_login.html, referer: http://localhost/shopping/shop_list.php
+[Sun Nov 09 14:07:40 2014] [error] [client ::1] script '/Applications/XAMPP/xamppfiles/htdocs/shopping/shop_form.php' not found or unable to stat
+[Mon Nov 10 00:06:29 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Nov 10 00:06:32 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 10 00:06:32 2014] [notice] Digest: done
+[Mon Nov 10 00:06:34 2014] [warn] pid file /Applications/XAMPP/xamppfiles/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 10 00:06:34 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Mon Nov 10 02:31:29 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/shopping/shop_list, referer: http://localhost/shopping/member_logout.php
+[Mon Nov 10 02:31:53 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/shopping/shop_list, referer: http://localhost/shopping/member_logout.php
+[Mon Nov 10 02:39:19 2014] [notice] child pid 637 exit signal Segmentation fault (11)
+[Tue Nov 11 23:05:16 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/staff, referer: http://localhost/staff_login/staff_top.php
+[Tue Nov 11 23:05:21 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/staff_login
+[Tue Nov 11 23:12:42 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/staff_login
+[Tue Nov 11 23:13:41 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/staff_login/staff_top
+[Tue Nov 11 23:42:12 2014] [notice] caught SIGTERM, shutting down
+[Tue Nov 11 23:42:18 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 11 23:42:22 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 11 23:42:22 2014] [notice] Digest: done
+[Tue Nov 11 23:42:25 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Tue Nov 11 23:43:40 2014] [notice] caught SIGTERM, shutting down
+[Tue Nov 11 23:43:44 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 11 23:43:47 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 11 23:43:47 2014] [notice] Digest: done
+[Tue Nov 11 23:43:52 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Tue Nov 11 23:44:38 2014] [notice] caught SIGTERM, shutting down
+[Tue Nov 11 23:44:41 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 11 23:44:44 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 11 23:44:44 2014] [notice] Digest: done
+[Tue Nov 11 23:44:48 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Wed Nov 12 00:07:49 2014] [notice] caught SIGTERM, shutting down
+[Wed Nov 12 00:07:53 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 12 00:07:57 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 12 00:07:57 2014] [notice] Digest: done
+[Wed Nov 12 00:08:00 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Wed Nov 12 00:08:06 2014] [notice] caught SIGTERM, shutting down
+[Wed Nov 12 00:08:16 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 12 00:08:18 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 12 00:08:18 2014] [notice] Digest: done
+[Wed Nov 12 00:08:20 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Wed Nov 12 00:10:56 2014] [notice] caught SIGTERM, shutting down
+[Wed Nov 12 00:10:59 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 12 00:11:03 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 12 00:11:03 2014] [notice] Digest: done
+[Wed Nov 12 00:11:05 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Wed Nov 12 21:39:31 2014] [notice] caught SIGTERM, shutting down
+[Wed Nov 12 21:39:34 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 12 21:39:35 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 12 21:39:35 2014] [notice] Digest: done
+[Wed Nov 12 21:39:35 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Wed Nov 12 21:40:26 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cakephp
+[Thu Nov 13 23:53:26 2014] [error] [client ::1] script '/Applications/XAMPP/xamppfiles/htdocs/info.php' not found or unable to stat
+[Fri Nov 14 01:08:59 2014] [notice] caught SIGTERM, shutting down
+[Fri Nov 14 01:09:01 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Nov 14 01:09:03 2014] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 14 01:09:03 2014] [notice] Digest: done
+[Fri Nov 14 01:09:04 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Wed Nov 19 17:22:53 2014] [notice] caught SIGTERM, shutting down
+[Wed Nov 19 17:23:58 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 19 17:24:00 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 19 17:24:00 2014] [notice] Digest: done
+[Wed Nov 19 17:24:02 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Wed Nov 19 17:25:11 2014] [error] [client ::1] user EnprograPHP not found: /phpmyadmin/index.php, referer: http://localhost/phpmyadmin/navigation.php?server=1&token=0703aa3479e112356839c813c27b2755&db=&table=&lang=ja-utf-8&collation_connection=utf8_general_ci
+[Wed Nov 19 17:30:57 2014] [notice] child pid 508 exit signal Bus error (10)
+[Wed Nov 19 17:30:59 2014] [notice] child pid 507 exit signal Bus error (10)
+[Wed Nov 19 17:31:01 2014] [notice] child pid 509 exit signal Bus error (10)
+[Wed Nov 19 17:31:03 2014] [notice] child pid 511 exit signal Bus error (10)
+[Wed Nov 19 17:31:05 2014] [notice] child pid 512 exit signal Bus error (10)
+[Wed Nov 19 17:31:09 2014] [notice] child pid 513 exit signal Bus error (10)
+[Wed Nov 19 17:31:11 2014] [notice] child pid 505 exit signal Bus error (10)
+[Wed Nov 19 17:31:13 2014] [notice] child pid 506 exit signal Bus error (10)
+[Wed Nov 19 17:31:15 2014] [notice] child pid 899 exit signal Bus error (10)
+[Thu Nov 20 15:25:30 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/twitter_bootstrap
+[Thu Nov 20 17:58:26 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 17:58:26 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 17:58:26 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 17:58:34 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 17:58:34 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 17:58:34 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:01:51 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:01:51 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:01:51 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:01:59 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:01:59 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:01:59 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:02:04 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:02:04 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:02:04 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:02:36 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:02:36 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:02:36 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:06:09 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:06:09 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:06:09 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:06:14 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:06:14 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 18:06:14 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/css, referer: http://localhost/cakephp/Staffs
+[Thu Nov 20 20:44:03 2014] [notice] child pid 19180 exit signal Bus error (10)
+[Thu Nov 20 20:44:05 2014] [notice] child pid 16261 exit signal Bus error (10)
+[Thu Nov 20 20:44:11 2014] [notice] child pid 12141 exit signal Bus error (10)
+[Thu Nov 20 20:44:12 2014] [notice] child pid 19090 exit signal Bus error (10)
+[Thu Nov 20 20:44:14 2014] [notice] child pid 18385 exit signal Bus error (10)
+[Thu Nov 20 20:44:16 2014] [notice] child pid 18082 exit signal Bus error (10)
+[Thu Nov 20 20:44:17 2014] [notice] child pid 19135 exit signal Bus error (10)
+[Thu Nov 20 20:44:19 2014] [notice] child pid 16381 exit signal Bus error (10)
+[Thu Nov 20 20:44:20 2014] [notice] child pid 901 exit signal Bus error (10)
+[Thu Nov 20 20:44:27 2014] [notice] child pid 16268 exit signal Bus error (10)
+[Thu Nov 20 20:44:58 2014] [notice] child pid 20334 exit signal Bus error (10)
+[Thu Nov 20 20:45:42 2014] [notice] child pid 20336 exit signal Bus error (10)
+[Thu Nov 20 20:46:45 2014] [notice] child pid 20338 exit signal Bus error (10)
+[Thu Nov 20 20:48:26 2014] [notice] child pid 20367 exit signal Bus error (10)
+[Thu Nov 20 20:50:54 2014] [notice] child pid 20392 exit signal Bus error (10)
+[Thu Nov 20 20:52:29 2014] [notice] child pid 20337 exit signal Bus error (10)
+[Thu Nov 20 20:52:31 2014] [notice] child pid 20497 exit signal Bus error (10)
+[Thu Nov 20 20:52:37 2014] [notice] child pid 20510 exit signal Bus error (10)
+[Thu Nov 20 20:53:09 2014] [notice] child pid 20511 exit signal Bus error (10)
+[Thu Nov 20 20:54:10 2014] [notice] child pid 20339 exit signal Bus error (10)
+[Thu Nov 20 20:57:48 2014] [notice] child pid 20615 exit signal Bus error (10)
+[Thu Nov 20 20:57:50 2014] [notice] child pid 20616 exit signal Bus error (10)
+[Thu Nov 20 20:57:57 2014] [notice] child pid 20617 exit signal Bus error (10)
+[Thu Nov 20 20:58:14 2014] [notice] child pid 20351 exit signal Bus error (10)
+[Thu Nov 20 20:58:45 2014] [notice] child pid 20556 exit signal Bus error (10)
+[Thu Nov 20 20:59:46 2014] [notice] child pid 20583 exit signal Bus error (10)
+[Thu Nov 20 21:01:37 2014] [notice] child pid 20719 exit signal Bus error (10)
+[Thu Nov 20 21:01:39 2014] [notice] child pid 20759 exit signal Bus error (10)
+[Thu Nov 20 21:01:46 2014] [notice] child pid 20613 exit signal Bus error (10)
+[Thu Nov 20 21:02:17 2014] [notice] child pid 20442 exit signal Bus error (10)
+[Thu Nov 20 21:02:51 2014] [notice] caught SIGTERM, shutting down
+[Thu Nov 20 21:02:54 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Nov 20 21:02:57 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Nov 20 21:02:57 2014] [notice] Digest: done
+[Thu Nov 20 21:02:58 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Thu Nov 20 21:03:01 2014] [notice] child pid 20860 exit signal Bus error (10)
+[Thu Nov 20 21:06:20 2014] [notice] child pid 20884 exit signal Bus error (10)
+[Thu Nov 20 21:06:22 2014] [notice] child pid 20887 exit signal Bus error (10)
+[Thu Nov 20 21:06:24 2014] [notice] child pid 20888 exit signal Bus error (10)
+[Thu Nov 20 21:06:30 2014] [notice] child pid 20863 exit signal Bus error (10)
+[Thu Nov 20 21:07:02 2014] [notice] child pid 20862 exit signal Bus error (10)
+[Thu Nov 20 21:08:03 2014] [notice] child pid 20864 exit signal Bus error (10)
+[Thu Nov 20 21:11:18 2014] [notice] child pid 20866 exit signal Bus error (10)
+[Thu Nov 20 21:11:23 2014] [notice] child pid 20861 exit signal Bus error (10)
+[Thu Nov 20 21:11:54 2014] [notice] child pid 20987 exit signal Bus error (10)
+[Thu Nov 20 21:12:56 2014] [notice] child pid 20886 exit signal Bus error (10)
+[Thu Nov 20 21:17:57 2014] [notice] child pid 21047 exit signal Bus error (10)
+[Thu Nov 20 21:27:59 2014] [notice] child pid 21293 exit signal Bus error (10)
+[Thu Nov 20 21:54:56 2014] [notice] child pid 21019 exit signal Bus error (10)
+[Thu Nov 20 21:55:01 2014] [notice] child pid 21648 exit signal Bus error (10)
+[Thu Nov 20 21:55:32 2014] [notice] child pid 21052 exit signal Bus error (10)
+[Thu Nov 20 22:05:19 2014] [notice] child pid 21100 exit signal Bus error (10)
+[Thu Nov 20 22:05:24 2014] [notice] child pid 21056 exit signal Bus error (10)
+[Thu Nov 20 22:05:54 2014] [notice] child pid 21989 exit signal Bus error (10)
+[Thu Nov 20 22:06:54 2014] [notice] child pid 21994 exit signal Bus error (10)
+[Thu Nov 20 22:11:55 2014] [notice] child pid 22037 exit signal Bus error (10)
+[Thu Nov 20 22:50:55 2014] [notice] child pid 22012 exit signal Bus error (10)
+[Thu Nov 20 22:51:01 2014] [notice] child pid 22031 exit signal Bus error (10)
+[Thu Nov 20 22:51:31 2014] [notice] child pid 22234 exit signal Bus error (10)
+[Thu Nov 20 22:52:42 2014] [notice] child pid 22041 exit signal Bus error (10)
+[Thu Nov 20 22:52:48 2014] [notice] child pid 22097 exit signal Bus error (10)
+[Thu Nov 20 22:53:18 2014] [notice] child pid 22489 exit signal Bus error (10)
+[Thu Nov 20 22:54:29 2014] [notice] child pid 22505 exit signal Bus error (10)
+[Thu Nov 20 22:54:34 2014] [notice] child pid 22524 exit signal Bus error (10)
+[Thu Nov 20 22:55:05 2014] [notice] child pid 22526 exit signal Bus error (10)
+[Thu Nov 20 22:56:18 2014] [notice] child pid 22539 exit signal Bus error (10)
+[Thu Nov 20 22:56:23 2014] [notice] child pid 22564 exit signal Bus error (10)
+[Thu Nov 20 22:56:54 2014] [notice] child pid 22566 exit signal Bus error (10)
+[Thu Nov 20 22:58:04 2014] [notice] child pid 22568 exit signal Bus error (10)
+[Thu Nov 20 22:58:09 2014] [notice] child pid 22594 exit signal Bus error (10)
+[Thu Nov 20 22:58:39 2014] [notice] child pid 22598 exit signal Bus error (10)
+[Thu Nov 20 22:59:50 2014] [notice] child pid 22602 exit signal Bus error (10)
+[Thu Nov 20 22:59:56 2014] [notice] child pid 22631 exit signal Bus error (10)
+[Thu Nov 20 23:00:26 2014] [notice] child pid 22639 exit signal Bus error (10)
+[Thu Nov 20 23:01:38 2014] [notice] child pid 22642 exit signal Bus error (10)
+[Thu Nov 20 23:01:43 2014] [notice] child pid 22657 exit signal Bus error (10)
+[Thu Nov 20 23:02:14 2014] [notice] child pid 22672 exit signal Bus error (10)
+[Thu Nov 20 23:03:25 2014] [notice] child pid 22675 exit signal Bus error (10)
+[Thu Nov 20 23:03:31 2014] [notice] child pid 22695 exit signal Bus error (10)
+[Thu Nov 20 23:04:02 2014] [notice] child pid 22707 exit signal Bus error (10)
+[Thu Nov 20 23:34:24 2014] [notice] child pid 22670 exit signal Bus error (10)
+[Thu Nov 20 23:34:28 2014] [notice] child pid 22719 exit signal Bus error (10)
+[Thu Nov 20 23:34:59 2014] [notice] child pid 22727 exit signal Bus error (10)
+[Thu Nov 20 23:36:09 2014] [notice] child pid 22739 exit signal Bus error (10)
+[Thu Nov 20 23:36:16 2014] [notice] child pid 22772 exit signal Bus error (10)
+[Thu Nov 20 23:36:46 2014] [notice] child pid 22787 exit signal Bus error (10)
+[Thu Nov 20 23:37:58 2014] [notice] child pid 22802 exit signal Bus error (10)
+[Thu Nov 20 23:38:03 2014] [notice] child pid 22812 exit signal Bus error (10)
+[Thu Nov 20 23:38:34 2014] [notice] child pid 22815 exit signal Bus error (10)
+[Thu Nov 20 23:39:45 2014] [notice] child pid 22828 exit signal Bus error (10)
+[Thu Nov 20 23:39:50 2014] [notice] child pid 22852 exit signal Bus error (10)
+[Thu Nov 20 23:40:21 2014] [notice] child pid 22855 exit signal Bus error (10)
+[Thu Nov 20 23:41:34 2014] [notice] child pid 22857 exit signal Bus error (10)
+[Thu Nov 20 23:41:39 2014] [notice] child pid 22882 exit signal Bus error (10)
+[Thu Nov 20 23:42:09 2014] [notice] child pid 22884 exit signal Bus error (10)
+[Thu Nov 20 23:43:20 2014] [notice] child pid 22887 exit signal Bus error (10)
+[Thu Nov 20 23:43:25 2014] [notice] child pid 22920 exit signal Bus error (10)
+[Thu Nov 20 23:43:55 2014] [notice] child pid 22940 exit signal Bus error (10)
+[Thu Nov 20 23:45:06 2014] [notice] child pid 22959 exit signal Bus error (10)
+[Thu Nov 20 23:45:13 2014] [notice] child pid 22977 exit signal Bus error (10)
+[Thu Nov 20 23:45:43 2014] [notice] child pid 22939 exit signal Bus error (10)
+[Thu Nov 20 23:46:56 2014] [notice] child pid 22993 exit signal Bus error (10)
+[Thu Nov 20 23:47:01 2014] [notice] child pid 23017 exit signal Bus error (10)
+[Thu Nov 20 23:47:32 2014] [notice] child pid 22989 exit signal Bus error (10)
+[Thu Nov 20 23:48:40 2014] [notice] child pid 23048 exit signal Bus error (10)
+[Thu Nov 20 23:48:46 2014] [notice] child pid 23071 exit signal Bus error (10)
+[Thu Nov 20 23:49:16 2014] [notice] child pid 23077 exit signal Bus error (10)
+[Thu Nov 20 23:50:27 2014] [notice] child pid 23028 exit signal Bus error (10)
+[Thu Nov 20 23:50:32 2014] [notice] child pid 23098 exit signal Bus error (10)
+[Thu Nov 20 23:51:03 2014] [notice] child pid 23101 exit signal Bus error (10)
+[Thu Nov 20 23:52:15 2014] [notice] child pid 23109 exit signal Bus error (10)
+[Thu Nov 20 23:52:20 2014] [notice] child pid 23139 exit signal Bus error (10)
+[Thu Nov 20 23:52:51 2014] [notice] child pid 23141 exit signal Bus error (10)
+[Thu Nov 20 23:54:01 2014] [notice] child pid 23185 exit signal Bus error (10)
+[Thu Nov 20 23:54:08 2014] [notice] child pid 23199 exit signal Bus error (10)
+[Thu Nov 20 23:54:38 2014] [notice] child pid 23201 exit signal Bus error (10)
+[Thu Nov 20 23:55:50 2014] [notice] child pid 23225 exit signal Bus error (10)
+[Thu Nov 20 23:55:56 2014] [notice] child pid 23143 exit signal Bus error (10)
+[Thu Nov 20 23:56:26 2014] [notice] child pid 23234 exit signal Bus error (10)
+[Thu Nov 20 23:57:37 2014] [notice] child pid 23237 exit signal Bus error (10)
+[Thu Nov 20 23:57:42 2014] [notice] child pid 23268 exit signal Bus error (10)
+[Thu Nov 20 23:58:12 2014] [notice] child pid 23280 exit signal Bus error (10)
+[Thu Nov 20 23:59:25 2014] [notice] child pid 23296 exit signal Bus error (10)
+[Thu Nov 20 23:59:30 2014] [notice] child pid 23246 exit signal Bus error (10)
+[Fri Nov 21 00:00:01 2014] [notice] child pid 23314 exit signal Bus error (10)
+[Fri Nov 21 00:01:10 2014] [notice] child pid 23321 exit signal Bus error (10)
+[Fri Nov 21 00:01:16 2014] [notice] child pid 23382 exit signal Bus error (10)
+[Fri Nov 21 00:01:46 2014] [notice] child pid 23340 exit signal Bus error (10)
+[Fri Nov 21 00:02:57 2014] [notice] child pid 23351 exit signal Bus error (10)
+[Fri Nov 21 00:03:03 2014] [notice] child pid 23384 exit signal Bus error (10)
+[Fri Nov 21 00:03:34 2014] [notice] child pid 23424 exit signal Bus error (10)
+[Fri Nov 21 00:04:45 2014] [notice] child pid 23446 exit signal Bus error (10)
+[Fri Nov 21 00:04:50 2014] [notice] child pid 23359 exit signal Bus error (10)
+[Fri Nov 21 00:05:21 2014] [notice] child pid 23379 exit signal Bus error (10)
+[Fri Nov 21 00:06:32 2014] [notice] child pid 23453 exit signal Bus error (10)
+[Fri Nov 21 00:06:37 2014] [notice] child pid 23485 exit signal Bus error (10)
+[Fri Nov 21 00:07:07 2014] [notice] child pid 23491 exit signal Bus error (10)
+[Fri Nov 21 00:08:19 2014] [notice] child pid 23513 exit signal Bus error (10)
+[Fri Nov 21 00:08:25 2014] [notice] child pid 23524 exit signal Bus error (10)
+[Fri Nov 21 00:08:55 2014] [notice] child pid 23488 exit signal Bus error (10)
+[Fri Nov 21 00:10:06 2014] [notice] child pid 23535 exit signal Bus error (10)
+[Fri Nov 21 00:10:13 2014] [notice] child pid 23553 exit signal Bus error (10)
+[Fri Nov 21 00:10:43 2014] [notice] child pid 23522 exit signal Bus error (10)
+[Fri Nov 21 00:11:55 2014] [notice] child pid 23556 exit signal Bus error (10)
+[Fri Nov 21 00:12:01 2014] [notice] child pid 23559 exit signal Bus error (10)
+[Fri Nov 21 00:12:31 2014] [notice] child pid 23573 exit signal Bus error (10)
+[Fri Nov 21 00:13:42 2014] [notice] child pid 23585 exit signal Bus error (10)
+[Fri Nov 21 00:13:47 2014] [notice] child pid 23649 exit signal Bus error (10)
+[Fri Nov 21 00:14:17 2014] [notice] child pid 23678 exit signal Bus error (10)
+[Fri Nov 21 00:15:29 2014] [notice] child pid 23623 exit signal Bus error (10)
+[Fri Nov 21 00:15:34 2014] [notice] child pid 23642 exit signal Bus error (10)
+[Fri Nov 21 00:16:05 2014] [notice] child pid 23680 exit signal Bus error (10)
+[Fri Nov 21 12:04:09 2014] [notice] child pid 23675 exit signal Bus error (10)
+[Fri Nov 21 12:04:14 2014] [notice] child pid 23706 exit signal Bus error (10)
+[Fri Nov 21 12:04:45 2014] [notice] child pid 23835 exit signal Bus error (10)
+[Fri Nov 21 12:05:45 2014] [notice] child pid 23745 exit signal Bus error (10)
+[Fri Nov 21 12:10:45 2014] [notice] child pid 23822 exit signal Bus error (10)
+[Fri Nov 21 12:20:44 2014] [notice] child pid 23712 exit signal Bus error (10)
+[Fri Nov 21 12:59:49 2014] [notice] child pid 23936 exit signal Bus error (10)
+[Fri Nov 21 12:59:55 2014] [notice] child pid 23849 exit signal Bus error (10)
+[Fri Nov 21 13:00:25 2014] [notice] child pid 23881 exit signal Bus error (10)
+[Fri Nov 21 13:01:37 2014] [notice] child pid 23844 exit signal Bus error (10)
+[Fri Nov 21 13:01:42 2014] [notice] child pid 23710 exit signal Bus error (10)
+[Fri Nov 21 13:02:12 2014] [notice] child pid 23987 exit signal Bus error (10)
+[Fri Nov 21 13:03:24 2014] [notice] child pid 23992 exit signal Bus error (10)
+[Fri Nov 21 13:03:30 2014] [notice] child pid 23997 exit signal Bus error (10)
+[Fri Nov 21 13:04:00 2014] [notice] child pid 23999 exit signal Bus error (10)
+[Fri Nov 21 13:05:11 2014] [notice] child pid 24016 exit signal Bus error (10)
+[Fri Nov 21 13:05:16 2014] [notice] child pid 24019 exit signal Bus error (10)
+[Fri Nov 21 13:05:47 2014] [notice] child pid 24003 exit signal Bus error (10)
+[Fri Nov 21 13:06:59 2014] [notice] child pid 24007 exit signal Bus error (10)
+[Fri Nov 21 13:07:04 2014] [notice] child pid 24011 exit signal Bus error (10)
+[Fri Nov 21 13:07:34 2014] [notice] child pid 24024 exit signal Bus error (10)
+[Fri Nov 21 13:08:45 2014] [notice] child pid 24032 exit signal Bus error (10)
+[Fri Nov 21 13:08:51 2014] [notice] child pid 24034 exit signal Bus error (10)
+[Fri Nov 21 13:09:21 2014] [notice] child pid 24040 exit signal Bus error (10)
+[Fri Nov 21 13:10:32 2014] [notice] child pid 24029 exit signal Bus error (10)
+[Fri Nov 21 13:10:38 2014] [notice] child pid 24042 exit signal Bus error (10)
+[Fri Nov 21 13:11:09 2014] [notice] child pid 24056 exit signal Bus error (10)
+[Fri Nov 21 13:12:20 2014] [notice] child pid 24009 exit signal Bus error (10)
+[Fri Nov 21 13:12:26 2014] [notice] child pid 24064 exit signal Bus error (10)
+[Fri Nov 21 13:12:56 2014] [notice] child pid 24044 exit signal Bus error (10)
+[Fri Nov 21 13:14:08 2014] [notice] child pid 24047 exit signal Bus error (10)
+[Fri Nov 21 13:14:13 2014] [notice] child pid 24054 exit signal Bus error (10)
+[Fri Nov 21 13:14:44 2014] [notice] child pid 24060 exit signal Bus error (10)
+[Fri Nov 21 13:15:54 2014] [notice] child pid 24066 exit signal Bus error (10)
+[Fri Nov 21 13:16:01 2014] [notice] child pid 24071 exit signal Bus error (10)
+[Fri Nov 21 13:16:31 2014] [notice] child pid 24077 exit signal Bus error (10)
+[Fri Nov 21 13:17:43 2014] [notice] child pid 24080 exit signal Bus error (10)
+[Fri Nov 21 13:17:48 2014] [notice] child pid 24083 exit signal Bus error (10)
+[Fri Nov 21 13:18:19 2014] [notice] child pid 24086 exit signal Bus error (10)
+[Fri Nov 21 13:19:31 2014] [notice] child pid 24073 exit signal Bus error (10)
+[Fri Nov 21 13:19:36 2014] [notice] child pid 24093 exit signal Bus error (10)
+[Fri Nov 21 13:20:06 2014] [notice] child pid 24095 exit signal Bus error (10)
+[Fri Nov 21 13:21:17 2014] [notice] child pid 24101 exit signal Bus error (10)
+[Fri Nov 21 13:21:23 2014] [notice] child pid 24103 exit signal Bus error (10)
+[Fri Nov 21 13:21:53 2014] [notice] child pid 24091 exit signal Bus error (10)
+[Fri Nov 21 13:23:05 2014] [notice] child pid 24105 exit signal Bus error (10)
+[Fri Nov 21 13:23:10 2014] [notice] child pid 24110 exit signal Bus error (10)
+[Fri Nov 21 13:23:40 2014] [notice] child pid 24114 exit signal Bus error (10)
+[Fri Nov 21 13:24:52 2014] [notice] child pid 24116 exit signal Bus error (10)
+[Fri Nov 21 13:24:59 2014] [notice] child pid 24119 exit signal Bus error (10)
+[Fri Nov 21 13:25:29 2014] [notice] child pid 24123 exit signal Bus error (10)
+[Fri Nov 21 13:26:41 2014] [notice] child pid 24125 exit signal Bus error (10)
+[Fri Nov 21 13:26:45 2014] [notice] child pid 24129 exit signal Bus error (10)
+[Fri Nov 21 13:27:15 2014] [notice] child pid 24133 exit signal Bus error (10)
+[Fri Nov 21 13:28:26 2014] [notice] child pid 24135 exit signal Bus error (10)
+[Fri Nov 21 13:28:32 2014] [notice] child pid 24152 exit signal Bus error (10)
+[Fri Nov 21 13:29:02 2014] [notice] child pid 24139 exit signal Bus error (10)
+[Fri Nov 21 13:30:13 2014] [notice] child pid 24142 exit signal Bus error (10)
+[Fri Nov 21 13:30:18 2014] [notice] child pid 24144 exit signal Bus error (10)
+[Fri Nov 21 13:30:49 2014] [notice] child pid 24154 exit signal Bus error (10)
+[Fri Nov 21 13:32:01 2014] [notice] child pid 24162 exit signal Bus error (10)
+[Fri Nov 21 13:32:06 2014] [notice] child pid 24165 exit signal Bus error (10)
+[Fri Nov 21 13:32:37 2014] [notice] child pid 24169 exit signal Bus error (10)
+[Fri Nov 21 13:33:48 2014] [notice] child pid 24156 exit signal Bus error (10)
+[Fri Nov 21 13:33:53 2014] [notice] child pid 24182 exit signal Bus error (10)
+[Fri Nov 21 13:34:23 2014] [notice] child pid 24189 exit signal Bus error (10)
+[Fri Nov 21 13:35:34 2014] [notice] child pid 24175 exit signal Bus error (10)
+[Fri Nov 21 13:35:41 2014] [notice] child pid 24178 exit signal Bus error (10)
+[Fri Nov 21 13:36:11 2014] [notice] child pid 24191 exit signal Bus error (10)
+[Fri Nov 21 13:37:23 2014] [notice] child pid 24187 exit signal Bus error (10)
+[Fri Nov 21 13:37:28 2014] [notice] child pid 24200 exit signal Bus error (10)
+[Fri Nov 21 13:37:58 2014] [notice] child pid 24206 exit signal Bus error (10)
+[Fri Nov 21 13:39:10 2014] [notice] child pid 24209 exit signal Bus error (10)
+[Fri Nov 21 13:39:16 2014] [notice] child pid 24202 exit signal Bus error (10)
+[Fri Nov 21 13:39:46 2014] [notice] child pid 24216 exit signal Bus error (10)
+[Fri Nov 21 13:40:58 2014] [notice] child pid 24218 exit signal Bus error (10)
+[Fri Nov 21 13:41:03 2014] [notice] child pid 24195 exit signal Bus error (10)
+[Fri Nov 21 13:41:33 2014] [notice] child pid 24213 exit signal Bus error (10)
+[Fri Nov 21 13:42:46 2014] [notice] child pid 24220 exit signal Bus error (10)
+[Fri Nov 21 13:42:51 2014] [notice] child pid 24237 exit signal Bus error (10)
+[Fri Nov 21 13:43:21 2014] [notice] child pid 24245 exit signal Bus error (10)
+[Fri Nov 21 17:22:32 2014] [notice] child pid 24229 exit signal Bus error (10)
+[Fri Nov 21 17:23:02 2014] [notice] child pid 24250 exit signal Bus error (10)
+[Fri Nov 21 17:24:03 2014] [notice] child pid 24255 exit signal Bus error (10)
+[Fri Nov 21 17:29:02 2014] [notice] child pid 24334 exit signal Bus error (10)
+[Fri Nov 21 17:39:04 2014] [notice] child pid 24374 exit signal Bus error (10)
+[Fri Nov 21 18:09:05 2014] [notice] child pid 24844 exit signal Bus error (10)
+[Fri Nov 21 19:18:11 2014] [notice] child pid 25945 exit signal Bus error (10)
+[Fri Nov 21 19:18:16 2014] [notice] child pid 24248 exit signal Bus error (10)
+[Fri Nov 21 19:18:47 2014] [notice] child pid 24320 exit signal Bus error (10)
+[Fri Nov 21 19:20:03 2014] [notice] child pid 26109 exit signal Bus error (10)
+[Fri Nov 21 19:25:04 2014] [notice] child pid 26162 exit signal Bus error (10)
+[Fri Nov 21 19:35:05 2014] [notice] child pid 24227 exit signal Bus error (10)
+[Fri Nov 21 19:47:09 2014] [notice] child pid 24305 exit signal Bus error (10)
+[Fri Nov 21 19:47:14 2014] [notice] child pid 26130 exit signal Bus error (10)
+[Fri Nov 21 19:47:45 2014] [notice] child pid 26095 exit signal Bus error (10)
+[Fri Nov 21 19:48:45 2014] [notice] child pid 26356 exit signal Bus error (10)
+[Fri Nov 21 19:53:47 2014] [notice] child pid 26730 exit signal Bus error (10)
+[Fri Nov 21 20:12:47 2014] [notice] child pid 27303 exit signal Bus error (10)
+[Fri Nov 21 20:12:52 2014] [notice] child pid 27097 exit signal Bus error (10)
+[Fri Nov 21 20:13:23 2014] [notice] child pid 27112 exit signal Bus error (10)
+[Fri Nov 21 20:13:40 2014] [notice] child pid 27120 exit signal Bus error (10)
+[Fri Nov 21 20:13:46 2014] [notice] child pid 27149 exit signal Bus error (10)
+[Fri Nov 21 20:14:16 2014] [notice] child pid 27459 exit signal Bus error (10)
+[Fri Nov 21 20:28:02 2014] [notice] child pid 27466 exit signal Bus error (10)
+[Fri Nov 21 20:28:07 2014] [notice] child pid 27470 exit signal Bus error (10)
+[Fri Nov 21 20:28:38 2014] [notice] child pid 27493 exit signal Bus error (10)
+[Fri Nov 21 20:29:49 2014] [notice] child pid 27496 exit signal Bus error (10)
+[Fri Nov 21 20:29:55 2014] [notice] child pid 27500 exit signal Bus error (10)
+[Fri Nov 21 20:30:25 2014] [notice] child pid 27508 exit signal Bus error (10)
+[Fri Nov 21 20:31:36 2014] [notice] child pid 27520 exit signal Bus error (10)
+[Fri Nov 21 20:31:41 2014] [notice] child pid 27533 exit signal Bus error (10)
+[Fri Nov 21 20:32:12 2014] [notice] child pid 27536 exit signal Bus error (10)
+[Fri Nov 21 20:33:24 2014] [notice] child pid 27545 exit signal Bus error (10)
+[Fri Nov 21 20:33:28 2014] [notice] child pid 27566 exit signal Bus error (10)
+[Fri Nov 21 20:33:59 2014] [notice] child pid 27568 exit signal Bus error (10)
+[Fri Nov 21 20:35:10 2014] [notice] child pid 27570 exit signal Bus error (10)
+[Fri Nov 21 20:35:16 2014] [notice] child pid 27601 exit signal Bus error (10)
+[Fri Nov 21 20:35:47 2014] [notice] child pid 27603 exit signal Bus error (10)
+[Fri Nov 21 20:36:48 2014] [notice] child pid 27608 exit signal Bus error (10)
+[Fri Nov 21 20:41:49 2014] [notice] child pid 27663 exit signal Bus error (10)
+[Fri Nov 21 20:51:51 2014] [notice] child pid 27649 exit signal Bus error (10)
+[Fri Nov 21 21:15:41 2014] [notice] child pid 27647 exit signal Bus error (10)
+[Fri Nov 21 21:15:46 2014] [notice] child pid 28185 exit signal Bus error (10)
+[Fri Nov 21 21:16:17 2014] [notice] child pid 27866 exit signal Bus error (10)
+[Fri Nov 21 21:17:17 2014] [notice] child pid 27708 exit signal Bus error (10)
+[Fri Nov 21 21:22:17 2014] [notice] child pid 27627 exit signal Bus error (10)
+[Fri Nov 21 21:32:19 2014] [notice] child pid 28733 exit signal Bus error (10)
+[Fri Nov 21 22:02:21 2014] [notice] child pid 28549 exit signal Bus error (10)
+[Fri Nov 21 22:32:21 2014] [notice] child pid 28578 exit signal Bus error (10)
+[Fri Nov 21 23:02:40 2014] [notice] child pid 28522 exit signal Bus error (10)
+[Fri Nov 21 23:02:45 2014] [notice] child pid 28529 exit signal Bus error (10)
+[Fri Nov 21 23:03:15 2014] [notice] child pid 30023 exit signal Bus error (10)
+[Fri Nov 21 23:04:26 2014] [notice] child pid 30845 exit signal Bus error (10)
+[Fri Nov 21 23:04:33 2014] [notice] child pid 28983 exit signal Bus error (10)
+[Fri Nov 21 23:05:03 2014] [notice] child pid 30852 exit signal Bus error (10)
+[Fri Nov 21 23:06:15 2014] [notice] child pid 30858 exit signal Bus error (10)
+[Fri Nov 21 23:06:20 2014] [notice] child pid 30893 exit signal Bus error (10)
+[Fri Nov 21 23:06:51 2014] [notice] child pid 30901 exit signal Bus error (10)
+[Fri Nov 21 23:08:01 2014] [notice] child pid 30903 exit signal Bus error (10)
+[Fri Nov 21 23:08:07 2014] [notice] child pid 30922 exit signal Bus error (10)
+[Fri Nov 21 23:08:37 2014] [notice] child pid 30945 exit signal Bus error (10)
+[Fri Nov 21 23:09:49 2014] [notice] child pid 30968 exit signal Bus error (10)
+[Fri Nov 21 23:09:56 2014] [notice] child pid 30987 exit signal Bus error (10)
+[Fri Nov 21 23:10:26 2014] [notice] child pid 30957 exit signal Bus error (10)
+[Fri Nov 21 23:10:43 2014] [notice] child pid 31013 exit signal Bus error (10)
+[Fri Nov 21 23:10:48 2014] [notice] child pid 31020 exit signal Bus error (10)
+[Fri Nov 21 23:11:19 2014] [notice] child pid 30989 exit signal Bus error (10)
+[Fri Nov 21 23:12:22 2014] [notice] child pid 31029 exit signal Bus error (10)
+[Fri Nov 21 23:17:22 2014] [notice] child pid 31079 exit signal Bus error (10)
+[Fri Nov 21 23:27:22 2014] [notice] child pid 30995 exit signal Bus error (10)
+[Fri Nov 21 23:57:23 2014] [notice] child pid 31272 exit signal Bus error (10)
+[Sat Nov 22 00:49:13 2014] [notice] child pid 31130 exit signal Bus error (10)
+[Sat Nov 22 00:49:19 2014] [notice] child pid 31049 exit signal Bus error (10)
+[Sat Nov 22 00:49:49 2014] [notice] child pid 32608 exit signal Bus error (10)
+[Sat Nov 22 00:50:50 2014] [notice] child pid 31036 exit signal Bus error (10)
+[Sat Nov 22 00:58:54 2014] [notice] child pid 32330 exit signal Bus error (10)
+[Sat Nov 22 00:59:03 2014] [notice] child pid 32666 exit signal Bus error (10)
+[Sat Nov 22 00:59:04 2014] [notice] child pid 31512 exit signal Bus error (10)
+[Sat Nov 22 00:59:05 2014] [notice] child pid 32710 exit signal Bus error (10)
+[Sat Nov 22 00:59:05 2014] [notice] child pid 32623 exit signal Bus error (10)
+[Sat Nov 22 00:59:06 2014] [notice] child pid 32989 exit signal Bus error (10)
+[Sat Nov 22 00:59:07 2014] [notice] child pid 32993 exit signal Bus error (10)
+[Sat Nov 22 00:59:08 2014] [notice] child pid 32995 exit signal Bus error (10)
+[Sat Nov 22 00:59:15 2014] [notice] child pid 32994 exit signal Bus error (10)
+[Sat Nov 22 01:06:34 2014] [notice] child pid 32998 exit signal Segmentation fault (11)
+[Sat Nov 22 01:14:10 2014] [notice] child pid 33003 exit signal Segmentation fault (11)
+[Sat Nov 22 01:24:12 2014] [notice] child pid 32996 exit signal Segmentation fault (11)
+[Sat Nov 22 01:28:37 2014] [notice] child pid 32997 exit signal Bus error (10)
+[Sat Nov 22 01:28:39 2014] [notice] child pid 32999 exit signal Bus error (10)
+[Sat Nov 22 01:30:20 2014] [notice] child pid 33224 exit signal Bus error (10)
+[Sat Nov 22 01:30:23 2014] [notice] child pid 33288 exit signal Bus error (10)
+[Sat Nov 22 01:32:45 2014] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/Staffs
+[Sat Nov 22 01:39:12 2014] [notice] caught SIGTERM, shutting down
+[Sat Nov 22 01:39:22 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Nov 22 01:39:25 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 22 01:39:25 2014] [notice] Digest: done
+[Sat Nov 22 01:39:29 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Nov 22 01:51:51 2014] [notice] caught SIGTERM, shutting down
+[Sat Nov 22 01:51:55 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Nov 22 01:51:58 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 22 01:51:58 2014] [notice] Digest: done
+[Sat Nov 22 01:51:59 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Nov 22 01:52:06 2014] [notice] child pid 34694 exit signal Segmentation fault (11)
+[Sat Nov 22 01:52:07 2014] [notice] child pid 34695 exit signal Bus error (10)
+[Sat Nov 22 01:54:14 2014] [notice] child pid 34696 exit signal Segmentation fault (11)
+[Sat Nov 22 01:55:43 2014] [notice] caught SIGTERM, shutting down
+[Sat Nov 22 01:55:46 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Nov 22 01:55:48 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 22 01:55:48 2014] [notice] Digest: done
+[Sat Nov 22 01:55:50 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Nov 22 01:59:16 2014] [notice] child pid 34834 exit signal Segmentation fault (11)
+[Sat Nov 22 01:59:18 2014] [notice] child pid 34827 exit signal Bus error (10)
+[Sat Nov 22 01:59:19 2014] [notice] child pid 34828 exit signal Bus error (10)
+[Sat Nov 22 01:59:20 2014] [notice] child pid 34829 exit signal Bus error (10)
+[Sat Nov 22 01:59:21 2014] [notice] child pid 34830 exit signal Bus error (10)
+[Sat Nov 22 01:59:22 2014] [notice] child pid 34831 exit signal Bus error (10)
+[Sat Nov 22 01:59:24 2014] [notice] child pid 34832 exit signal Bus error (10)
+[Sat Nov 22 02:04:37 2014] [notice] caught SIGTERM, shutting down
+[Sat Nov 22 02:04:39 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Nov 22 02:04:41 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 22 02:04:41 2014] [notice] Digest: done
+[Sat Nov 22 02:04:43 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Nov 22 02:04:47 2014] [notice] child pid 35148 exit signal Segmentation fault (11)
+[Sat Nov 22 02:04:49 2014] [notice] child pid 35147 exit signal Bus error (10)
+[Sat Nov 22 02:06:19 2014] [notice] caught SIGTERM, shutting down
+[Sat Nov 22 02:06:22 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Nov 22 02:06:25 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 22 02:06:25 2014] [notice] Digest: done
+[Sat Nov 22 02:06:28 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Nov 22 02:06:31 2014] [notice] child pid 35270 exit signal Segmentation fault (11)
+[Sat Nov 22 02:06:34 2014] [notice] child pid 35271 exit signal Bus error (10)
+[Sat Nov 22 02:07:00 2014] [notice] caught SIGTERM, shutting down
+[Sat Nov 22 02:07:04 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Nov 22 02:07:06 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 22 02:07:06 2014] [notice] Digest: done
+[Sat Nov 22 02:07:08 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Nov 22 02:14:51 2014] [notice] child pid 35299 exit signal Segmentation fault (11)
+[Sat Nov 22 02:14:54 2014] [notice] child pid 35298 exit signal Bus error (10)
+[Sat Nov 22 02:15:11 2014] [notice] child pid 35300 exit signal Bus error (10)
+[Sat Nov 22 02:15:13 2014] [notice] child pid 35301 exit signal Bus error (10)
+[Sat Nov 22 02:34:33 2014] [notice] caught SIGTERM, shutting down
+[Sat Nov 22 02:34:40 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Nov 22 02:34:42 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 22 02:34:42 2014] [notice] Digest: done
+[Sat Nov 22 02:34:44 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Nov 22 02:40:46 2014] [notice] child pid 36235 exit signal Segmentation fault (11)
+[Sat Nov 22 02:40:48 2014] [notice] child pid 36229 exit signal Bus error (10)
+[Sat Nov 22 02:41:22 2014] [notice] child pid 36230 exit signal Bus error (10)
+[Sat Nov 22 02:41:25 2014] [notice] child pid 36231 exit signal Bus error (10)
+[Sat Nov 22 12:42:53 2014] [notice] child pid 36234 exit signal Segmentation fault (11)
+[Sat Nov 22 12:42:57 2014] [notice] child pid 36228 exit signal Bus error (10)
+[Sat Nov 22 12:43:02 2014] [notice] child pid 37287 exit signal Bus error (10)
+[Sat Nov 22 12:43:08 2014] [notice] child pid 36417 exit signal Bus error (10)
+[Sat Nov 22 12:43:13 2014] [notice] child pid 37292 exit signal Bus error (10)
+[Sat Nov 22 12:43:20 2014] [notice] child pid 37295 exit signal Bus error (10)
+[Sat Nov 22 12:43:24 2014] [notice] child pid 37297 exit signal Bus error (10)
+[Sat Nov 22 12:43:33 2014] [notice] child pid 37298 exit signal Bus error (10)
+[Sat Nov 22 12:44:04 2014] [notice] child pid 36233 exit signal Segmentation fault (11)
+[Sat Nov 22 12:45:04 2014] [notice] child pid 37296 exit signal Segmentation fault (11)
+[Sat Nov 22 13:15:49 2014] [notice] child pid 37342 exit signal Bus error (10)
+[Sat Nov 22 13:15:55 2014] [notice] child pid 37382 exit signal Bus error (10)
+[Sat Nov 22 13:16:25 2014] [notice] child pid 36232 exit signal Bus error (10)
+[Sat Nov 22 13:17:35 2014] [notice] child pid 37291 exit signal Bus error (10)
+[Sat Nov 22 13:17:42 2014] [notice] child pid 37524 exit signal Bus error (10)
+[Sat Nov 22 13:18:12 2014] [notice] child pid 37526 exit signal Segmentation fault (11)
+[Sat Nov 22 13:19:25 2014] [notice] child pid 37430 exit signal Bus error (10)
+[Sat Nov 22 13:19:31 2014] [notice] child pid 37483 exit signal Bus error (10)
+[Sat Nov 22 13:20:01 2014] [notice] child pid 37487 exit signal Segmentation fault (11)
+[Sat Nov 22 13:21:14 2014] [notice] child pid 37565 exit signal Bus error (10)
+[Sat Nov 22 13:21:19 2014] [notice] child pid 37578 exit signal Bus error (10)
+[Sat Nov 22 13:21:49 2014] [notice] child pid 37516 exit signal Segmentation fault (11)
+[Sat Nov 22 13:23:01 2014] [notice] child pid 37543 exit signal Bus error (10)
+[Sat Nov 22 13:23:06 2014] [notice] child pid 37593 exit signal Bus error (10)
+[Sat Nov 22 13:23:37 2014] [notice] child pid 37622 exit signal Segmentation fault (11)
+[Sat Nov 22 13:24:49 2014] [notice] child pid 37630 exit signal Bus error (10)
+[Sat Nov 22 13:24:54 2014] [notice] child pid 37610 exit signal Bus error (10)
+[Sat Nov 22 13:25:25 2014] [notice] child pid 37618 exit signal Segmentation fault (11)
+[Sat Nov 22 13:26:37 2014] [notice] child pid 37642 exit signal Bus error (10)
+[Sat Nov 22 13:26:42 2014] [notice] child pid 37681 exit signal Bus error (10)
+[Sat Nov 22 13:27:12 2014] [notice] child pid 37728 exit signal Segmentation fault (11)
+[Sat Nov 22 13:28:25 2014] [notice] child pid 37731 exit signal Bus error (10)
+[Sat Nov 22 13:28:30 2014] [notice] child pid 37690 exit signal Bus error (10)
+[Sat Nov 22 13:29:01 2014] [notice] child pid 37699 exit signal Segmentation fault (11)
+[Sat Nov 22 13:30:13 2014] [notice] child pid 37770 exit signal Bus error (10)
+[Sat Nov 22 13:30:18 2014] [notice] child pid 37810 exit signal Bus error (10)
+[Sat Nov 22 13:30:48 2014] [notice] child pid 37815 exit signal Segmentation fault (11)
+[Sat Nov 22 13:32:00 2014] [notice] child pid 37783 exit signal Bus error (10)
+[Sat Nov 22 13:32:06 2014] [notice] child pid 37736 exit signal Bus error (10)
+[Sat Nov 22 13:32:36 2014] [notice] child pid 37820 exit signal Segmentation fault (11)
+[Sat Nov 22 13:33:52 2014] [notice] child pid 37835 exit signal Bus error (10)
+[Sat Nov 22 13:33:57 2014] [notice] child pid 37858 exit signal Bus error (10)
+[Sat Nov 22 13:34:28 2014] [notice] child pid 37865 exit signal Segmentation fault (11)
+[Sat Nov 22 13:35:35 2014] [notice] child pid 37785 exit signal Bus error (10)
+[Sat Nov 22 13:35:41 2014] [notice] child pid 37928 exit signal Bus error (10)
+[Sat Nov 22 13:36:11 2014] [notice] child pid 37941 exit signal Segmentation fault (11)
+[Sat Nov 22 13:37:24 2014] [notice] child pid 37874 exit signal Bus error (10)
+[Sat Nov 22 13:37:29 2014] [notice] child pid 37989 exit signal Bus error (10)
+[Sat Nov 22 13:38:00 2014] [notice] child pid 37912 exit signal Segmentation fault (11)
+[Sat Nov 22 13:39:12 2014] [notice] child pid 37917 exit signal Segmentation fault (11)
+[Sat Nov 22 13:39:17 2014] [notice] child pid 37948 exit signal Bus error (10)
+[Sat Nov 22 13:39:47 2014] [notice] child pid 37987 exit signal Segmentation fault (11)
+[Sat Nov 22 13:41:00 2014] [notice] child pid 37999 exit signal Bus error (10)
+[Sat Nov 22 13:41:05 2014] [notice] child pid 38016 exit signal Bus error (10)
+[Sat Nov 22 13:41:35 2014] [notice] child pid 38052 exit signal Segmentation fault (11)
+[Sat Nov 22 13:42:47 2014] [notice] child pid 38056 exit signal Bus error (10)
+[Sat Nov 22 13:42:53 2014] [notice] child pid 38018 exit signal Bus error (10)
+[Sat Nov 22 13:43:23 2014] [notice] child pid 38054 exit signal Segmentation fault (11)
+[Sat Nov 22 13:44:35 2014] [notice] child pid 38089 exit signal Bus error (10)
+[Sat Nov 22 13:44:40 2014] [notice] child pid 38123 exit signal Bus error (10)
+[Sat Nov 22 13:45:12 2014] [notice] child pid 38021 exit signal Segmentation fault (11)
+[Sat Nov 22 13:46:23 2014] [notice] child pid 38080 exit signal Bus error (10)
+[Sat Nov 22 13:46:28 2014] [notice] child pid 38105 exit signal Bus error (10)
+[Sat Nov 22 13:46:59 2014] [notice] child pid 38125 exit signal Segmentation fault (11)
+[Sat Nov 22 13:48:10 2014] [notice] child pid 38091 exit signal Bus error (10)
+[Sat Nov 22 13:48:16 2014] [notice] child pid 38129 exit signal Bus error (10)
+[Sat Nov 22 13:48:46 2014] [notice] child pid 38152 exit signal Segmentation fault (11)
+[Sat Nov 22 13:49:57 2014] [notice] child pid 38160 exit signal Bus error (10)
+[Sat Nov 22 13:50:03 2014] [notice] child pid 38169 exit signal Bus error (10)
+[Sat Nov 22 13:50:33 2014] [notice] child pid 38183 exit signal Segmentation fault (11)
+[Sat Nov 22 13:51:46 2014] [notice] child pid 38190 exit signal Bus error (10)
+[Sat Nov 22 13:51:51 2014] [notice] child pid 38210 exit signal Bus error (10)
+[Sat Nov 22 13:52:21 2014] [notice] child pid 38240 exit signal Segmentation fault (11)
+[Sat Nov 22 13:53:32 2014] [notice] child pid 38242 exit signal Bus error (10)
+[Sat Nov 22 13:53:38 2014] [notice] child pid 38200 exit signal Bus error (10)
+[Sat Nov 22 13:54:08 2014] [notice] child pid 38244 exit signal Segmentation fault (11)
+[Sat Nov 22 13:55:20 2014] [notice] child pid 38278 exit signal Bus error (10)
+[Sat Nov 22 13:55:25 2014] [notice] child pid 38287 exit signal Bus error (10)
+[Sat Nov 22 13:55:55 2014] [notice] child pid 38290 exit signal Segmentation fault (11)
+[Sat Nov 22 13:57:06 2014] [notice] child pid 38202 exit signal Bus error (10)
+[Sat Nov 22 13:57:12 2014] [notice] child pid 38337 exit signal Bus error (10)
+[Sat Nov 22 13:57:42 2014] [notice] child pid 38354 exit signal Segmentation fault (11)
+[Sat Nov 22 13:58:54 2014] [notice] child pid 38320 exit signal Bus error (10)
+[Sat Nov 22 13:58:59 2014] [notice] child pid 38322 exit signal Bus error (10)
+[Sat Nov 22 13:59:29 2014] [notice] child pid 38317 exit signal Segmentation fault (11)
+[Sat Nov 22 14:00:40 2014] [notice] child pid 38395 exit signal Bus error (10)
+[Sat Nov 22 14:00:46 2014] [notice] child pid 38410 exit signal Bus error (10)
+[Sat Nov 22 14:01:16 2014] [notice] child pid 38414 exit signal Segmentation fault (11)
+[Sat Nov 22 14:02:27 2014] [notice] child pid 38434 exit signal Bus error (10)
+[Sat Nov 22 14:02:32 2014] [notice] child pid 38366 exit signal Bus error (10)
+[Sat Nov 22 14:03:04 2014] [notice] child pid 38375 exit signal Segmentation fault (11)
+[Sat Nov 22 14:04:15 2014] [notice] child pid 38466 exit signal Bus error (10)
+[Sat Nov 22 14:04:20 2014] [notice] child pid 38422 exit signal Bus error (10)
+[Sat Nov 22 14:04:50 2014] [notice] child pid 38496 exit signal Segmentation fault (11)
+[Sat Nov 22 14:06:01 2014] [notice] child pid 38499 exit signal Bus error (10)
+[Sat Nov 22 14:06:07 2014] [notice] child pid 38531 exit signal Bus error (10)
+[Sat Nov 22 14:06:37 2014] [notice] child pid 38501 exit signal Segmentation fault (11)
+[Sat Nov 22 14:07:48 2014] [notice] child pid 38468 exit signal Bus error (10)
+[Sat Nov 22 14:07:54 2014] [notice] child pid 38470 exit signal Bus error (10)
+[Sat Nov 22 14:08:24 2014] [notice] child pid 38564 exit signal Segmentation fault (11)
+[Sat Nov 22 14:09:36 2014] [notice] child pid 38529 exit signal Bus error (10)
+[Sat Nov 22 14:09:41 2014] [notice] child pid 38533 exit signal Bus error (10)
+[Sat Nov 22 14:10:12 2014] [notice] child pid 38553 exit signal Segmentation fault (11)
+[Sat Nov 22 14:11:23 2014] [notice] child pid 38561 exit signal Bus error (10)
+[Sat Nov 22 14:11:28 2014] [notice] child pid 38574 exit signal Bus error (10)
+[Sat Nov 22 14:11:59 2014] [notice] child pid 38604 exit signal Segmentation fault (11)
+[Sat Nov 22 14:13:10 2014] [notice] child pid 38617 exit signal Bus error (10)
+[Sat Nov 22 14:13:15 2014] [notice] child pid 38629 exit signal Bus error (10)
+[Sat Nov 22 14:13:46 2014] [notice] child pid 38592 exit signal Segmentation fault (11)
+[Sat Nov 22 14:14:56 2014] [notice] child pid 38600 exit signal Bus error (10)
+[Sat Nov 22 14:15:01 2014] [notice] child pid 38688 exit signal Bus error (10)
+[Sat Nov 22 14:15:32 2014] [notice] child pid 38651 exit signal Segmentation fault (11)
+[Sat Nov 22 14:16:44 2014] [notice] child pid 38685 exit signal Bus error (10)
+[Sat Nov 22 14:16:49 2014] [notice] child pid 38634 exit signal Bus error (10)
+[Sat Nov 22 14:17:20 2014] [notice] child pid 38722 exit signal Segmentation fault (11)
+[Sat Nov 22 14:18:31 2014] [notice] child pid 38724 exit signal Bus error (10)
+[Sat Nov 22 14:18:37 2014] [notice] child pid 38637 exit signal Bus error (10)
+[Sat Nov 22 14:19:07 2014] [notice] child pid 38753 exit signal Segmentation fault (11)
+[Sat Nov 22 14:20:19 2014] [notice] child pid 38762 exit signal Bus error (10)
+[Sat Nov 22 14:20:24 2014] [notice] child pid 38690 exit signal Bus error (10)
+[Sat Nov 22 14:20:55 2014] [notice] child pid 38727 exit signal Segmentation fault (11)
+[Sat Nov 22 14:22:05 2014] [notice] child pid 38766 exit signal Bus error (10)
+[Sat Nov 22 14:22:11 2014] [notice] child pid 38785 exit signal Bus error (10)
+[Sat Nov 22 14:22:41 2014] [notice] child pid 38794 exit signal Segmentation fault (11)
+[Sat Nov 22 14:23:52 2014] [notice] child pid 38796 exit signal Bus error (10)
+[Sat Nov 22 14:23:57 2014] [notice] child pid 38823 exit signal Bus error (10)
+[Sat Nov 22 14:24:29 2014] [notice] child pid 38831 exit signal Segmentation fault (11)
+[Sat Nov 22 14:25:40 2014] [notice] child pid 38839 exit signal Bus error (10)
+[Sat Nov 22 14:25:45 2014] [notice] child pid 38851 exit signal Bus error (10)
+[Sat Nov 22 14:26:16 2014] [notice] child pid 38827 exit signal Segmentation fault (11)
+[Sat Nov 22 14:27:26 2014] [notice] child pid 38877 exit signal Bus error (10)
+[Sat Nov 22 14:27:32 2014] [notice] child pid 38800 exit signal Bus error (10)
+[Sat Nov 22 14:28:02 2014] [notice] child pid 38886 exit signal Segmentation fault (11)
+[Sat Nov 22 14:29:14 2014] [notice] child pid 38918 exit signal Bus error (10)
+[Sat Nov 22 14:29:20 2014] [notice] child pid 38875 exit signal Bus error (10)
+[Sat Nov 22 14:29:51 2014] [notice] child pid 38921 exit signal Segmentation fault (11)
+[Sat Nov 22 14:31:04 2014] [notice] child pid 38923 exit signal Bus error (10)
+[Sat Nov 22 14:31:09 2014] [notice] child pid 38949 exit signal Bus error (10)
+[Sat Nov 22 14:31:40 2014] [notice] child pid 38951 exit signal Segmentation fault (11)
+[Sat Nov 22 14:32:51 2014] [notice] child pid 38953 exit signal Bus error (10)
+[Sat Nov 22 14:32:56 2014] [notice] child pid 38977 exit signal Bus error (10)
+[Sat Nov 22 14:33:27 2014] [notice] child pid 39023 exit signal Segmentation fault (11)
+[Sat Nov 22 14:34:38 2014] [notice] child pid 38987 exit signal Bus error (10)
+[Sat Nov 22 14:34:43 2014] [notice] child pid 39046 exit signal Bus error (10)
+[Sat Nov 22 14:35:14 2014] [notice] child pid 39036 exit signal Segmentation fault (11)
+[Sat Nov 22 14:36:25 2014] [notice] child pid 39064 exit signal Bus error (10)
+[Sat Nov 22 14:36:31 2014] [notice] child pid 38989 exit signal Bus error (10)
+[Sat Nov 22 14:37:01 2014] [notice] child pid 39006 exit signal Segmentation fault (11)
+[Sat Nov 22 14:38:13 2014] [notice] child pid 39076 exit signal Bus error (10)
+[Sat Nov 22 14:38:17 2014] [notice] child pid 39137 exit signal Bus error (10)
+[Sat Nov 22 14:38:48 2014] [notice] child pid 39139 exit signal Segmentation fault (11)
+[Sat Nov 22 14:40:00 2014] [notice] child pid 39090 exit signal Bus error (10)
+[Sat Nov 22 14:40:06 2014] [notice] child pid 39100 exit signal Bus error (10)
+[Sat Nov 22 14:40:36 2014] [notice] child pid 39108 exit signal Segmentation fault (11)
+[Sat Nov 22 14:41:47 2014] [notice] child pid 39147 exit signal Bus error (10)
+[Sat Nov 22 14:41:53 2014] [notice] child pid 39181 exit signal Bus error (10)
+[Sat Nov 22 14:42:24 2014] [notice] child pid 39219 exit signal Segmentation fault (11)
+[Sat Nov 22 14:43:35 2014] [notice] child pid 39221 exit signal Bus error (10)
+[Sat Nov 22 14:43:39 2014] [notice] child pid 39184 exit signal Bus error (10)
+[Sat Nov 22 14:44:11 2014] [notice] child pid 39186 exit signal Segmentation fault (11)
+[Sat Nov 22 14:45:23 2014] [notice] child pid 39216 exit signal Bus error (10)
+[Sat Nov 22 14:45:29 2014] [notice] child pid 39243 exit signal Bus error (10)
+[Sat Nov 22 14:45:59 2014] [notice] child pid 39265 exit signal Segmentation fault (11)
+[Sat Nov 22 14:47:12 2014] [notice] child pid 39273 exit signal Bus error (10)
+[Sat Nov 22 14:47:18 2014] [notice] child pid 39282 exit signal Bus error (10)
+[Sat Nov 22 14:47:48 2014] [notice] child pid 39305 exit signal Segmentation fault (11)
+[Sat Nov 22 14:49:01 2014] [notice] child pid 39350 exit signal Bus error (10)
+[Sat Nov 22 14:49:06 2014] [notice] child pid 39356 exit signal Bus error (10)
+[Sat Nov 22 14:49:36 2014] [notice] child pid 39317 exit signal Segmentation fault (11)
+[Sat Nov 22 14:50:48 2014] [notice] child pid 39322 exit signal Bus error (10)
+[Sat Nov 22 14:50:54 2014] [notice] child pid 39341 exit signal Bus error (10)
+[Sat Nov 22 14:51:24 2014] [notice] child pid 39364 exit signal Segmentation fault (11)
+[Sat Nov 22 14:52:36 2014] [notice] child pid 39376 exit signal Bus error (10)
+[Sat Nov 22 14:52:41 2014] [notice] child pid 39386 exit signal Bus error (10)
+[Sat Nov 22 14:53:12 2014] [notice] child pid 39426 exit signal Segmentation fault (11)
+[Sat Nov 22 14:54:22 2014] [notice] child pid 39388 exit signal Bus error (10)
+[Sat Nov 22 14:54:28 2014] [notice] child pid 39391 exit signal Bus error (10)
+[Sat Nov 22 14:54:58 2014] [notice] child pid 39421 exit signal Segmentation fault (11)
+[Sat Nov 22 14:56:09 2014] [notice] child pid 39424 exit signal Bus error (10)
+[Sat Nov 22 14:56:15 2014] [notice] child pid 39454 exit signal Bus error (10)
+[Sat Nov 22 14:56:45 2014] [notice] child pid 39456 exit signal Segmentation fault (11)
+[Sat Nov 22 14:57:57 2014] [notice] child pid 39458 exit signal Bus error (10)
+[Sat Nov 22 14:58:03 2014] [notice] child pid 39488 exit signal Bus error (10)
+[Sat Nov 22 14:58:34 2014] [notice] child pid 39490 exit signal Segmentation fault (11)
+[Sat Nov 22 14:59:45 2014] [notice] child pid 39499 exit signal Bus error (10)
+[Sat Nov 22 14:59:51 2014] [notice] child pid 39521 exit signal Bus error (10)
+[Sat Nov 22 15:00:21 2014] [notice] child pid 39480 exit signal Segmentation fault (11)
+[Sat Nov 22 15:01:33 2014] [notice] child pid 39531 exit signal Bus error (10)
+[Sat Nov 22 15:01:38 2014] [notice] child pid 39540 exit signal Bus error (10)
+[Sat Nov 22 15:02:09 2014] [notice] child pid 39558 exit signal Segmentation fault (11)
+[Sat Nov 22 15:03:19 2014] [notice] child pid 39565 exit signal Bus error (10)
+[Sat Nov 22 15:03:25 2014] [notice] child pid 39581 exit signal Bus error (10)
+[Sat Nov 22 15:03:55 2014] [notice] child pid 39590 exit signal Segmentation fault (11)
+[Sat Nov 22 15:05:08 2014] [notice] child pid 39597 exit signal Bus error (10)
+[Sat Nov 22 15:05:14 2014] [notice] child pid 39635 exit signal Bus error (10)
+[Sat Nov 22 15:05:44 2014] [notice] child pid 39639 exit signal Segmentation fault (11)
+[Sat Nov 22 15:06:54 2014] [notice] child pid 39641 exit signal Bus error (10)
+[Sat Nov 22 15:06:59 2014] [notice] child pid 39683 exit signal Bus error (10)
+[Sat Nov 22 15:07:29 2014] [notice] child pid 39696 exit signal Segmentation fault (11)
+[Sat Nov 22 15:08:41 2014] [notice] child pid 39698 exit signal Bus error (10)
+[Sat Nov 22 15:08:46 2014] [notice] child pid 39733 exit signal Bus error (10)
+[Sat Nov 22 15:09:16 2014] [notice] child pid 39731 exit signal Segmentation fault (11)
+[Sat Nov 22 15:10:28 2014] [notice] child pid 39784 exit signal Bus error (10)
+[Sat Nov 22 15:10:35 2014] [notice] child pid 39735 exit signal Bus error (10)
+[Sat Nov 22 15:11:05 2014] [notice] child pid 39754 exit signal Segmentation fault (11)
+[Sat Nov 22 15:12:17 2014] [notice] child pid 39772 exit signal Bus error (10)
+[Sat Nov 22 15:12:22 2014] [notice] child pid 39797 exit signal Bus error (10)
+[Sat Nov 22 15:12:52 2014] [notice] child pid 39818 exit signal Segmentation fault (11)
+[Sat Nov 22 15:14:04 2014] [notice] child pid 39822 exit signal Bus error (10)
+[Sat Nov 22 15:14:10 2014] [notice] child pid 39815 exit signal Bus error (10)
+[Sat Nov 22 15:14:40 2014] [notice] child pid 39871 exit signal Segmentation fault (11)
+[Sat Nov 22 15:15:51 2014] [notice] child pid 39876 exit signal Bus error (10)
+[Sat Nov 22 15:15:56 2014] [notice] child pid 39835 exit signal Bus error (10)
+[Sat Nov 22 15:16:27 2014] [notice] child pid 39847 exit signal Segmentation fault (11)
+[Sat Nov 22 15:17:40 2014] [notice] child pid 39889 exit signal Bus error (10)
+[Sat Nov 22 15:17:45 2014] [notice] child pid 39922 exit signal Bus error (10)
+[Sat Nov 22 15:18:16 2014] [notice] child pid 39924 exit signal Segmentation fault (11)
+[Sat Nov 22 15:19:27 2014] [notice] child pid 39926 exit signal Bus error (10)
+[Sat Nov 22 15:19:32 2014] [notice] child pid 39966 exit signal Bus error (10)
+[Sat Nov 22 15:20:03 2014] [notice] child pid 39974 exit signal Segmentation fault (11)
+[Sat Nov 22 15:21:14 2014] [notice] child pid 39976 exit signal Bus error (10)
+[Sat Nov 22 15:21:20 2014] [notice] child pid 40001 exit signal Bus error (10)
+[Sat Nov 22 15:21:50 2014] [notice] child pid 40004 exit signal Segmentation fault (11)
+[Sat Nov 22 15:23:03 2014] [notice] child pid 40007 exit signal Bus error (10)
+[Sat Nov 22 15:23:08 2014] [notice] child pid 40026 exit signal Bus error (10)
+[Sat Nov 22 15:23:39 2014] [notice] child pid 40076 exit signal Segmentation fault (11)
+[Sat Nov 22 15:24:52 2014] [notice] child pid 40093 exit signal Bus error (10)
+[Sat Nov 22 15:24:57 2014] [notice] child pid 40104 exit signal Bus error (10)
+[Sat Nov 22 15:25:28 2014] [notice] child pid 40122 exit signal Segmentation fault (11)
+[Sat Nov 22 15:26:39 2014] [notice] child pid 40101 exit signal Bus error (10)
+[Sat Nov 22 15:26:45 2014] [notice] child pid 40043 exit signal Bus error (10)
+[Sat Nov 22 15:27:15 2014] [notice] child pid 40134 exit signal Segmentation fault (11)
+[Sat Nov 22 15:28:27 2014] [notice] child pid 40148 exit signal Bus error (10)
+[Sat Nov 22 15:28:31 2014] [notice] child pid 40156 exit signal Bus error (10)
+[Sat Nov 22 15:29:01 2014] [notice] child pid 40163 exit signal Segmentation fault (11)
+[Sat Nov 22 15:30:14 2014] [notice] child pid 40055 exit signal Bus error (10)
+[Sat Nov 22 15:30:19 2014] [notice] child pid 40231 exit signal Bus error (10)
+[Sat Nov 22 15:30:49 2014] [notice] child pid 40188 exit signal Segmentation fault (11)
+[Sat Nov 22 15:32:02 2014] [notice] child pid 40190 exit signal Bus error (10)
+[Sat Nov 22 15:32:07 2014] [notice] child pid 40192 exit signal Bus error (10)
+[Sat Nov 22 15:32:37 2014] [notice] child pid 40228 exit signal Segmentation fault (11)
+[Sat Nov 22 15:33:48 2014] [notice] child pid 40234 exit signal Bus error (10)
+[Sat Nov 22 15:33:53 2014] [notice] child pid 40262 exit signal Bus error (10)
+[Sat Nov 22 15:34:24 2014] [notice] child pid 40299 exit signal Segmentation fault (11)
+[Sat Nov 22 15:35:37 2014] [notice] child pid 40302 exit signal Bus error (10)
+[Sat Nov 22 15:35:41 2014] [notice] child pid 40266 exit signal Bus error (10)
+[Sat Nov 22 15:36:11 2014] [notice] child pid 40286 exit signal Segmentation fault (11)
+[Sat Nov 22 15:37:23 2014] [notice] child pid 40305 exit signal Bus error (10)
+[Sat Nov 22 15:37:28 2014] [notice] child pid 40329 exit signal Bus error (10)
+[Sat Nov 22 15:37:59 2014] [notice] child pid 40264 exit signal Segmentation fault (11)
+[Sat Nov 22 15:39:09 2014] [notice] child pid 40335 exit signal Bus error (10)
+[Sat Nov 22 15:39:15 2014] [notice] child pid 40338 exit signal Bus error (10)
+[Sat Nov 22 15:39:45 2014] [notice] child pid 40358 exit signal Segmentation fault (11)
+[Sat Nov 22 15:40:57 2014] [notice] child pid 40374 exit signal Bus error (10)
+[Sat Nov 22 15:41:02 2014] [notice] child pid 40377 exit signal Bus error (10)
+[Sat Nov 22 15:41:32 2014] [notice] child pid 40385 exit signal Segmentation fault (11)
+[Sat Nov 22 15:42:44 2014] [notice] child pid 40351 exit signal Bus error (10)
+[Sat Nov 22 15:42:49 2014] [notice] child pid 40404 exit signal Bus error (10)
+[Sat Nov 22 15:43:19 2014] [notice] child pid 40407 exit signal Segmentation fault (11)
+[Sat Nov 22 15:44:31 2014] [notice] child pid 40409 exit signal Bus error (10)
+[Sat Nov 22 15:44:36 2014] [notice] child pid 40434 exit signal Bus error (10)
+[Sat Nov 22 15:45:07 2014] [notice] child pid 40436 exit signal Segmentation fault (11)
+[Sat Nov 22 15:46:19 2014] [notice] child pid 40438 exit signal Bus error (10)
+[Sat Nov 22 15:46:24 2014] [notice] child pid 40464 exit signal Bus error (10)
+[Sat Nov 22 15:46:55 2014] [notice] child pid 40472 exit signal Segmentation fault (11)
+[Sat Nov 22 15:48:06 2014] [notice] child pid 40474 exit signal Bus error (10)
+[Sat Nov 22 15:48:11 2014] [notice] child pid 40488 exit signal Bus error (10)
+[Sat Nov 22 15:48:41 2014] [notice] child pid 40502 exit signal Segmentation fault (11)
+[Sat Nov 22 15:49:52 2014] [notice] child pid 40507 exit signal Bus error (10)
+[Sat Nov 22 15:49:58 2014] [notice] child pid 40513 exit signal Bus error (10)
+[Sat Nov 22 15:50:28 2014] [notice] child pid 40531 exit signal Segmentation fault (11)
+[Sat Nov 22 15:51:40 2014] [notice] child pid 40541 exit signal Bus error (10)
+[Sat Nov 22 15:51:45 2014] [notice] child pid 40553 exit signal Bus error (10)
+[Sat Nov 22 15:52:15 2014] [notice] child pid 40579 exit signal Segmentation fault (11)
+[Sat Nov 22 15:53:26 2014] [notice] child pid 40582 exit signal Bus error (10)
+[Sat Nov 22 15:53:32 2014] [notice] child pid 40545 exit signal Bus error (10)
+[Sat Nov 22 15:54:02 2014] [notice] child pid 40590 exit signal Segmentation fault (11)
+[Sat Nov 22 15:55:14 2014] [notice] child pid 40560 exit signal Bus error (10)
+[Sat Nov 22 15:55:19 2014] [notice] child pid 40617 exit signal Bus error (10)
+[Sat Nov 22 15:55:49 2014] [notice] child pid 40650 exit signal Segmentation fault (11)
+[Sat Nov 22 15:57:02 2014] [notice] child pid 40652 exit signal Bus error (10)
+[Sat Nov 22 15:57:07 2014] [notice] child pid 40620 exit signal Bus error (10)
+[Sat Nov 22 15:57:37 2014] [notice] child pid 40679 exit signal Segmentation fault (11)
+[Sat Nov 22 15:58:49 2014] [notice] child pid 40682 exit signal Bus error (10)
+[Sat Nov 22 15:58:55 2014] [notice] child pid 40622 exit signal Bus error (10)
+[Sat Nov 22 15:59:25 2014] [notice] child pid 40648 exit signal Segmentation fault (11)
+[Sat Nov 22 16:00:36 2014] [notice] child pid 40671 exit signal Bus error (10)
+[Sat Nov 22 16:00:41 2014] [notice] child pid 40695 exit signal Bus error (10)
+[Sat Nov 22 16:01:12 2014] [notice] child pid 40717 exit signal Segmentation fault (11)
+[Sat Nov 22 16:02:24 2014] [notice] child pid 40724 exit signal Bus error (10)
+[Sat Nov 22 16:02:30 2014] [notice] child pid 40739 exit signal Bus error (10)
+[Sat Nov 22 16:03:00 2014] [notice] child pid 40752 exit signal Segmentation fault (11)
+[Sat Nov 22 16:04:11 2014] [notice] child pid 40764 exit signal Bus error (10)
+[Sat Nov 22 16:04:16 2014] [notice] child pid 40818 exit signal Bus error (10)
+[Sat Nov 22 16:04:47 2014] [notice] child pid 40773 exit signal Segmentation fault (11)
+[Sat Nov 22 16:05:58 2014] [notice] child pid 40782 exit signal Bus error (10)
+[Sat Nov 22 16:06:04 2014] [notice] child pid 40790 exit signal Bus error (10)
+[Sat Nov 22 16:06:34 2014] [notice] child pid 40851 exit signal Segmentation fault (11)
+[Sat Nov 22 16:07:46 2014] [notice] child pid 40853 exit signal Bus error (10)
+[Sat Nov 22 16:07:52 2014] [notice] child pid 40855 exit signal Bus error (10)
+[Sat Nov 22 16:08:22 2014] [notice] child pid 40816 exit signal Segmentation fault (11)
+[Sat Nov 22 16:09:34 2014] [notice] child pid 40820 exit signal Bus error (10)
+[Sat Nov 22 16:09:40 2014] [notice] child pid 40884 exit signal Bus error (10)
+[Sat Nov 22 16:10:10 2014] [notice] child pid 40894 exit signal Segmentation fault (11)
+[Sat Nov 22 16:11:22 2014] [notice] child pid 40896 exit signal Bus error (10)
+[Sat Nov 22 16:11:27 2014] [notice] child pid 40918 exit signal Bus error (10)
+[Sat Nov 22 16:11:58 2014] [notice] child pid 40926 exit signal Segmentation fault (11)
+[Sat Nov 22 16:13:10 2014] [notice] child pid 40928 exit signal Bus error (10)
+[Sat Nov 22 16:13:15 2014] [notice] child pid 40937 exit signal Bus error (10)
+[Sat Nov 22 16:13:46 2014] [notice] child pid 40955 exit signal Segmentation fault (11)
+[Sat Nov 22 16:14:57 2014] [notice] child pid 40958 exit signal Bus error (10)
+[Sat Nov 22 16:15:03 2014] [notice] child pid 40988 exit signal Bus error (10)
+[Sat Nov 22 16:15:34 2014] [notice] child pid 41000 exit signal Segmentation fault (11)
+[Sat Nov 22 16:16:44 2014] [notice] child pid 41002 exit signal Bus error (10)
+[Sat Nov 22 16:16:49 2014] [notice] child pid 40976 exit signal Bus error (10)
+[Sat Nov 22 16:17:20 2014] [notice] child pid 41015 exit signal Segmentation fault (11)
+[Sat Nov 22 16:18:32 2014] [notice] child pid 41035 exit signal Bus error (10)
+[Sat Nov 22 16:18:38 2014] [notice] child pid 40962 exit signal Bus error (10)
+[Sat Nov 22 16:19:08 2014] [notice] child pid 41042 exit signal Segmentation fault (11)
+[Sat Nov 22 16:20:21 2014] [notice] child pid 41078 exit signal Bus error (10)
+[Sat Nov 22 16:20:27 2014] [notice] child pid 41084 exit signal Bus error (10)
+[Sat Nov 22 16:20:57 2014] [notice] child pid 41114 exit signal Segmentation fault (11)
+[Sat Nov 22 16:22:08 2014] [notice] child pid 41127 exit signal Bus error (10)
+[Sat Nov 22 16:22:14 2014] [notice] child pid 41081 exit signal Bus error (10)
+[Sat Nov 22 16:22:45 2014] [notice] child pid 41037 exit signal Segmentation fault (11)
+[Sat Nov 22 16:23:56 2014] [notice] child pid 41130 exit signal Bus error (10)
+[Sat Nov 22 16:24:02 2014] [notice] child pid 41157 exit signal Bus error (10)
+[Sat Nov 22 16:24:32 2014] [notice] child pid 41182 exit signal Segmentation fault (11)
+[Sat Nov 22 16:26:31 2014] [notice] child pid 41221 exit signal Bus error (10)
+[Sat Nov 22 16:26:37 2014] [notice] child pid 41188 exit signal Bus error (10)
+[Sat Nov 22 16:27:08 2014] [notice] child pid 41203 exit signal Segmentation fault (11)
+[Sat Nov 22 16:28:19 2014] [notice] child pid 41267 exit signal Bus error (10)
+[Sat Nov 22 16:28:24 2014] [notice] child pid 41277 exit signal Bus error (10)
+[Sat Nov 22 16:28:55 2014] [notice] child pid 41306 exit signal Segmentation fault (11)
+[Sat Nov 22 16:30:06 2014] [notice] child pid 41232 exit signal Bus error (10)
+[Sat Nov 22 16:30:11 2014] [notice] child pid 41336 exit signal Bus error (10)
+[Sat Nov 22 16:30:42 2014] [notice] child pid 41229 exit signal Segmentation fault (11)
+[Sat Nov 22 16:31:53 2014] [notice] child pid 41339 exit signal Bus error (10)
+[Sat Nov 22 16:32:00 2014] [notice] child pid 41365 exit signal Bus error (10)
+[Sat Nov 22 16:32:30 2014] [notice] child pid 41369 exit signal Segmentation fault (11)
+[Sat Nov 22 16:33:42 2014] [notice] child pid 41310 exit signal Bus error (10)
+[Sat Nov 22 16:33:49 2014] [notice] child pid 41341 exit signal Bus error (10)
+[Sat Nov 22 16:34:19 2014] [notice] child pid 41308 exit signal Segmentation fault (11)
+[Sat Nov 22 16:35:31 2014] [notice] child pid 41372 exit signal Bus error (10)
+[Sat Nov 22 16:35:35 2014] [notice] child pid 41386 exit signal Bus error (10)
+[Sat Nov 22 16:36:06 2014] [notice] child pid 41406 exit signal Segmentation fault (11)
+[Sat Nov 22 16:37:17 2014] [notice] child pid 41410 exit signal Bus error (10)
+[Sat Nov 22 16:37:23 2014] [notice] child pid 41428 exit signal Bus error (10)
+[Sat Nov 22 16:37:53 2014] [notice] child pid 41436 exit signal Segmentation fault (11)
+[Sat Nov 22 16:39:06 2014] [notice] child pid 41403 exit signal Bus error (10)
+[Sat Nov 22 16:39:10 2014] [notice] child pid 41442 exit signal Bus error (10)
+[Sat Nov 22 16:39:41 2014] [notice] child pid 41452 exit signal Segmentation fault (11)
+[Sat Nov 22 16:40:52 2014] [notice] child pid 41464 exit signal Bus error (10)
+[Sat Nov 22 16:40:58 2014] [notice] child pid 41483 exit signal Bus error (10)
+[Sat Nov 22 16:41:28 2014] [notice] child pid 41508 exit signal Segmentation fault (11)
+[Sat Nov 22 16:42:40 2014] [notice] child pid 41473 exit signal Bus error (10)
+[Sat Nov 22 16:42:46 2014] [notice] child pid 41512 exit signal Bus error (10)
+[Sat Nov 22 16:43:16 2014] [notice] child pid 41540 exit signal Segmentation fault (11)
+[Sat Nov 22 16:44:27 2014] [notice] child pid 41510 exit signal Segmentation fault (11)
+[Sat Nov 22 16:44:33 2014] [notice] child pid 41475 exit signal Bus error (10)
+[Sat Nov 22 16:45:03 2014] [notice] child pid 41546 exit signal Segmentation fault (11)
+[Sat Nov 22 16:46:15 2014] [notice] child pid 41570 exit signal Segmentation fault (11)
+[Sat Nov 22 16:46:20 2014] [notice] child pid 41587 exit signal Bus error (10)
+[Sat Nov 22 16:46:50 2014] [notice] child pid 41543 exit signal Segmentation fault (11)
+[Sat Nov 22 16:48:03 2014] [notice] child pid 41593 exit signal Segmentation fault (11)
+[Sat Nov 22 16:48:08 2014] [notice] child pid 41608 exit signal Bus error (10)
+[Sat Nov 22 16:48:38 2014] [notice] child pid 41629 exit signal Segmentation fault (11)
+[Sat Nov 22 16:49:49 2014] [notice] child pid 41632 exit signal Segmentation fault (11)
+[Sat Nov 22 16:49:55 2014] [notice] child pid 41651 exit signal Bus error (10)
+[Sat Nov 22 16:50:25 2014] [notice] child pid 41663 exit signal Segmentation fault (11)
+[Sat Nov 22 16:51:37 2014] [notice] child pid 41625 exit signal Segmentation fault (11)
+[Sat Nov 22 16:51:43 2014] [notice] child pid 41707 exit signal Bus error (10)
+[Sat Nov 22 16:52:13 2014] [notice] child pid 41727 exit signal Segmentation fault (11)
+[Sat Nov 22 16:53:24 2014] [notice] child pid 41731 exit signal Segmentation fault (11)
+[Sat Nov 22 16:53:30 2014] [notice] child pid 41687 exit signal Bus error (10)
+[Sat Nov 22 16:54:00 2014] [notice] child pid 41695 exit signal Segmentation fault (11)
+[Sat Nov 22 16:55:12 2014] [notice] child pid 41739 exit signal Segmentation fault (11)
+[Sat Nov 22 16:55:17 2014] [notice] child pid 41766 exit signal Bus error (10)
+[Sat Nov 22 16:55:48 2014] [notice] child pid 41769 exit signal Segmentation fault (11)
+[Sat Nov 22 16:56:59 2014] [notice] child pid 41771 exit signal Segmentation fault (11)
+[Sat Nov 22 16:57:04 2014] [notice] child pid 41798 exit signal Bus error (10)
+[Sat Nov 22 16:57:35 2014] [notice] child pid 41800 exit signal Segmentation fault (11)
+[Sat Nov 22 17:19:51 2014] [notice] child pid 41825 exit signal Segmentation fault (11)
+[Sat Nov 22 17:19:59 2014] [notice] child pid 41843 exit signal Bus error (10)
+[Sat Nov 22 17:20:29 2014] [notice] child pid 41796 exit signal Segmentation fault (11)
+[Sat Nov 22 17:21:30 2014] [notice] child pid 41851 exit signal Segmentation fault (11)
+[Sat Nov 22 17:26:30 2014] [notice] child pid 41884 exit signal Segmentation fault (11)
+[Sat Nov 22 17:36:31 2014] [notice] child pid 41885 exit signal Segmentation fault (11)
+[Sat Nov 22 18:49:52 2014] [notice] child pid 42071 exit signal Segmentation fault (11)
+[Sat Nov 22 18:49:58 2014] [notice] child pid 42361 exit signal Bus error (10)
+[Sat Nov 22 18:50:29 2014] [notice] child pid 41895 exit signal Segmentation fault (11)
+[Sat Nov 22 18:51:29 2014] [notice] child pid 41944 exit signal Segmentation fault (11)
+[Sat Nov 22 18:51:38 2014] [notice] child pid 42746 exit signal Bus error (10)
+[Sat Nov 22 18:51:38 2014] [notice] child pid 41863 exit signal Bus error (10)
+[Sat Nov 22 18:53:16 2014] [notice] child pid 42765 exit signal Segmentation fault (11)
+[Sat Nov 22 18:53:17 2014] [notice] child pid 42794 exit signal Bus error (10)
+[Sat Nov 22 18:53:18 2014] [notice] child pid 42833 exit signal Bus error (10)
+[Sat Nov 22 18:53:23 2014] [notice] child pid 42837 exit signal Bus error (10)
+[Sat Nov 22 18:53:54 2014] [notice] child pid 42838 exit signal Segmentation fault (11)
+[Sat Nov 22 18:54:03 2014] [notice] child pid 42839 exit signal Bus error (10)
+[Sat Nov 22 18:54:54 2014] [notice] child pid 42903 exit signal Segmentation fault (11)
+[Sat Nov 22 18:59:56 2014] [notice] child pid 42902 exit signal Bus error (10)
+[Sat Nov 22 19:09:57 2014] [notice] child pid 42939 exit signal Segmentation fault (11)
+[Sat Nov 22 19:29:02 2014] [notice] child pid 43604 exit signal Segmentation fault (11)
+[Sat Nov 22 19:29:02 2014] [notice] child pid 43117 exit signal Bus error (10)
+[Sat Nov 22 19:29:24 2014] [notice] child pid 43603 exit signal Segmentation fault (11)
+[Sat Nov 22 19:29:25 2014] [notice] child pid 43406 exit signal Bus error (10)
+[Sat Nov 22 19:29:25 2014] [notice] child pid 42940 exit signal Bus error (10)
+[Sat Nov 22 19:29:26 2014] [notice] child pid 42927 exit signal Bus error (10)
+[Sat Nov 22 19:30:19 2014] [notice] child pid 44046 exit signal Bus error (10)
+[Sat Nov 22 19:30:19 2014] [notice] child pid 43605 exit signal Segmentation fault (11)
+[Sat Nov 22 19:30:19 2014] [notice] child pid 42904 exit signal Bus error (10)
+[Sat Nov 22 19:30:20 2014] [notice] child pid 44047 exit signal Bus error (10)
+[Sat Nov 22 22:24:02 2014] [notice] caught SIGTERM, shutting down
+[Sat Nov 22 22:24:04 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Nov 22 22:24:06 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 22 22:24:06 2014] [notice] Digest: done
+[Sat Nov 22 22:24:07 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Nov 22 22:27:01 2014] [notice] child pid 48344 exit signal Segmentation fault (11)
+[Sat Nov 22 22:27:02 2014] [notice] child pid 48345 exit signal Bus error (10)
+[Sat Nov 22 22:27:04 2014] [notice] child pid 48354 exit signal Bus error (10)
+[Sat Nov 22 22:27:06 2014] [notice] child pid 48355 exit signal Bus error (10)
+[Sat Nov 22 22:27:07 2014] [notice] child pid 48356 exit signal Bus error (10)
+[Sat Nov 22 22:27:08 2014] [notice] child pid 48339 exit signal Bus error (10)
+[Sat Nov 22 22:27:10 2014] [notice] child pid 48338 exit signal Bus error (10)
+[Sat Nov 22 22:27:16 2014] [notice] child pid 48340 exit signal Bus error (10)
+[Sat Nov 22 22:34:20 2014] [notice] caught SIGTERM, shutting down
+[Sat Nov 22 22:34:22 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Nov 22 22:34:24 2014] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 22 22:34:24 2014] [notice] Digest: done
+[Sat Nov 22 22:34:27 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Nov 22 22:41:04 2014] [notice] child pid 48755 exit signal Bus error (10)
+[Sat Nov 22 22:41:08 2014] [notice] child pid 48754 exit signal Bus error (10)
+[Sat Nov 22 22:41:13 2014] [notice] child pid 48756 exit signal Bus error (10)
+[Sat Nov 22 22:41:18 2014] [notice] child pid 48955 exit signal Bus error (10)
+[Sat Nov 22 22:41:22 2014] [notice] child pid 48758 exit signal Bus error (10)
+[Sat Nov 22 22:41:26 2014] [notice] child pid 48753 exit signal Bus error (10)
+[Sat Nov 22 22:41:30 2014] [notice] child pid 48757 exit signal Bus error (10)
+[Sat Nov 22 22:41:38 2014] [notice] child pid 48752 exit signal Bus error (10)
+[Tue Nov 25 18:54:14 2014] [notice] caught SIGTERM, shutting down
+[Tue Nov 25 20:38:22 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 25 20:38:23 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 25 20:38:23 2014] [notice] Digest: done
+[Tue Nov 25 20:38:23 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Fri Nov 28 16:01:00 2014] [notice] caught SIGTERM, shutting down
+[Fri Nov 28 16:02:46 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Nov 28 16:02:48 2014] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 28 16:02:48 2014] [notice] Digest: done
+[Fri Nov 28 16:02:49 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Fri Nov 28 16:19:34 2014] [notice] caught SIGTERM, shutting down
+[Fri Nov 28 16:20:28 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Nov 28 16:20:29 2014] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 28 16:20:29 2014] [notice] Digest: done
+[Fri Nov 28 16:20:30 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Fri Dec 05 19:23:28 2014] [error] [client 127.0.0.1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/thumb, referer: http://video.fc2.com/a/content/20140125EEttSyNd/&otag=1&tk=TWpBMU9UTXhNelk9&start=1710.6
+[Thu Dec 11 03:37:38 2014] [notice] caught SIGTERM, shutting down
+[Thu Dec 11 03:40:37 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 11 03:40:38 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Dec 11 03:40:38 2014] [notice] Digest: done
+[Thu Dec 11 03:40:39 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Mon Dec 15 00:57:22 2014] [notice] caught SIGTERM, shutting down
+[Mon Dec 15 00:57:23 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Dec 15 00:57:24 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Dec 15 00:57:24 2014] [notice] Digest: done
+[Mon Dec 15 00:57:24 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Dec 20 02:11:54 2014] [error] [client ::1] user EnprograPHP not found: /phpmyadmin/navigation.php
+[Tue Dec 23 23:42:44 2014] [notice] caught SIGTERM, shutting down
+[Tue Dec 23 23:43:45 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 23 23:43:49 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Dec 23 23:43:49 2014] [notice] Digest: done
+[Tue Dec 23 23:43:57 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Tue Dec 23 23:54:35 2014] [error] [client ::1] user EnprograPHP not found: /phpmyadmin/index.php
+[Tue Dec 23 23:54:42 2014] [error] [client ::1] user xampp: authentication failure for "/phpmyadmin/index.php": Password Mismatch
+[Sun Dec 28 23:23:34 2014] [notice] caught SIGTERM, shutting down
+[Sun Dec 28 23:27:08 2014] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Dec 28 23:27:09 2014] [notice] Digest: generating secret for digest authentication ...
+[Sun Dec 28 23:27:09 2014] [notice] Digest: done
+[Sun Dec 28 23:27:10 2014] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Thu Jan 01 22:43:18 2015] [notice] caught SIGTERM, shutting down
+[Thu Jan 01 22:44:12 2015] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 01 22:44:16 2015] [notice] Digest: generating secret for digest authentication ...
+[Thu Jan 01 22:44:16 2015] [notice] Digest: done
+[Thu Jan 01 22:44:22 2015] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Jan 03 03:52:32 2015] [notice] child pid 5115 exit signal Bus error (10)
+[Sat Jan 03 03:52:32 2015] [notice] child pid 589 exit signal Bus error (10)
+[Sat Jan 03 03:52:32 2015] [notice] child pid 554 exit signal Bus error (10)
+[Sat Jan 03 03:52:33 2015] [notice] child pid 561 exit signal Bus error (10)
+[Sat Jan 03 03:52:33 2015] [notice] child pid 557 exit signal Bus error (10)
+[Sat Jan 03 03:52:34 2015] [notice] child pid 560 exit signal Bus error (10)
+[Sat Jan 03 03:52:35 2015] [notice] child pid 556 exit signal Bus error (10)
+[Sat Jan 03 03:52:41 2015] [notice] child pid 587 exit signal Bus error (10)
+[Sat Jan 03 03:52:48 2015] [notice] child pid 555 exit signal Bus error (10)
+[Sat Jan 03 03:52:49 2015] [notice] child pid 28035 exit signal Bus error (10)
+[Sat Jan 03 03:52:50 2015] [notice] child pid 28036 exit signal Bus error (10)
+[Sat Jan 03 03:52:51 2015] [notice] child pid 28046 exit signal Bus error (10)
+[Sat Jan 03 03:52:51 2015] [notice] child pid 4953 exit signal Bus error (10)
+[Sat Jan 03 03:56:43 2015] [notice] child pid 28066 exit signal Bus error (10)
+[Sat Jan 03 03:56:44 2015] [notice] child pid 28063 exit signal Bus error (10)
+[Sat Jan 03 03:56:45 2015] [notice] child pid 28059 exit signal Bus error (10)
+[Sat Jan 03 03:56:46 2015] [notice] child pid 28061 exit signal Bus error (10)
+[Sat Jan 03 03:56:56 2015] [notice] child pid 28060 exit signal Bus error (10)
+[Sat Jan 03 03:56:57 2015] [notice] child pid 28065 exit signal Bus error (10)
+[Sat Jan 03 03:56:58 2015] [notice] child pid 28208 exit signal Bus error (10)
+[Sat Jan 03 03:56:58 2015] [notice] child pid 28064 exit signal Bus error (10)
+[Sat Jan 03 03:57:02 2015] [notice] child pid 28214 exit signal Bus error (10)
+[Sat Jan 03 03:57:03 2015] [notice] child pid 28229 exit signal Bus error (10)
+[Sat Jan 03 03:57:17 2015] [notice] child pid 28230 exit signal Bus error (10)
+[Sat Jan 03 03:57:18 2015] [notice] child pid 28231 exit signal Bus error (10)
+[Sat Jan 03 03:57:33 2015] [notice] child pid 28243 exit signal Bus error (10)
+[Sat Jan 03 03:57:34 2015] [notice] child pid 28244 exit signal Bus error (10)
+[Sat Jan 03 03:57:51 2015] [notice] child pid 28245 exit signal Bus error (10)
+[Sat Jan 03 03:57:54 2015] [notice] child pid 28249 exit signal Bus error (10)
+[Sat Jan 03 03:57:56 2015] [notice] child pid 28237 exit signal Bus error (10)
+[Sat Jan 03 03:57:57 2015] [notice] child pid 28251 exit signal Bus error (10)
+[Sat Jan 03 03:58:01 2015] [notice] child pid 28252 exit signal Bus error (10)
+[Sat Jan 03 03:58:02 2015] [notice] child pid 28253 exit signal Bus error (10)
+[Sat Jan 03 03:58:03 2015] [notice] child pid 28282 exit signal Bus error (10)
+[Sat Jan 03 03:58:34 2015] [notice] caught SIGTERM, shutting down
+[Sat Jan 03 03:58:37 2015] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jan 03 03:58:39 2015] [notice] Digest: generating secret for digest authentication ...
+[Sat Jan 03 03:58:39 2015] [notice] Digest: done
+[Sat Jan 03 03:58:40 2015] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Jan 03 03:58:43 2015] [notice] child pid 28438 exit signal Bus error (10)
+[Sat Jan 03 03:58:44 2015] [notice] child pid 28439 exit signal Bus error (10)
+[Sat Jan 03 04:00:21 2015] [notice] child pid 28448 exit signal Bus error (10)
+[Sat Jan 03 04:05:22 2015] [notice] child pid 28449 exit signal Bus error (10)
+[Sat Jan 03 04:15:22 2015] [notice] child pid 28441 exit signal Bus error (10)
+[Sat Jan 03 04:20:03 2015] [notice] caught SIGTERM, shutting down
+[Sat Jan 03 04:20:49 2015] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jan 03 04:20:50 2015] [notice] Digest: generating secret for digest authentication ...
+[Sat Jan 03 04:20:50 2015] [notice] Digest: done
+[Sat Jan 03 04:20:51 2015] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Jan 03 04:21:10 2015] [notice] child pid 504 exit signal Bus error (10)
+[Sat Jan 03 04:21:16 2015] [notice] child pid 509 exit signal Bus error (10)
+[Sat Jan 03 04:21:24 2015] [notice] child pid 510 exit signal Bus error (10)
+[Sat Jan 03 04:21:36 2015] [notice] child pid 547 exit signal Bus error (10)
+[Sat Jan 03 04:21:55 2015] [notice] child pid 558 exit signal Bus error (10)
+[Sat Jan 03 04:22:10 2015] [notice] child pid 562 exit signal Bus error (10)
+[Sat Jan 03 04:22:27 2015] [notice] child pid 563 exit signal Bus error (10)
+[Sat Jan 03 04:22:31 2015] [notice] child pid 508 exit signal Bus error (10)
+[Sat Jan 03 04:22:50 2015] [notice] child pid 677 exit signal Bus error (10)
+[Sat Jan 03 04:23:21 2015] [notice] child pid 507 exit signal Bus error (10)
+[Sat Jan 03 04:24:24 2015] [notice] child pid 706 exit signal Bus error (10)
+[Sat Jan 03 04:25:04 2015] [notice] child pid 619 exit signal Bus error (10)
+[Sat Jan 03 04:25:05 2015] [notice] child pid 646 exit signal Bus error (10)
+[Sat Jan 03 04:25:06 2015] [notice] child pid 668 exit signal Bus error (10)
+[Sat Jan 03 04:25:09 2015] [notice] child pid 776 exit signal Bus error (10)
+[Sat Jan 03 04:25:15 2015] [notice] child pid 796 exit signal Bus error (10)
+[Sat Jan 03 04:28:39 2015] [notice] child pid 835 exit signal Bus error (10)
+[Sat Jan 03 04:28:40 2015] [notice] child pid 836 exit signal Bus error (10)
+[Sat Jan 03 04:30:23 2015] [notice] child pid 838 exit signal Bus error (10)
+[Sat Jan 03 04:30:25 2015] [notice] child pid 750 exit signal Bus error (10)
+[Sat Jan 03 04:30:36 2015] [notice] child pid 833 exit signal Bus error (10)
+[Sat Jan 03 04:30:38 2015] [notice] child pid 988 exit signal Bus error (10)
+[Sat Jan 03 04:31:32 2015] [notice] child pid 990 exit signal Bus error (10)
+[Sat Jan 03 04:31:42 2015] [notice] child pid 1049 exit signal Bus error (10)
+[Sat Jan 03 04:31:43 2015] [notice] child pid 1055 exit signal Bus error (10)
+[Sat Jan 03 04:32:23 2015] [notice] child pid 1056 exit signal Bus error (10)
+[Sat Jan 03 04:32:30 2015] [notice] child pid 1148 exit signal Bus error (10)
+[Sat Jan 03 04:32:31 2015] [notice] child pid 1164 exit signal Bus error (10)
+[Sat Jan 03 04:34:00 2015] [notice] caught SIGTERM, shutting down
+[Sat Jan 03 04:34:40 2015] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jan 03 04:34:41 2015] [notice] Digest: generating secret for digest authentication ...
+[Sat Jan 03 04:34:41 2015] [notice] Digest: done
+[Sat Jan 03 04:34:41 2015] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Jan 03 04:34:58 2015] [notice] child pid 483 exit signal Bus error (10)
+[Sat Jan 03 04:35:04 2015] [notice] child pid 487 exit signal Bus error (10)
+[Sat Jan 03 04:35:11 2015] [notice] child pid 493 exit signal Bus error (10)
+[Sat Jan 03 04:35:22 2015] [notice] child pid 527 exit signal Bus error (10)
+[Sat Jan 03 04:35:29 2015] [notice] child pid 532 exit signal Bus error (10)
+[Sat Jan 03 04:35:35 2015] [notice] child pid 533 exit signal Bus error (10)
+[Sat Jan 03 04:35:39 2015] [notice] child pid 486 exit signal Bus error (10)
+[Sat Jan 03 04:35:53 2015] [notice] child pid 485 exit signal Bus error (10)
+[Sat Jan 03 04:36:54 2015] [notice] child pid 564 exit signal Bus error (10)
+[Sat Jan 03 04:39:32 2015] [notice] child pid 604 exit signal Bus error (10)
+[Sat Jan 03 04:40:20 2015] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cakephp
+[Sat Jan 03 04:40:35 2015] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sat Jan 03 04:40:41 2015] [notice] child pid 878 exit signal Bus error (10)
+[Sat Jan 03 04:40:41 2015] [notice] child pid 876 exit signal Bus error (10)
+[Sat Jan 03 04:41:48 2015] [notice] caught SIGTERM, shutting down
+[Sat Jan 03 04:41:59 2015] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jan 03 04:42:00 2015] [notice] Digest: generating secret for digest authentication ...
+[Sat Jan 03 04:42:00 2015] [notice] Digest: done
+[Sat Jan 03 04:42:00 2015] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Jan 03 04:42:17 2015] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cake
+[Sat Jan 03 04:42:29 2015] [notice] child pid 1098 exit signal Bus error (10)
+[Sat Jan 03 04:42:31 2015] [notice] child pid 1101 exit signal Bus error (10)
+[Sat Jan 03 04:42:31 2015] [notice] child pid 1094 exit signal Bus error (10)
+[Sat Jan 03 04:42:31 2015] [notice] child pid 1093 exit signal Bus error (10)
+[Sat Jan 03 04:42:37 2015] [notice] child pid 1095 exit signal Bus error (10)
+[Sat Jan 03 04:42:37 2015] [notice] caught SIGTERM, shutting down
+[Sat Jan 03 04:42:54 2015] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jan 03 04:42:55 2015] [notice] Digest: generating secret for digest authentication ...
+[Sat Jan 03 04:42:55 2015] [notice] Digest: done
+[Sat Jan 03 04:42:55 2015] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Jan 03 04:43:00 2015] [notice] child pid 1155 exit signal Bus error (10)
+[Sat Jan 03 04:43:01 2015] [notice] child pid 1156 exit signal Bus error (10)
+[Sat Jan 03 04:43:01 2015] [notice] child pid 1154 exit signal Bus error (10)
+[Sat Jan 03 04:43:31 2015] [notice] child pid 1158 exit signal Bus error (10)
+[Sat Jan 03 04:44:32 2015] [notice] child pid 1160 exit signal Bus error (10)
+[Sat Jan 03 04:47:44 2015] [notice] child pid 1159 exit signal Bus error (10)
+[Sat Jan 03 04:47:53 2015] [notice] child pid 1216 exit signal Bus error (10)
+[Sat Jan 03 04:49:30 2015] [notice] child pid 1180 exit signal Bus error (10)
+[Sat Jan 03 04:54:31 2015] [notice] child pid 1161 exit signal Bus error (10)
+[Sat Jan 03 05:04:31 2015] [notice] child pid 1329 exit signal Bus error (10)
+[Sat Jan 03 05:34:32 2015] [notice] child pid 1792 exit signal Bus error (10)
+[Sat Jan 03 13:16:42 2015] [notice] child pid 1388 exit signal Bus error (10)
+[Sat Jan 03 13:16:47 2015] [notice] child pid 2603 exit signal Bus error (10)
+[Sat Jan 03 13:17:17 2015] [notice] child pid 1326 exit signal Bus error (10)
+[Sat Jan 03 13:18:18 2015] [notice] child pid 1157 exit signal Bus error (10)
+[Sat Jan 03 13:23:18 2015] [notice] child pid 2716 exit signal Bus error (10)
+[Sat Jan 03 13:30:32 2015] [notice] child pid 2747 exit signal Bus error (10)
+[Sat Jan 03 13:30:33 2015] [notice] child pid 2919 exit signal Bus error (10)
+[Sat Jan 03 13:36:43 2015] [error] [client ::1] script '/Applications/XAMPP/xamppfiles/htdocs/phpinfo.php' not found or unable to stat
+[Sat Jan 03 13:37:02 2015] [error] [client ::1] user EnprograPHP not found: /xampp/phpinfo.php
+[Sat Jan 03 13:40:09 2015] [notice] caught SIGTERM, shutting down
+[Sat Jan 03 13:40:13 2015] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jan 03 13:40:14 2015] [notice] Digest: generating secret for digest authentication ...
+[Sat Jan 03 13:40:14 2015] [notice] Digest: done
+[Sat Jan 03 13:40:14 2015] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Jan 03 13:40:55 2015] [notice] child pid 3584 exit signal Bus error (10)
+[Sat Jan 03 13:40:56 2015] [notice] child pid 3586 exit signal Bus error (10)
+[Sat Jan 03 13:40:56 2015] [notice] child pid 3585 exit signal Bus error (10)
+[Sat Jan 03 13:41:02 2015] [notice] child pid 3588 exit signal Bus error (10)
+[Sat Jan 03 13:42:01 2015] [notice] child pid 3615 exit signal Bus error (10)
+[Sat Jan 03 13:43:02 2015] [notice] child pid 3617 exit signal Bus error (10)
+[Sat Jan 03 13:43:58 2015] [notice] caught SIGTERM, shutting down
+[Sat Jan 03 13:44:01 2015] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jan 03 13:44:02 2015] [notice] Digest: generating secret for digest authentication ...
+[Sat Jan 03 13:44:02 2015] [notice] Digest: done
+[Sat Jan 03 13:44:02 2015] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Jan 03 13:44:03 2015] [notice] caught SIGTERM, shutting down
+[Sat Jan 03 13:44:05 2015] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jan 03 13:44:06 2015] [notice] Digest: generating secret for digest authentication ...
+[Sat Jan 03 13:44:06 2015] [notice] Digest: done
+[Sat Jan 03 13:44:06 2015] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Jan 03 13:44:09 2015] [notice] caught SIGTERM, shutting down
+[Sat Jan 03 13:44:11 2015] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jan 03 13:44:12 2015] [notice] Digest: generating secret for digest authentication ...
+[Sat Jan 03 13:44:12 2015] [notice] Digest: done
+[Sat Jan 03 13:44:12 2015] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Jan 03 13:44:13 2015] [notice] caught SIGTERM, shutting down
+[Sat Jan 03 13:44:15 2015] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jan 03 13:44:16 2015] [notice] Digest: generating secret for digest authentication ...
+[Sat Jan 03 13:44:16 2015] [notice] Digest: done
+[Sat Jan 03 13:44:16 2015] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sat Jan 03 13:44:38 2015] [notice] child pid 3805 exit signal Bus error (10)
+[Sat Jan 03 13:44:38 2015] [notice] child pid 3804 exit signal Bus error (10)
+[Sat Jan 03 13:46:40 2015] [notice] child pid 3824 exit signal Bus error (10)
+[Sat Jan 03 13:46:40 2015] [notice] child pid 3823 exit signal Bus error (10)
+[Sat Jan 03 13:46:40 2015] [notice] child pid 3806 exit signal Bus error (10)
+[Sat Jan 03 13:46:57 2015] [error] [client ::1] File does not exist: /Applications/XAMPP/xamppfiles/htdocs/xampp/cakephp
+[Sat Jan 03 13:47:15 2015] [notice] child pid 3893 exit signal Bus error (10)
+[Sat Jan 03 13:47:16 2015] [notice] child pid 3900 exit signal Bus error (10)
+[Sat Jan 03 13:47:16 2015] [notice] child pid 3899 exit signal Bus error (10)
+[Sat Jan 03 13:47:17 2015] [notice] child pid 3924 exit signal Bus error (10)
+[Sat Jan 03 13:47:22 2015] [notice] child pid 3822 exit signal Bus error (10)
+[Sat Jan 03 13:47:22 2015] [notice] child pid 3807 exit signal Bus error (10)
+[Sat Jan 03 13:47:23 2015] [notice] child pid 3808 exit signal Bus error (10)
+[Sat Jan 03 13:49:09 2015] [notice] child pid 3937 exit signal Bus error (10)
+[Sat Jan 03 13:49:10 2015] [notice] child pid 3939 exit signal Bus error (10)
+[Sat Jan 03 13:49:10 2015] [notice] child pid 3938 exit signal Bus error (10)
+[Sat Jan 03 13:49:11 2015] [notice] child pid 3935 exit signal Bus error (10)
+[Sat Jan 03 13:49:11 2015] [notice] child pid 3934 exit signal Bus error (10)
+[Sat Jan 03 13:49:11 2015] [notice] child pid 3933 exit signal Bus error (10)
+[Sat Jan 03 13:49:12 2015] [notice] child pid 3936 exit signal Bus error (10)
+[Sat Jan 03 13:49:17 2015] [notice] child pid 4007 exit signal Bus error (10)
+[Sat Jan 03 13:49:48 2015] [notice] child pid 4009 exit signal Bus error (10)
+[Sat Jan 03 13:50:48 2015] [notice] child pid 4011 exit signal Bus error (10)
+[Sat Jan 03 13:58:04 2015] [notice] child pid 4010 exit signal Bus error (10)
+[Sat Jan 03 13:58:05 2015] [notice] child pid 4066 exit signal Bus error (10)
+[Sat Jan 03 13:58:05 2015] [notice] child pid 4012 exit signal Bus error (10)
+[Sat Jan 03 13:58:05 2015] [notice] child pid 4008 exit signal Bus error (10)
+[Sat Jan 03 14:45:00 2015] [notice] child pid 4289 exit signal Bus error (10)
+[Sat Jan 03 14:45:05 2015] [notice] child pid 4013 exit signal Bus error (10)
+[Sat Jan 03 14:45:35 2015] [notice] child pid 4291 exit signal Bus error (10)
+[Sat Jan 03 14:46:36 2015] [notice] child pid 4293 exit signal Bus error (10)
+[Sat Jan 03 14:51:37 2015] [notice] child pid 4372 exit signal Bus error (10)
+[Sat Jan 03 15:01:38 2015] [notice] child pid 4294 exit signal Bus error (10)
+[Sat Jan 03 15:18:50 2015] [notice] child pid 4292 exit signal Bus error (10)
+[Sat Jan 03 15:19:20 2015] [notice] child pid 4497 exit signal Bus error (10)
+[Sat Jan 03 15:20:21 2015] [notice] child pid 5245 exit signal Bus error (10)
+[Sat Jan 03 15:25:21 2015] [notice] child pid 5258 exit signal Bus error (10)
+[Sat Jan 03 15:35:22 2015] [notice] child pid 5296 exit signal Bus error (10)
+[Sat Jan 03 15:45:22 2015] [notice] child pid 5742 exit signal Bus error (10)
+[Sat Jan 03 15:45:28 2015] [notice] child pid 4295 exit signal Bus error (10)
+[Sat Jan 03 15:46:00 2015] [notice] child pid 5949 exit signal Bus error (10)
+[Sat Jan 03 15:47:00 2015] [notice] child pid 5434 exit signal Bus error (10)
+[Sat Jan 03 16:45:36 2015] [notice] child pid 4290 exit signal Bus error (10)
+[Sat Jan 03 16:45:41 2015] [notice] child pid 6012 exit signal Bus error (10)
+[Sat Jan 03 16:46:12 2015] [notice] child pid 4813 exit signal Bus error (10)
+[Sat Jan 03 16:47:13 2015] [notice] child pid 5982 exit signal Bus error (10)
+[Sat Jan 03 16:49:43 2015] [notice] child pid 6076 exit signal Bus error (10)
+[Sat Jan 03 16:49:44 2015] [notice] child pid 6055 exit signal Bus error (10)
+[Sat Jan 03 16:49:44 2015] [notice] child pid 5953 exit signal Bus error (10)
+[Sat Jan 03 16:49:45 2015] [notice] child pid 6133 exit signal Bus error (10)
+[Sat Jan 03 16:52:14 2015] [notice] child pid 6216 exit signal Bus error (10)
+[Sat Jan 03 16:59:45 2015] [notice] child pid 6214 exit signal Bus error (10)
+[Sat Jan 03 17:02:14 2015] [notice] child pid 6212 exit signal Bus error (10)
+[Sat Jan 03 17:29:46 2015] [notice] child pid 6215 exit signal Bus error (10)
+[Sat Jan 03 17:32:15 2015] [notice] child pid 6219 exit signal Bus error (10)
+[Sat Jan 03 18:41:35 2015] [notice] child pid 7542 exit signal Bus error (10)
+[Sat Jan 03 18:41:35 2015] [notice] child pid 6060 exit signal Bus error (10)
+[Sat Jan 03 18:41:40 2015] [notice] child pid 6217 exit signal Bus error (10)
+[Sat Jan 03 18:41:41 2015] [notice] child pid 6218 exit signal Bus error (10)
+[Sat Jan 03 18:42:11 2015] [notice] child pid 8449 exit signal Bus error (10)
+[Sat Jan 03 18:42:11 2015] [notice] child pid 7642 exit signal Bus error (10)
+[Sat Jan 03 19:02:56 2015] [notice] child pid 8433 exit signal Bus error (10)
+[Sat Jan 03 19:02:57 2015] [notice] child pid 8438 exit signal Bus error (10)
+[Sat Jan 03 19:03:02 2015] [notice] child pid 8448 exit signal Bus error (10)
+[Sat Jan 03 19:03:02 2015] [notice] child pid 8447 exit signal Bus error (10)
+[Sat Jan 03 19:03:32 2015] [notice] child pid 8460 exit signal Bus error (10)
+[Sat Jan 03 19:03:33 2015] [notice] child pid 8487 exit signal Bus error (10)
+[Sat Jan 03 19:04:33 2015] [notice] child pid 8490 exit signal Bus error (10)
+[Sat Jan 03 19:04:33 2015] [notice] child pid 8489 exit signal Bus error (10)
+[Sat Jan 03 19:09:33 2015] [notice] child pid 8546 exit signal Bus error (10)
+[Sat Jan 03 19:09:34 2015] [notice] child pid 8503 exit signal Bus error (10)
+[Sat Jan 03 19:19:34 2015] [notice] child pid 8701 exit signal Bus error (10)
+[Sat Jan 03 19:19:35 2015] [notice] child pid 8518 exit signal Bus error (10)
+[Sat Jan 03 19:40:27 2015] [notice] child pid 8519 exit signal Bus error (10)
+[Sat Jan 03 19:40:28 2015] [notice] child pid 8698 exit signal Bus error (10)
+[Sat Jan 03 19:40:28 2015] [notice] child pid 8520 exit signal Bus error (10)
+[Sat Jan 03 20:30:52 2015] [notice] child pid 8998 exit signal Bus error (10)
+[Sat Jan 03 20:30:52 2015] [notice] child pid 8700 exit signal Bus error (10)
+[Sat Jan 03 20:30:57 2015] [notice] child pid 9723 exit signal Bus error (10)
+[Sat Jan 03 20:30:58 2015] [notice] child pid 9724 exit signal Bus error (10)
+[Sat Jan 03 20:31:28 2015] [notice] child pid 9770 exit signal Bus error (10)
+[Sat Jan 03 20:31:28 2015] [notice] child pid 9725 exit signal Bus error (10)
+[Sat Jan 03 20:32:28 2015] [notice] child pid 9806 exit signal Bus error (10)
+[Sat Jan 03 20:32:29 2015] [notice] child pid 9772 exit signal Bus error (10)
+[Sat Jan 03 20:37:29 2015] [notice] child pid 9783 exit signal Bus error (10)
+[Sat Jan 03 20:37:29 2015] [notice] child pid 9771 exit signal Bus error (10)
+[Sat Jan 03 20:47:30 2015] [notice] child pid 10044 exit signal Bus error (10)
+[Sat Jan 03 20:47:30 2015] [notice] child pid 10043 exit signal Bus error (10)
+[Sat Jan 03 21:17:31 2015] [notice] child pid 9852 exit signal Bus error (10)
+[Sat Jan 03 21:17:31 2015] [notice] child pid 9805 exit signal Bus error (10)
+[Sat Jan 03 23:38:48 2015] [notice] child pid 11250 exit signal Bus error (10)
+[Sat Jan 03 23:38:49 2015] [notice] child pid 11251 exit signal Bus error (10)
+[Sat Jan 03 23:38:54 2015] [notice] child pid 11252 exit signal Bus error (10)
+[Sat Jan 03 23:38:54 2015] [notice] child pid 10366 exit signal Bus error (10)
+[Sat Jan 03 23:54:11 2015] [notice] child pid 11728 exit signal Bus error (10)
+[Sat Jan 03 23:54:11 2015] [notice] child pid 9804 exit signal Bus error (10)
+[Sat Jan 03 23:54:16 2015] [notice] child pid 11731 exit signal Bus error (10)
+[Sat Jan 03 23:54:17 2015] [notice] child pid 11732 exit signal Bus error (10)
+[Sat Jan 03 23:54:47 2015] [notice] child pid 11746 exit signal Bus error (10)
+[Sat Jan 03 23:54:47 2015] [notice] child pid 11730 exit signal Bus error (10)
+[Sun Jan 04 00:01:46 2015] [notice] child pid 11742 exit signal Bus error (10)
+[Sun Jan 04 00:01:46 2015] [notice] child pid 10045 exit signal Bus error (10)
+[Sun Jan 04 00:01:51 2015] [notice] child pid 11747 exit signal Bus error (10)
+[Sun Jan 04 00:01:52 2015] [notice] child pid 11748 exit signal Bus error (10)
+[Sun Jan 04 00:02:22 2015] [notice] child pid 11768 exit signal Bus error (10)
+[Sun Jan 04 00:02:22 2015] [notice] child pid 11755 exit signal Bus error (10)
+[Sun Jan 04 00:03:22 2015] [notice] child pid 11776 exit signal Bus error (10)
+[Sun Jan 04 00:03:23 2015] [notice] child pid 11800 exit signal Bus error (10)
+[Sun Jan 04 00:08:23 2015] [notice] child pid 11839 exit signal Bus error (10)
+[Sun Jan 04 00:08:24 2015] [notice] child pid 11801 exit signal Bus error (10)
+[Sun Jan 04 00:13:40 2015] [notice] child pid 11974 exit signal Bus error (10)
+[Sun Jan 04 00:13:40 2015] [notice] child pid 11973 exit signal Bus error (10)
+[Sun Jan 04 00:16:56 2015] [notice] child pid 11802 exit signal Bus error (10)
+[Sun Jan 04 00:16:56 2015] [notice] child pid 11773 exit signal Bus error (10)
+[Sun Jan 04 00:20:04 2015] [notice] caught SIGTERM, shutting down
+[Sun Jan 04 00:20:06 2015] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jan 04 00:20:07 2015] [notice] Digest: generating secret for digest authentication ...
+[Sun Jan 04 00:20:07 2015] [notice] Digest: done
+[Sun Jan 04 00:20:07 2015] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sun Jan 04 00:23:19 2015] [notice] child pid 12352 exit signal Bus error (10)
+[Sun Jan 04 00:23:20 2015] [notice] child pid 12353 exit signal Bus error (10)
+[Sun Jan 04 00:23:41 2015] [notice] child pid 12350 exit signal Bus error (10)
+[Sun Jan 04 00:29:12 2015] [notice] child pid 12497 exit signal Bus error (10)
+[Sun Jan 04 00:53:42 2015] [notice] child pid 12349 exit signal Bus error (10)
+[Sun Jan 04 01:03:23 2015] [error] [client ::1] script '/Applications/XAMPP/xamppfiles/htdocs/phpinfo.php' not found or unable to stat
+[Sun Jan 04 01:03:36 2015] [notice] caught SIGTERM, shutting down
+[Sun Jan 04 01:03:39 2015] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jan 04 01:03:40 2015] [notice] Digest: generating secret for digest authentication ...
+[Sun Jan 04 01:03:40 2015] [notice] Digest: done
+[Sun Jan 04 01:03:41 2015] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sun Jan 04 01:03:57 2015] [error] [client ::1] script '/Applications/XAMPP/xamppfiles/htdocs/phpinfo.php' not found or unable to stat
+[Sun Jan 04 01:07:35 2015] [notice] caught SIGTERM, shutting down
+[Sun Jan 04 01:38:51 2015] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jan 04 01:38:53 2015] [notice] Digest: generating secret for digest authentication ...
+[Sun Jan 04 01:38:53 2015] [notice] Digest: done
+[Sun Jan 04 01:38:54 2015] [notice] Apache/2.2.14 (Unix) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l PHP/5.3.1 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Sun Jan 04 01:39:27 2015] [notice] child pid 15557 exit signal Bus error (10)
+[Sun Jan 04 01:39:28 2015] [notice] child pid 15558 exit signal Bus error (10)
+[Sun Jan 04 01:39:29 2015] [notice] child pid 15554 exit signal Bus error (10)
+[Sun Jan 04 01:39:30 2015] [notice] child pid 15699 exit signal Bus error (10)
+[Sun Jan 04 01:39:32 2015] [notice] child pid 15700 exit signal Bus error (10)
+[Sun Jan 04 01:39:37 2015] [notice] child pid 15701 exit signal Bus error (10)
+[Sun Jan 04 01:40:04 2015] [notice] child pid 15713 exit signal Bus error (10)
+[Sun Jan 04 01:40:06 2015] [notice] child pid 15714 exit signal Bus error (10)
+[Sun Jan 04 01:40:08 2015] [notice] child pid 15716 exit signal Bus error (10)
+[Sun Jan 04 01:40:09 2015] [notice] child pid 15717 exit signal Bus error (10)
+[Sun Jan 04 01:40:10 2015] [notice] child pid 15718 exit signal Bus error (10)
+[Sun Jan 04 01:40:16 2015] [notice] child pid 15556 exit signal Bus error (10)
+[Sun Jan 04 01:40:47 2015] [notice] child pid 15555 exit signal Bus error (10)
+[Sun Jan 04 01:41:48 2015] [notice] child pid 15719 exit signal Bus error (10)
+[Sun Jan 04 01:46:48 2015] [notice] child pid 15837 exit signal Bus error (10)
+[Sun Jan 04 01:56:51 2015] [notice] child pid 15744 exit signal Bus error (10)
+[Sun Jan 04 03:00:13 2015] [notice] child pid 15855 exit signal Bus error (10)
+[Sun Jan 04 03:00:17 2015] [notice] child pid 15747 exit signal Bus error (10)
+[Sun Jan 04 03:00:48 2015] [notice] child pid 15857 exit signal Bus error (10)
+[Sun Jan 04 03:01:49 2015] [notice] child pid 15782 exit signal Bus error (10)
+[Sun Jan 04 03:06:49 2015] [notice] child pid 15858 exit signal Bus error (10)
+[Sun Jan 04 03:16:50 2015] [notice] child pid 15839 exit signal Bus error (10)
+[Sun Jan 04 03:46:51 2015] [notice] child pid 17159 exit signal Bus error (10)
+[Sun Jan 04 04:16:52 2015] [notice] child pid 16677 exit signal Bus error (10)
+[Sun Jan 04 06:04:00 2015] [notice] child pid 18075 exit signal Bus error (10)
+[Sun Jan 04 06:04:06 2015] [notice] child pid 19032 exit signal Bus error (10)
+[Sun Jan 04 06:04:36 2015] [notice] child pid 15838 exit signal Bus error (10)
+[Sun Jan 04 08:04:38 2015] [notice] child pid 16818 exit signal Bus error (10)
+[Sun Jan 04 08:04:43 2015] [notice] child pid 15712 exit signal Bus error (10)
+[Sun Jan 04 08:05:14 2015] [notice] child pid 19710 exit signal Bus error (10)
+[Sun Jan 04 10:05:26 2015] [notice] child pid 19668 exit signal Bus error (10)
+[Sun Jan 04 10:05:31 2015] [notice] child pid 19717 exit signal Bus error (10)
+[Sun Jan 04 10:06:01 2015] [notice] child pid 19721 exit signal Bus error (10)
+[Sun Jan 04 12:06:11 2015] [notice] child pid 19724 exit signal Bus error (10)
+[Sun Jan 04 12:06:17 2015] [notice] child pid 19736 exit signal Bus error (10)
+[Sun Jan 04 12:06:47 2015] [notice] child pid 19760 exit signal Bus error (10)
+[Sun Jan 04 13:46:28 2015] [notice] child pid 19769 exit signal Bus error (10)
+[Sun Jan 04 13:46:34 2015] [notice] child pid 19774 exit signal Bus error (10)
+[Sun Jan 04 13:47:04 2015] [notice] child pid 19798 exit signal Bus error (10)
+[Sun Jan 04 13:48:05 2015] [notice] child pid 19805 exit signal Bus error (10)
+[Sun Jan 04 13:53:05 2015] [notice] child pid 19935 exit signal Bus error (10)
+[Sun Jan 04 14:03:06 2015] [notice] child pid 19836 exit signal Bus error (10)
+[Sun Jan 04 14:33:07 2015] [notice] child pid 19858 exit signal Bus error (10)
+[Sun Jan 04 15:03:09 2015] [notice] child pid 20109 exit signal Bus error (10)
+[Sun Jan 04 15:33:10 2015] [notice] child pid 19899 exit signal Bus error (10)
+[Sun Jan 04 16:00:06 2015] [notice] child pid 23342 exit signal Bus error (10)
+[Sun Jan 04 16:00:12 2015] [notice] child pid 22433 exit signal Bus error (10)
+[Sun Jan 04 16:00:43 2015] [notice] child pid 20465 exit signal Bus error (10)
+[Sun Jan 04 16:01:43 2015] [notice] child pid 24068 exit signal Bus error (10)
+[Sun Jan 04 16:06:44 2015] [notice] child pid 24130 exit signal Bus error (10)
+[Sun Jan 04 16:23:37 2015] [notice] child pid 24104 exit signal Bus error (10)
+[Sun Jan 04 16:23:37 2015] [notice] child pid 19850 exit signal Bus error (10)

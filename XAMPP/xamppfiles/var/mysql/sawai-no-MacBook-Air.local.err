@@ -1,0 +1,644 @@
+130323 17:11:01 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+130323 17:11:02 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+130323 17:11:02 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+130323 17:11:02 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+130323 17:11:02 [Note] Plugin 'FEDERATED' is disabled.
+130323 17:11:02  InnoDB: Started; log sequence number 0 44233
+130323 17:11:02 [Note] Event Scheduler: Loaded 0 events
+130323 17:11:02 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+140222 11:14:08 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+140222 11:14:08 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+140222 11:14:08 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+140222 11:14:08 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+140222 11:14:08 [Note] Plugin 'FEDERATED' is disabled.
+140222 11:14:08  InnoDB: Started; log sequence number 0 44233
+140222 11:14:08 [Note] Event Scheduler: Loaded 0 events
+140222 11:14:08 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+140222 12:03:37 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+140222 12:03:37 [Note] Event Scheduler: Purging the queue. 0 events
+140222 12:03:37  InnoDB: Starting shutdown...
+140222 12:03:40  InnoDB: Shutdown completed; log sequence number 0 44233
+140222 12:03:40 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+140222 12:03:40 mysqld_safe mysqld from pid file /Applications/XAMPP/xamppfiles/var/mysql/sawai-no-MacBook-Air.local.pid ended
+140222 12:04:23 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+140222 12:04:23 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+140222 12:04:23 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+140222 12:04:23 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+140222 12:04:23 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+140222 12:04:23 [Note] Plugin 'FEDERATED' is disabled.
+140222 12:04:23  InnoDB: Started; log sequence number 0 44233
+140222 12:04:23 [Note] Event Scheduler: Loaded 0 events
+140222 12:04:23 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+140222 12:39:10 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+140222 12:39:10 [Note] Event Scheduler: Purging the queue. 0 events
+140222 12:39:10  InnoDB: Starting shutdown...
+140222 12:39:15  InnoDB: Shutdown completed; log sequence number 0 44233
+140222 12:39:15 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+140222 12:39:15 mysqld_safe mysqld from pid file /Applications/XAMPP/xamppfiles/var/mysql/sawai-no-MacBook-Air.local.pid ended
+140222 12:39:18 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+140222 12:39:18 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+140222 12:39:18 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+140222 12:39:18 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+140222 12:39:18 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+140222 12:39:18 [Note] Plugin 'FEDERATED' is disabled.
+140222 12:39:19  InnoDB: Started; log sequence number 0 44233
+140222 12:39:19 [Note] Event Scheduler: Loaded 0 events
+140222 12:39:19 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+140227 16:20:14 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+140227 16:20:14 [Note] Event Scheduler: Purging the queue. 0 events
+140227 16:20:14  InnoDB: Starting shutdown...
+140227 16:20:16  InnoDB: Shutdown completed; log sequence number 0 44233
+140227 16:20:16 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+140302 20:15:49 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+140302 20:15:50 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+140302 20:15:50 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+140302 20:15:50 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+140302 20:15:50 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+140302 20:15:50 [Note] Plugin 'FEDERATED' is disabled.
+140302 20:15:50  InnoDB: Started; log sequence number 0 44233
+140302 20:15:50 [Note] Event Scheduler: Loaded 0 events
+140302 20:15:50 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+140307 22:26:33 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+140307 22:26:33 [Note] Event Scheduler: Purging the queue. 0 events
+140307 22:26:33  InnoDB: Starting shutdown...
+140307 22:26:38  InnoDB: Shutdown completed; log sequence number 0 44233
+140307 22:26:38 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+140319 12:52:37 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+140319 12:52:38 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+140319 12:52:38 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+140319 12:52:38 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+140319 12:52:38 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+140319 12:52:38 [Note] Plugin 'FEDERATED' is disabled.
+140319 12:52:38  InnoDB: Started; log sequence number 0 44233
+140319 12:52:38 [Note] Event Scheduler: Loaded 0 events
+140319 12:52:38 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+140408  7:21:25 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+140408  7:21:25 [Note] Event Scheduler: Purging the queue. 0 events
+140408  7:21:25  InnoDB: Starting shutdown...
+140408  7:21:27  InnoDB: Shutdown completed; log sequence number 0 44233
+140408  7:21:27 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+140609 07:57:01 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+140609  7:57:01 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+140609  7:57:01 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+140609  7:57:01 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+140609  7:57:01 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+140609  7:57:01 [Note] Plugin 'FEDERATED' is disabled.
+140609  7:57:01  InnoDB: Started; log sequence number 0 44233
+140609  7:57:01 [Note] Event Scheduler: Loaded 0 events
+140609  7:57:01 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+140716  8:34:46 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+140716  8:34:46 [Note] Event Scheduler: Purging the queue. 0 events
+140716  8:34:46  InnoDB: Starting shutdown...
+140716  8:34:49  InnoDB: Shutdown completed; log sequence number 0 44243
+140716  8:34:49 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+140723 21:42:38 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+140723 21:42:38 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+140723 21:42:38 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+140723 21:42:38 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+140723 21:42:38 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+140723 21:42:38 [Note] Plugin 'FEDERATED' is disabled.
+140723 21:42:38  InnoDB: Started; log sequence number 0 44243
+140723 21:42:38 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+140723 21:42:38 [Note] Event Scheduler: Loaded 0 events
+140723 21:42:38 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+140802 13:35:34 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+140802 13:35:34 [Note] Event Scheduler: Purging the queue. 0 events
+140802 13:35:34  InnoDB: Starting shutdown...
+140802 13:35:39  InnoDB: Shutdown completed; log sequence number 0 44243
+140802 13:35:39 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+140807 22:08:23 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+140807 22:08:23 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+140807 22:08:23 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+140807 22:08:23 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+140807 22:08:23 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+140807 22:08:23 [Note] Plugin 'FEDERATED' is disabled.
+140807 22:08:23  InnoDB: Started; log sequence number 0 44243
+140807 22:08:23 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+140807 22:08:23 [Note] Event Scheduler: Loaded 0 events
+140807 22:08:23 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+140811  9:57:31 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+140811  9:57:31 [Note] Event Scheduler: Purging the queue. 0 events
+140811  9:57:31  InnoDB: Starting shutdown...
+140811  9:57:36  InnoDB: Shutdown completed; log sequence number 0 44243
+140811  9:57:36 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+140817 16:10:42 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+140817 16:10:42 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+140817 16:10:42 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+140817 16:10:42 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+140817 16:10:42 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+140817 16:10:43 [Note] Plugin 'FEDERATED' is disabled.
+140817 16:10:44  InnoDB: Started; log sequence number 0 44243
+140817 16:10:44 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+140817 16:10:44 [Note] Event Scheduler: Loaded 0 events
+140817 16:10:44 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+140823 22:31:17 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+140823 22:31:17 [Note] Event Scheduler: Purging the queue. 0 events
+140823 22:31:17  InnoDB: Starting shutdown...
+140823 22:31:19  InnoDB: Shutdown completed; log sequence number 0 44243
+140823 22:31:19 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+140906 10:29:19 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+140906 10:29:19 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+140906 10:29:19 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+140906 10:29:19 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+140906 10:29:19 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+140906 10:29:19 [Note] Plugin 'FEDERATED' is disabled.
+140906 10:29:20  InnoDB: Started; log sequence number 0 44243
+140906 10:29:20 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+140906 10:29:20 [Note] Event Scheduler: Loaded 0 events
+140906 10:29:20 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+140916 20:50:18 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+140916 20:50:18 [Note] Event Scheduler: Purging the queue. 0 events
+140916 20:50:18  InnoDB: Starting shutdown...
+140916 20:50:21  InnoDB: Shutdown completed; log sequence number 0 44243
+140916 20:50:21 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+140917 21:32:57 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+140917 21:32:57 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+140917 21:32:57 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+140917 21:32:57 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+140917 21:32:57 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+140917 21:32:57 [Note] Plugin 'FEDERATED' is disabled.
+140917 21:32:57  InnoDB: Started; log sequence number 0 44243
+140917 21:32:57 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+140917 21:32:57 [Note] Event Scheduler: Loaded 0 events
+140917 21:32:57 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+140926 19:31:27 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+140926 19:31:27 [Note] Event Scheduler: Purging the queue. 0 events
+140926 19:31:27  InnoDB: Starting shutdown...
+140926 19:31:32  InnoDB: Shutdown completed; log sequence number 0 44243
+140926 19:31:32 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141005 15:21:01 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141005 15:21:01 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141005 15:21:01 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141005 15:21:01 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141005 15:21:01 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141005 15:21:01 [Note] Plugin 'FEDERATED' is disabled.
+141005 15:21:01  InnoDB: Started; log sequence number 0 44243
+141005 15:21:01 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141005 15:21:01 [Note] Event Scheduler: Loaded 0 events
+141005 15:21:01 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141013 18:52:54 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141013 18:52:54 [Note] Event Scheduler: Purging the queue. 0 events
+141013 18:52:54  InnoDB: Starting shutdown...
+141013 18:52:58  InnoDB: Shutdown completed; log sequence number 0 44243
+141013 18:52:58 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141013 21:00:31 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141013 21:00:31 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141013 21:00:31 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141013 21:00:31 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141013 21:00:31 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141013 21:00:31 [Note] Plugin 'FEDERATED' is disabled.
+141013 21:00:31  InnoDB: Started; log sequence number 0 44243
+141013 21:00:31 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141013 21:00:32 [Note] Event Scheduler: Loaded 0 events
+141013 21:00:32 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141018 21:42:16 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141018 21:42:16 [Note] Event Scheduler: Purging the queue. 0 events
+141018 21:42:16  InnoDB: Starting shutdown...
+141018 21:42:19  InnoDB: Shutdown completed; log sequence number 0 44243
+141018 21:42:19 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141019 22:26:45 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141019 22:26:46 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141019 22:26:46 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141019 22:26:46 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141019 22:26:46 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141019 22:26:46 [Note] Plugin 'FEDERATED' is disabled.
+141019 22:26:46  InnoDB: Started; log sequence number 0 44243
+141019 22:26:46 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141019 22:26:46 [Note] Event Scheduler: Loaded 0 events
+141019 22:26:46 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141025 14:58:18 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141025 14:58:18 [Note] Event Scheduler: Purging the queue. 0 events
+141025 14:58:18  InnoDB: Starting shutdown...
+141025 14:58:22  InnoDB: Shutdown completed; log sequence number 0 44243
+141025 14:58:22 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141025 15:26:06 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141025 15:26:06 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141025 15:26:06 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141025 15:26:06 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141025 15:26:06 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141025 15:26:07 [Note] Plugin 'FEDERATED' is disabled.
+141025 15:26:20  InnoDB: Started; log sequence number 0 44243
+141025 15:26:23 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141025 15:26:24 [Note] Event Scheduler: Loaded 0 events
+141025 15:26:25 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141025 20:31:48 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141025 20:31:48 [Note] Event Scheduler: Purging the queue. 0 events
+141025 20:31:48  InnoDB: Starting shutdown...
+141025 20:31:52  InnoDB: Shutdown completed; log sequence number 0 44243
+141025 20:31:52 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141025 20:34:02 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141025 20:34:02 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141025 20:34:02 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141025 20:34:02 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141025 20:34:02 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141025 20:34:02 [Note] Plugin 'FEDERATED' is disabled.
+141025 20:34:03  InnoDB: Started; log sequence number 0 44243
+141025 20:34:03 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141025 20:34:03 [Note] Event Scheduler: Loaded 0 events
+141025 20:34:03 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141027 19:27:41 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141027 19:27:41 [Note] Event Scheduler: Purging the queue. 0 events
+141027 19:27:41  InnoDB: Starting shutdown...
+141027 19:27:45  InnoDB: Shutdown completed; log sequence number 0 44243
+141027 19:27:45 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141027 20:45:20 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141027 20:45:20 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141027 20:45:20 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141027 20:45:20 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141027 20:45:20 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141027 20:45:20 [Note] Plugin 'FEDERATED' is disabled.
+141027 20:45:20  InnoDB: Started; log sequence number 0 44243
+141027 20:45:20 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141027 20:45:20 [Note] Event Scheduler: Loaded 0 events
+141027 20:45:20 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141101 23:56:40 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141101 23:56:40 [Note] Event Scheduler: Purging the queue. 0 events
+141101 23:56:40  InnoDB: Starting shutdown...
+141101 23:56:44  InnoDB: Shutdown completed; log sequence number 0 44243
+141101 23:56:44 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141102 23:20:15 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141102 23:20:15 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141102 23:20:15 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141102 23:20:15 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141102 23:20:15 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141102 23:20:15 [Note] Plugin 'FEDERATED' is disabled.
+141102 23:20:16  InnoDB: Started; log sequence number 0 44243
+141102 23:20:17 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141102 23:20:17 [Note] Event Scheduler: Loaded 0 events
+141102 23:20:17 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141102 23:33:27 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141102 23:33:27 [Note] Event Scheduler: Purging the queue. 0 events
+141102 23:33:27  InnoDB: Starting shutdown...
+141102 23:33:29  InnoDB: Shutdown completed; log sequence number 0 44243
+141102 23:33:29 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141102 23:38:28 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141102 23:38:28 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141102 23:38:28 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141102 23:38:28 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141102 23:38:28 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141102 23:38:29 [Note] Plugin 'FEDERATED' is disabled.
+141102 23:38:31  InnoDB: Started; log sequence number 0 44243
+141102 23:38:31 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141102 23:38:31 [Note] Event Scheduler: Loaded 0 events
+141102 23:38:31 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141103  0:26:24 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141103  0:26:24 [Note] Event Scheduler: Purging the queue. 0 events
+141103  0:26:24  InnoDB: Starting shutdown...
+141103  0:26:27  InnoDB: Shutdown completed; log sequence number 0 44243
+141103  0:26:27 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141103 00:34:57 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141103  0:34:57 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141103  0:34:57 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141103  0:34:57 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141103  0:34:57 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141103  0:34:57 [Note] Plugin 'FEDERATED' is disabled.
+141103  0:34:58  InnoDB: Started; log sequence number 0 44243
+141103  0:34:58 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141103  0:34:58 [Note] Event Scheduler: Loaded 0 events
+141103  0:34:58 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141110 00:06:34 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141110  0:06:34 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141110  0:06:34 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141110  0:06:34 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141110  0:06:34 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141110  0:06:34 [Note] Plugin 'FEDERATED' is disabled.
+141110  0:06:35  InnoDB: Started; log sequence number 0 44243
+141110  0:06:35 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141110  0:06:35 [Note] Event Scheduler: Loaded 0 events
+141110  0:06:35 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141111 23:44:55 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141111 23:44:55 [Note] Event Scheduler: Purging the queue. 0 events
+141111 23:44:55  InnoDB: Starting shutdown...
+141111 23:45:00  InnoDB: Shutdown completed; log sequence number 0 44243
+141111 23:45:01 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141111 23:45:01 mysqld_safe mysqld from pid file /Applications/XAMPP/xamppfiles/var/mysql/sawai-no-MacBook-Air.local.pid ended
+141111 23:45:17 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141111 23:45:17 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141111 23:45:17 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141111 23:45:17 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141111 23:45:17 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141111 23:45:17 [Note] Plugin 'FEDERATED' is disabled.
+141111 23:45:17  InnoDB: Started; log sequence number 0 44243
+141111 23:45:17 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141111 23:45:17 [Note] Event Scheduler: Loaded 0 events
+141111 23:45:17 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141119 17:22:53 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141119 17:22:53 [Note] Event Scheduler: Purging the queue. 0 events
+141119 17:22:53  InnoDB: Starting shutdown...
+141119 17:22:56  InnoDB: Shutdown completed; log sequence number 0 44243
+141119 17:22:56 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141119 17:24:00 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141119 17:24:00 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141119 17:24:00 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141119 17:24:00 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141119 17:24:00 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141119 17:24:00 [Note] Plugin 'FEDERATED' is disabled.
+141119 17:24:00  InnoDB: Started; log sequence number 0 44243
+141119 17:24:00 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141119 17:24:00 [Note] Event Scheduler: Loaded 0 events
+141119 17:24:00 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141122  2:34:33 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141122  2:34:34 [Note] Event Scheduler: Purging the queue. 0 events
+141122  2:34:34  InnoDB: Starting shutdown...
+141122  2:34:36  InnoDB: Shutdown completed; log sequence number 0 44243
+141122  2:34:36 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141122 02:34:36 mysqld_safe mysqld from pid file /Applications/XAMPP/xamppfiles/var/mysql/sawai-no-MacBook-Air.local.pid ended
+141122 02:34:43 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141122  2:34:43 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141122  2:34:43 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141122  2:34:43 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141122  2:34:43 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141122  2:34:43 [Note] Plugin 'FEDERATED' is disabled.
+141122  2:34:43  InnoDB: Started; log sequence number 0 44243
+141122  2:34:43 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141122  2:34:43 [Note] Event Scheduler: Loaded 0 events
+141122  2:34:43 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141125 18:54:14 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141125 18:54:14 [Note] Event Scheduler: Purging the queue. 0 events
+141125 18:54:14  InnoDB: Starting shutdown...
+141125 18:54:16  InnoDB: Shutdown completed; log sequence number 0 44243
+141125 18:54:16 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141125 20:38:21 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141125 20:38:21 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141125 20:38:21 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141125 20:38:21 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141125 20:38:21 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141125 20:38:21 [Note] Plugin 'FEDERATED' is disabled.
+141125 20:38:21  InnoDB: Started; log sequence number 0 44243
+141125 20:38:21 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141125 20:38:21 [Note] Event Scheduler: Loaded 0 events
+141125 20:38:21 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141128 16:01:00 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141128 16:01:00 [Note] Event Scheduler: Purging the queue. 0 events
+141128 16:01:00  InnoDB: Starting shutdown...
+141128 16:01:04  InnoDB: Shutdown completed; log sequence number 0 44243
+141128 16:01:04 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141128 16:01:04 mysqld_safe mysqld from pid file /Applications/XAMPP/xamppfiles/var/mysql/sawai-no-MacBook-Air.local.pid ended
+141128 16:02:46 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141128 16:02:46 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141128 16:02:46 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141128 16:02:46 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141128 16:02:46 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141128 16:02:46 [Note] Plugin 'FEDERATED' is disabled.
+141128 16:02:46  InnoDB: Started; log sequence number 0 44243
+141128 16:02:46 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141128 16:02:46 [Note] Event Scheduler: Loaded 0 events
+141128 16:02:46 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141128 16:19:34 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141128 16:19:34 [Note] Event Scheduler: Purging the queue. 0 events
+141128 16:19:34  InnoDB: Starting shutdown...
+141128 16:19:36  InnoDB: Shutdown completed; log sequence number 0 44243
+141128 16:19:37 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141128 16:20:29 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141128 16:20:29 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141128 16:20:29 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141128 16:20:29 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141128 16:20:29 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141128 16:20:29 [Note] Plugin 'FEDERATED' is disabled.
+141128 16:20:29  InnoDB: Started; log sequence number 0 44243
+141128 16:20:29 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141128 16:20:29 [Note] Event Scheduler: Loaded 0 events
+141128 16:20:29 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141211  3:37:38 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141211  3:37:38 [Note] Event Scheduler: Purging the queue. 0 events
+141211  3:37:38  InnoDB: Starting shutdown...
+141211  3:37:39  InnoDB: Shutdown completed; log sequence number 0 44243
+141211  3:37:39 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141211 03:40:38 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141211  3:40:38 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141211  3:40:38 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141211  3:40:38 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141211  3:40:38 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141211  3:40:38 [Note] Plugin 'FEDERATED' is disabled.
+141211  3:40:38  InnoDB: Started; log sequence number 0 44243
+141211  3:40:39 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141211  3:40:39 [Note] Event Scheduler: Loaded 0 events
+141211  3:40:39 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141223 23:42:44 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141223 23:42:44 [Note] Event Scheduler: Purging the queue. 0 events
+141223 23:42:44  InnoDB: Starting shutdown...
+141223 23:42:49  InnoDB: Shutdown completed; log sequence number 0 44243
+141223 23:42:49 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141223 23:43:49 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141223 23:43:49 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141223 23:43:49 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141223 23:43:49 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141223 23:43:49 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141223 23:43:50 [Note] Plugin 'FEDERATED' is disabled.
+141223 23:43:55  InnoDB: Started; log sequence number 0 44243
+141223 23:43:56 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141223 23:43:56 [Note] Event Scheduler: Loaded 0 events
+141223 23:43:56 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+141228 23:23:34 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+141228 23:23:34 [Note] Event Scheduler: Purging the queue. 0 events
+141228 23:23:34  InnoDB: Starting shutdown...
+141228 23:23:39  InnoDB: Shutdown completed; log sequence number 0 44243
+141228 23:23:39 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+141228 23:27:09 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+141228 23:27:09 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+141228 23:27:09 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+141228 23:27:09 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+141228 23:27:09 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+141228 23:27:10 [Note] Plugin 'FEDERATED' is disabled.
+141228 23:27:10  InnoDB: Started; log sequence number 0 44243
+141228 23:27:10 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+141228 23:27:10 [Note] Event Scheduler: Loaded 0 events
+141228 23:27:10 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+150101 22:43:17 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+150101 22:43:17 [Note] Event Scheduler: Purging the queue. 0 events
+150101 22:43:17  InnoDB: Starting shutdown...
+150101 22:43:21  InnoDB: Shutdown completed; log sequence number 0 44243
+150101 22:43:21 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+150101 22:44:15 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+150101 22:44:15 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+150101 22:44:15 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+150101 22:44:15 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+150101 22:44:16 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+150101 22:44:16 [Note] Plugin 'FEDERATED' is disabled.
+150101 22:44:18  InnoDB: Started; log sequence number 0 44243
+150101 22:44:18 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+150101 22:44:19 [Note] Event Scheduler: Loaded 0 events
+150101 22:44:19 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+150103  3:58:31 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+150103  3:58:31 [Note] Event Scheduler: Purging the queue. 0 events
+150103  3:58:31  InnoDB: Starting shutdown...
+150103  3:58:32  InnoDB: Shutdown completed; log sequence number 0 44243
+150103  3:58:32 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+150103 03:58:32 mysqld_safe mysqld from pid file /Applications/XAMPP/xamppfiles/var/mysql/sawai-no-MacBook-Air.local.pid ended
+150103 03:58:39 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+150103  3:58:39 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+150103  3:58:39 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+150103  3:58:39 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+150103  3:58:39 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+150103  3:58:39 [Note] Plugin 'FEDERATED' is disabled.
+150103  3:58:39  InnoDB: Started; log sequence number 0 44243
+150103  3:58:39 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+150103  3:58:39 [Note] Event Scheduler: Loaded 0 events
+150103  3:58:39 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+150103  4:20:02 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+150103  4:20:03 [Note] Event Scheduler: Purging the queue. 0 events
+150103  4:20:03  InnoDB: Starting shutdown...
+150103  4:20:05  InnoDB: Shutdown completed; log sequence number 0 44243
+150103  4:20:05 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+150103 04:20:50 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+150103  4:20:51 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+150103  4:20:51 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+150103  4:20:51 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+150103  4:20:51 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+150103  4:20:51 [Note] Plugin 'FEDERATED' is disabled.
+150103  4:20:51  InnoDB: Started; log sequence number 0 44243
+150103  4:20:51 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+150103  4:20:51 [Note] Event Scheduler: Loaded 0 events
+150103  4:20:51 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+150103  4:33:59 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+150103  4:33:59 [Note] Event Scheduler: Purging the queue. 0 events
+150103  4:33:59  InnoDB: Starting shutdown...
+150103  4:34:01  InnoDB: Shutdown completed; log sequence number 0 44243
+150103  4:34:01 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+150103 04:34:41 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+150103  4:34:41 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+150103  4:34:41 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+150103  4:34:41 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+150103  4:34:41 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+150103  4:34:41 [Note] Plugin 'FEDERATED' is disabled.
+150103  4:34:42  InnoDB: Started; log sequence number 0 44243
+150103  4:34:42 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+150103  4:34:42 [Note] Event Scheduler: Loaded 0 events
+150103  4:34:42 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+150103  4:41:49 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+150103  4:41:49 [Note] Event Scheduler: Purging the queue. 0 events
+150103  4:41:49  InnoDB: Starting shutdown...
+150103  4:41:51  InnoDB: Shutdown completed; log sequence number 0 44243
+150103  4:41:51 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+150103 04:41:51 mysqld_safe mysqld from pid file /Applications/XAMPP/xamppfiles/var/mysql/sawai-no-MacBook-Air.local.pid ended
+150103 04:42:00 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+150103  4:42:00 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+150103  4:42:00 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+150103  4:42:00 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+150103  4:42:00 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+150103  4:42:00 [Note] Plugin 'FEDERATED' is disabled.
+150103  4:42:00  InnoDB: Started; log sequence number 0 44243
+150103  4:42:00 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+150103  4:42:00 [Note] Event Scheduler: Loaded 0 events
+150103  4:42:00 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution
+150104  1:38:53 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Normal shutdown
+
+150104  1:38:53 [Note] Event Scheduler: Purging the queue. 0 events
+150104  1:38:53  InnoDB: Starting shutdown...
+150104  1:38:57  InnoDB: Shutdown completed; log sequence number 0 44243
+150104  1:38:57 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: Shutdown complete
+
+150104 01:38:57 mysqld_safe mysqld from pid file /Applications/XAMPP/xamppfiles/var/mysql/sawai-no-MacBook-Air.local.pid ended
+150104 01:38:58 mysqld_safe Starting mysqld daemon with databases from /Applications/XAMPP/xamppfiles/var/mysql
+150104  1:38:59 [Warning] The syntax '--skip-locking' is deprecated and will be removed in a future release. Please use --skip-external-locking instead.
+150104  1:38:59 [Warning] option 'thread_stack': unsigned value 65536 adjusted to 131072
+150104  1:38:59 [Warning] The syntax '--default-character-set' is deprecated and will be removed in a future release. Please use --character-set-server instead.
+150104  1:38:59 [Warning] Setting lower_case_table_names=2 because file system for /Applications/XAMPP/xamppfiles/var/mysql/ is case insensitive
+150104  1:38:59 [Note] Plugin 'FEDERATED' is disabled.
+150104  1:38:59  InnoDB: Started; log sequence number 0 44243
+150104  1:38:59 [Warning] Found invalid password for user: 'pma@localhost'; Ignoring user
+150104  1:38:59 [Note] Event Scheduler: Loaded 0 events
+150104  1:38:59 [Note] /Applications/XAMPP/xamppfiles/sbin/mysqld: ready for connections.
+Version: '5.1.44'  socket: '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock'  port: 3306  Source distribution

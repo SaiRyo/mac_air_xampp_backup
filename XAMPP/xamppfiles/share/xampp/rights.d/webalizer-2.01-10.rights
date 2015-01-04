@@ -1,0 +1,4 @@
+root admin 755 /Applications/XAMPP/xamppfiles/bin/webalizer
+root admin 755 /Applications/XAMPP/xamppfiles/bin/webazolver
+root admin 644 /Applications/XAMPP/xamppfiles/etc/webalizer.conf.sample
+root admin 644 /Applications/XAMPP/xamppfiles/man/man1/webalizer.1

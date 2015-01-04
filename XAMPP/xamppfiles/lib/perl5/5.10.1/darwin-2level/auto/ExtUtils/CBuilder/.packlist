@@ -1,0 +1,15 @@
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/ExtUtils/CBuilder.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/ExtUtils/CBuilder/Base.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/ExtUtils/CBuilder/Platform/Unix.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/ExtUtils/CBuilder/Platform/VMS.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/ExtUtils/CBuilder/Platform/Windows.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/ExtUtils/CBuilder/Platform/Windows/BCC.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/ExtUtils/CBuilder/Platform/Windows/GCC.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/ExtUtils/CBuilder/Platform/Windows/MSVC.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/ExtUtils/CBuilder/Platform/aix.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/ExtUtils/CBuilder/Platform/cygwin.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/ExtUtils/CBuilder/Platform/darwin.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/ExtUtils/CBuilder/Platform/dec_osf.pm
+/Applications/XAMPP/xamppfiles/lib/perl5/5.10.1/ExtUtils/CBuilder/Platform/os2.pm
+/Applications/XAMPP/xamppfiles/share/man/man3/ExtUtils::CBuilder.3
+/Applications/XAMPP/xamppfiles/share/man/man3/ExtUtils::CBuilder::Platform::Windows.3

@@ -1,0 +1,85 @@
+#! /bin/sh
+
+SED="/usr/bin/sed"
+prefix="/Applications/XAMPP/xamppfiles"
+exec_prefix="${prefix}"
+version="5.3.1"
+vernum="50301"
+include_dir="/Applications/XAMPP/xamppfiles/include/php/php-5.3.1/php"
+includes="-I/Applications/XAMPP/xamppfiles/include/php/php-5.3.1 -I$include_dir -I$include_dir/main -I$include_dir/TSRM -I$include_dir/Zend -I$include_dir/ext -I$include_dir/ext/date/lib -I$prefix/include"
+ldflags=" -L/Applications/XAMPP/xamppfiles/lib"
+libs="  -lresolv -lsybdb -lmcrypt -lltdl -liconv -lintl -lssl -lcrypto -lgdbm -lssl -lcrypto -lm  -lxml2 -lz -liconv -lm -lxml2 -lz -liconv -lm -lxml2 -lz -liconv -lm -lxml2 -lz -liconv -lm -lxml2 -lz -liconv -lm -lxml2 -lz -liconv -lm -lxml2 -lz -liconv -lm "
+extension_dir='/Applications/XAMPP/xamppfiles/lib/php/php-5.3.1/extensions/no-debug-non-zts-20090626'
+program_prefix=""
+program_suffix="-5.3.1"
+exe_extension=""
+php_cli_binary=NONE
+php_cgi_binary=NONE
+configure_options=" '--prefix=/Applications/XAMPP/xamppfiles' '--program-suffix=-5.3.1' '--libdir=/Applications/XAMPP/xamppfiles/lib/php/php-5.3.1' '--includedir=/Applications/XAMPP/xamppfiles/include/php/php-5.3.1' '--with-apxs2=/Applications/XAMPP/xamppfiles/bin/apxs' '--with-config-file-path=/Applications/XAMPP/xamppfiles/etc' '--with-mysql=/Applications/XAMPP/xamppfiles' '--disable-debug' '--enable-cli' '--enable-cgi' '--enable-bcmath' '--enable-calendar' '--enable-ctype' '--enable-discard-path' '--enable-filepro' '--enable-filter' '--enable-force-cgi-redirect' '--enable-fastcgi' '--enable-ftp' '--enable-hash' '--enable-ipv6' '--enable-json' '--enable-odbc' '--enable-path-info-check' '--enable-gd-imgstrttf' '--enable-gd-native-ttf' '--with-ttf' '--enable-magic-quotes' '--enable-memory-limit' '--enable-safe-mode' '--enable-shmop' '--enable-sysvsem' '--enable-sysvshm' '--enable-track-vars' '--enable-trans-sid' '--enable-reflection' '--enable-session' '--enable-spl' '--enable-tokenizer' '--enable-wddx' '--enable-yp' '--enable-xmlreader' '--enable-xmlwriter' '--enable-zlib' '--enable-zts' '--with-simplexml' '--with-iconv' '--with-libxml' '--with-wddx' '--with-xml' '--with-ftp' '--with-ncurses=/Applications/XAMPP/xamppfiles' '--with-gdbm=/Applications/XAMPP/xamppfiles' '--with-jpeg-dir=/Applications/XAMPP/xamppfiles' '--with-png-dir=/Applications/XAMPP/xamppfiles' '--with-freetype-dir=/Applications/XAMPP/xamppfiles' '--without-xpm' '--with-zlib=shared' '--with-zlib-dir=/Applications/XAMPP/xamppfiles' '--with-openssl=/Applications/XAMPP/xamppfiles' '--with-expat-dir=/Applications/XAMPP/xamppfiles' '--enable-xslt=shared,/Applications/XAMPP/xamppfiles' '--with-xsl=shared,/Applications/XAMPP/xamppfiles' '--with-dom=shared,/Applications/XAMPP/xamppfiles' '--with-ldap=shared,/Applications/XAMPP/xamppfiles' '--with-gd=shared' '--with-mysql-sock=/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock' '--with-mcrypt=/Applications/XAMPP/xamppfiles' '--with-mhash=/Applications/XAMPP/xamppfiles' '--enable-sockets' '--enable-zend-multibyte' '--with-libxml-dir=/Applications/XAMPP/xamppfiles' '--enable-pcntl' '--enable-dbx=shared' '--with-mysqli=shared,/Applications/XAMPP/xamppfiles/bin/mysql_config' '--with-pear=/Applications/XAMPP/xamppfiles/lib/php/pear' '--with-mssql=/Applications/XAMPP/xamppfiles' '--with-imap-dir=/Applications/XAMPP/xamppfiles' '--with-imap=shared,/Applications/XAMPP/xamppfiles' '--enable-mbstring=shared,all' '--with-pgsql=shared,/Applications/XAMPP/xamppfiles' '--with-gettext=/Applications/XAMPP/xamppfiles' '--enable-apache2-2filter=shared' '--enable-apache2-2handler=shared' '--with-bz2=shared' '--with-curl=shared' '--with-dba=shared' '--enable-dbase=shared' '--with-fdf=shared' '--enable-mbregex' '--enable-mbregex-backtrack' '--with-mime-magic=shared' '--with-mysql=shared,/Applications/XAMPP/xamppfiles' '--enable-shmop=shared' '--with-snmp=shared' '--enable-sockets=shared' '--enable-pdo' '--with-sqlite=shared' '--enable-zip=shared,/Applications/XAMPP/xamppfiles' '--enable-exif=shared' '--with-pdo-mssql=shared,/Applications/XAMPP/xamppfiles' '--with-pdo-mysql=shared,/Applications/XAMPP/xamppfiles/bin/mysql_config' '--with-pdo-pgsql=shared,/Applications/XAMPP/xamppfiles' '--with-pdo-sqlite=shared' '--with-pdo-sqlite-external=shared' '--enable-soap=shared' '--with-xmlrpc=shared' '--with-oracle=shared' '--with-pdf=shared' '--with-sqlite3=shared,/Applications/XAMPP/xamppfiles'"
+php_sapis="cli apache2handler"
+
+# Set php_cli_binary and php_cgi_binary if available
+for sapi in $php_sapis; do
+  case $sapi in
+  cli)
+    php_cli_binary="${exec_prefix}/bin/${program_prefix}php${program_suffix}${exe_extension}"
+    ;;
+  cgi)
+    php_cgi_binary="${exec_prefix}/bin/${program_prefix}php-cgi${program_suffix}${exe_extension}"
+    ;;
+  esac
+done
+
+# Determine which (if any) php binary is available
+if test "$php_cli_binary" != "NONE"; then
+  php_binary="$php_cli_binary"
+else
+  php_binary="$php_cgi_binary"
+fi
+
+# Remove quotes
+configure_options=`echo $configure_options | $SED -e "s#'##g"`
+
+case "$1" in
+--prefix)
+  echo $prefix;;
+--includes)
+  echo $includes;;
+--ldflags)
+  echo $ldflags;;
+--libs)
+  echo $libs;;
+--extension-dir)
+  echo $extension_dir;;
+--include-dir)
+  echo $include_dir;;
+--php-binary)
+  echo $php_binary;;
+--php-sapis)
+  echo $php_sapis;;
+--configure-options)
+  echo $configure_options;;
+--version)
+  echo $version;;
+--vernum)
+  echo $vernum;;
+*)
+  cat << EOF
+Usage: $0 [OPTION]
+Options:
+  --prefix            [$prefix]
+  --includes          [$includes]
+  --ldflags           [$ldflags]
+  --libs              [$libs]
+  --extension-dir     [$extension_dir]
+  --include-dir       [$include_dir]
+  --php-binary        [$php_binary]
+  --php-sapis         [$php_sapis]
+  --configure-options [$configure_options]
+  --version           [$version]
+  --vernum            [$vernum]
+EOF
+  exit 1;;
+esac
+
+exit 0

@@ -1,0 +1,53 @@
+#!/bin/bash
+# Copyright 2002-2003 by Kai 'Oswald' Seidler, oswald@apachefriends.org, GPL-licensed
+
+if test "x$XAMPP_ROOT" = "x"
+then
+	echo "Dont call this script directly!"
+	exit 1
+fi
+
+. $XAMPP_ROOT/share/xampp/xampplib
+
+if test "$1" = "check"
+then    
+        check="true"
+else    
+        check="false"
+fi
+
+bon="[1m"
+boff="[m"
+
+if test -f $XAMPP_ROOT/htdocs/xampp/.htaccess
+then
+    $check && exit 0
+
+	echo "XAMPP: ${bon}" $($GETTEXT 'Your XAMPP pages are secured by a password.') "${boff}"
+	q=$($GETTEXT 'Do you want to change the password anyway?')
+	ask="askn";
+else
+        $check && exit 1
+
+	echo "XAMPP: ${bon}" $($GETTEXT 'Your XAMPP pages are NOT secured by a password.') "${boff}"
+	q=$($GETTEXT 'Do you want to set a password?')
+	ask="asky";
+fi
+
+if $ask "$q"
+then
+	word=$(askp "$($GETTEXT 'Password:')" "$($GETTEXT 'Password (again):')")
+
+	cat << EOT > $XAMPP_ROOT/htdocs/xampp/.htaccess
+AuthName "xampp user"                 
+AuthType Basic    
+AuthUserFile $XAMPP_ROOT/lib/xampp.users
+require valid-user                    
+EOT
+	cp $XAMPP_ROOT/htdocs/xampp/.htaccess $XAMPP_ROOT/htdocs/webalizer/.htaccess
+	cp $XAMPP_ROOT/htdocs/xampp/.htaccess $XAMPP_ROOT/phpmyadmin/.htaccess
+	echo "xampp:$word" > $XAMPP_ROOT/lib/xampp.users
+	chmod a+r $XAMPP_ROOT/htdocs/xampp/.htaccess $XAMPP_ROOT/htdocs/webalizer/.htaccess $XAMPP_ROOT/phpmyadmin/.htaccess 
+	chmod a+r $XAMPP_ROOT/lib/xampp.users
+	echo "XAMPP: " $($GETTEXT "Password protection active. Please use 'xampp' as user name!")
+fi

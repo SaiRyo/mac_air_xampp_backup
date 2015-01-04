@@ -1,0 +1,12 @@
+prefix=/Applications/XAMPP/xamppfiles
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+
+Name: libxslt
+Version: 1.1.24
+Description: XSLT library version 2.
+Requires: libxml-2.0
+Libs: -L${libdir} -lxslt  -L/Applications/XAMPP/xamppfiles/lib -lxml2 -lz -lpthread -liconv -lm 
+Cflags: -I${includedir}

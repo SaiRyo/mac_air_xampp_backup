@@ -1,0 +1,20 @@
+#!/bin/bash
+# Copyright 2002-2003 by Kai 'Oswald' Seidler, oswald@apachefriends.org, GPL-licensed
+
+if test "x$XAMPP_ROOT" = "x"
+then
+	echo "Dont call this script directly!"
+	exit 1
+fi
+
+. $XAMPP_ROOT/share/xampp/xampplib
+
+echo "XAMPP: " $($GETTEXT "Quick security check...")
+
+/Applications/XAMPP/xamppfiles/share/xampp/checkapache
+/Applications/XAMPP/xamppfiles/share/xampp/checkmysqlport
+/Applications/XAMPP/xamppfiles/share/xampp/checkpmamysqluser
+/Applications/XAMPP/xamppfiles/share/xampp/checkmysql
+/Applications/XAMPP/xamppfiles/share/xampp/checkftppassword
+
+echo "XAMPP: " $($GETTEXT "Done.")

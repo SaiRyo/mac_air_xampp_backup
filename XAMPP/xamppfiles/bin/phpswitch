@@ -1,0 +1,252 @@
+#!/bin/bash
+
+osguess() {
+	if test -f /etc/redhat-release
+	then
+		if egrep "9 " /etc/redhat-release > /dev/null
+		then
+			echo "rh9"
+			return 0
+		fi
+	elif test "$(uname)" = "Darwin"
+	then
+		echo "macosx"
+		return 0
+	else
+		if test -f /etc/vfstab
+		then
+			echo "solaris"
+			return 0
+		else
+			echo "linux"
+			return 0
+		fi
+	fi
+}
+
+case $(osguess) in
+	solaris)
+		XAMPP_OS="Solaris"
+		XAMPP_ROOT="/opt/xampp"
+		;;
+	linux|rh9)
+		XAMPP_OS="Linux"
+		XAMPP_ROOT="/opt/lampp"
+		;;
+	macosx)
+		XAMPP_OS="Mac OS X"
+		XAMPP_ROOT="/Applications/XAMPP/xamppfiles/"
+		;;
+esac
+
+export XAMPP_OS
+export XAMPP_ROOT
+
+. $XAMPP_ROOT/share/xampp/xampplib
+
+function showHelp() {
+	printf "$($GETTEXT 'Usage: %s <action>')\n" "$(basename $0)"
+	echo "  activate <version> - " "$($GETTEXT 'Activate the given PHP version')"
+	echo "  active             - " "$($GETTEXT 'Show the active PHP version')"
+	echo "  install <file>     - " "$($GETTEXT 'Install a given PHP version')"
+	echo "  list               - " "$($GETTEXT 'Show all installed PHP versions')"
+	echo "  remove  <version>  - " "$($GETTEXT 'Remove a given PHP version')"
+	echo "  help               - " "$($GETTEXT 'Show this help message')"
+}
+
+function phpVersions() {
+	find "$XAMPP_ROOT/bin/" -name "php-[0-9]*" | awk -F- '{print $NF}' | sort | uniq
+}
+
+function activePHPVersion() {
+	readlink "$XAMPP_ROOT/bin/php" | cut -d "-" -f 2
+}
+
+function listAvaiable() {
+	activePHPVersion=$(activePHPVersion)
+	
+	echo $($GETTEXT "Installed PHP Versions:")
+	
+	for version in $(phpVersions); do
+		echo -n "    $version"
+		
+		if test "$version" = "$activePHPVersion"; then
+			echo -n " " "$($GETTEXT '(active)')"
+		fi
+		
+		if ! test -e "$XAMPP_ROOT/share/xampp/phpVersions/$version/"; then
+			echo -n " " "$($GETTEXT '(not removable)')"
+		fi
+		
+		echo
+		
+	done	
+}
+
+function activatePHP() {
+	version="$1"
+	
+	if test "$version" = "$(activePHPVersion)"; then
+		printf "$($GETTEXT 'PHP %s is already active.')\n" $version
+		exit 0
+	fi
+	
+	if ! echo "$(phpVersions)" | grep -q "^$version$"; then
+		printf "$($GETTEXT 'PHP %s is not installed.')\n" $version
+		exit 1
+	fi
+	
+	printf "$($GETTEXT 'Activate PHP %s...')" $version
+	
+	cd "$XAMPP_ROOT/bin"
+	
+	rm php phpize phpextdist php-config 2> /dev/null
+	
+	(ln -s php{-$version,} 2> /dev/null &&
+	ln -s phpize{-$version,} 2> /dev/null &&
+	ln -s phpextdist{-$version,} 2> /dev/null &&
+	ln -s php-config{-$version,} 2> /dev/null &&
+	
+	mv $XAMPP_ROOT/etc/extra/httpd-xampp.conf $XAMPP_ROOT/etc/extra/httpd-xampp.conf.bak &&
+	sed -E "s/LoadModule php[0-9]*_module[ \t]+modules\/libphp-[0-9].*.so/LoadModule php5_module modules\/libphp-$version.so/" $XAMPP_ROOT/etc/extra/httpd-xampp.conf.bak > $XAMPP_ROOT/etc/extra/httpd-xampp.conf &&
+	
+	$XAMPP_ROOT/bin/httpd -t -DPHP > /dev/null 2>&1 &&
+	
+	$GETTEXT -s "ok.") || ($GETTEXT -s "fail."; exit 1)
+
+	"$XAMPP_ROOT/xampp" restartapache
+}
+
+function installPHP()
+{
+	file="$1"
+	version=""
+	
+	trap "{ rm -rf /tmp/xampp-phpswitch.$$; }" EXIT
+	
+	printf "$($GETTEXT 'Extract %s...')" "$file"
+	
+	mkdir /tmp/xampp-phpswitch.$$
+	
+	output=$(tar xvfz "$1" -C /tmp/xampp-phpswitch.$$/ 2>&1)
+	
+	if test $? -ne 0; then
+		$GETTEXT -s "fail."
+		echo "$output"
+		exit 1
+	fi
+	
+	$GETTEXT -s "ok."
+	
+	if ! test -f "/tmp/xampp-phpswitch.$$/PHP_VERSION"; then
+		$GETTEXT -s "Not an XAMPP PHP!"
+		exit 1
+	fi
+	
+	version=$(cat /tmp/xampp-phpswitch.$$/PHP_VERSION)
+	
+	text=$(printf "$($GETTEXT 'Install %s...')" "$version")
+	
+	echo -n "$text"
+	
+	if echo "$(phpVersions)" | grep -q "^$version$"; then
+		$GETTEXT -s "already installed."
+		exit 1
+	fi
+	
+	mkdir -p "$XAMPP_ROOT/share/xampp/phpVersions/$version/"
+	
+	output=$(tar xvfz /tmp/xampp-phpswitch.$$/content.tar.gz -C "$XAMPP_ROOT" --index-file "$XAMPP_ROOT/share/xampp/phpVersions/$version/files" 2>&1)
+	
+	if test $? -ne 0; then
+		$GETTEXT -s "fail."
+		echo "$output"
+		exit 1
+	fi
+		
+	echo -n -e "\r$text"
+	$GETTEXT -s "ok."
+}
+
+function removePHP() {
+	version="$1"
+	
+	printf "$($GETTEXT 'Remove %s...')" "$version"
+	
+	if test "$version" = "$(activePHPVersion)"; then
+		$GETTEXT -s "fail."
+		printf "$($GETTEXT 'PHP %s is currently active. Please activate another PHP.')\n" $version
+		exit 1
+	fi
+	
+	if ! echo "$(phpVersions)" | grep -q "^$version$"; then
+		$GETTEXT -s "not installed."
+		exit 0
+	fi
+	
+	if ! test -e "$XAMPP_ROOT/share/xampp/phpVersions/$version/"; then
+		$GETTEXT -s "fail."
+		printf "$($GETTEXT 'PHP %s is not removable.')\n" $version
+		exit 1
+	fi
+	
+	filesToRemove[0]=""
+	c=0
+	
+	while read line
+	do
+		filesToRemove[c]=$line
+		let c++
+	done < "$XAMPP_ROOT/share/xampp/phpVersions/$version/files"
+	
+	let len=c-1
+	
+	for (( i=$len; i>=0; i-- ));
+	do
+		rm ${filesToRemove[$i]} > /dev/null 2>&1
+	done
+	
+	$GETTEXT -s "ok."
+}
+
+case $1 in
+	list)
+		listAvaiable
+		;;
+    active)
+    	printf "$($GETTEXT 'PHP %s is active.')\n" $(activePHPVersion)
+    	;;
+    activate)
+    	if [[ $# -lt 2 ]]; then
+    		showHelp
+    		exit 1;
+    	fi
+    	
+    	checkRoot
+    	
+    	activatePHP $2
+    	;;
+    install)
+    	if [[ $# -lt 2 ]]; then
+    		showHelp
+    		exit 1;
+    	fi
+    	
+    	checkRoot
+    	
+    	installPHP $2
+    	;;
+    remove)
+    	if [[ $# -lt 2 ]]; then
+    		showHelp
+    		exit 1;
+    	fi
+    	
+    	checkRoot
+    	
+    	removePHP $2
+    	;;
+	help|*)
+		showHelp
+		;;
+esac

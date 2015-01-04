@@ -1,0 +1,6 @@
+root admin 644 /Applications/XAMPP/xamppfiles/include/ltdl.h
+root admin 755 /Applications/XAMPP/xamppfiles/lib/libltdl.3.1.5.dylib
+root admin 755 /Applications/XAMPP/xamppfiles/lib/libltdl.3.dylib
+root admin 644 /Applications/XAMPP/xamppfiles/lib/libltdl.a
+root admin 755 /Applications/XAMPP/xamppfiles/lib/libltdl.dylib
+root admin 755 /Applications/XAMPP/xamppfiles/lib/libltdl.la
